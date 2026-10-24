@@ -1,0 +1,472 @@
+{
+ "schemaVersion": 1,
+ "id": "R-U05",
+ "skill": "reading",
+ "title": "Reading: YES/NO/NOT GIVEN nâng cao — quan điểm của ai",
+ "objective": "Học xong bài này, bạn sẽ phân biệt được quan điểm của chính tác giả với ý kiến được gán cho người khác và nhận ra bẫy nói quá mức trong câu YES/NO/NOT GIVEN.",
+ "minutes": 7,
+ "ruleCardId": "RC-YNNG",
+ "passage": {
+  "id": "P-N09",
+  "title": "Why the Office Should No Longer Be the Default",
+  "genre": "opinion",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N09-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Five years after remote work became a necessity for many office staff, some managers still treat it as a temporary experiment, but in my view that debate is over."
+     },
+     {
+      "index": 2,
+      "text": "For most knowledge workers, working from home most of the week should now be the standard arrangement, not a favour granted by employers."
+     },
+     {
+      "index": 3,
+      "text": "The evidence from my own company is hard to ignore: since we adopted a remote-first policy, output per employee has risen while office costs have fallen sharply."
+     }
+    ]
+   },
+   {
+    "id": "P-N09-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Sceptics often argue that creativity suffers when colleagues no longer meet around the same table."
+     },
+     {
+      "index": 2,
+      "text": "I accept that chance conversations can spark ideas, yet I remain convinced that planned workshops generate more useful ideas than accidental meetings in corridors."
+     },
+     {
+      "index": 3,
+      "text": "Critics also worry that junior staff will be forgotten if they are rarely seen in the office."
+     },
+     {
+      "index": 4,
+      "text": "That risk is real, and it is why remote companies must judge employees by results rather than by how visible they are."
+     }
+    ]
+   },
+   {
+    "id": "P-N09-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "None of this means the office should disappear altogether."
+     },
+     {
+      "index": 2,
+      "text": "Teams still benefit from meeting in person for training, for difficult negotiations and for welcoming new colleagues."
+     },
+     {
+      "index": 3,
+      "text": "Employers should therefore keep smaller offices for these purposes, while allowing staff to do their focused work wherever they are most productive."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "P-N10",
+  "title": "A Manager Changes Her Mind",
+  "genre": "opinion",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N10-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "When my team first moved to hybrid working, I expected communication to become slower and less reliable."
+     },
+     {
+      "index": 2,
+      "text": "Two years on, I have to admit that the opposite has happened, and our weekly reports are now finished earlier than before."
+     },
+     {
+      "index": 3,
+      "text": "Some of my fellow managers claim that clients prefer face-to-face meetings, though our own clients have never actually said this to us."
+     },
+     {
+      "index": 4,
+      "text": "What matters most to me is that younger colleagues now speak up more in online meetings than they ever did in the boardroom."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0009",
+   "questionType": "ynng",
+   "unitId": "R-U05",
+   "passageId": "P-N09",
+   "stem": "The writer believes working from home should be the normal arrangement for most knowledge workers.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "paraphrase-structural"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "YES",
+   "evidence": {
+    "paragraphId": "P-N09-p1",
+    "sentenceIndex": 2,
+    "quote": "For most knowledge workers, working from home most of the week should now be the standard arrangement, not a favour granted by employers."
+   },
+   "writerViewQuote": "For most knowledge workers, working from home most of the week should now be the standard arrangement, not a favour granted by employers.",
+   "explanation": {
+    "whyCorrect": "Đoạn một viết làm việc từ xa 'should now be the standard arrangement' cho hầu hết nhân viên tri thức, đúng ý câu hỏi.",
+    "whyWrong": "Không phải NOT GIVEN vì tác giả nêu thẳng quan điểm bằng cụm 'in my view' ngay từ đoạn một.",
+    "trap": "Cụm 'not a favour granted by employers' dễ bị đọc lướt thành phủ định; thực ra nó nhấn mạnh đây là cách làm mặc định."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0010",
+   "questionType": "ynng",
+   "unitId": "R-U05",
+   "passageId": "P-N09",
+   "stem": "The writer thinks accidental corridor conversations are the best source of new ideas.",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "ynng",
+    "quantifier"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "NO",
+   "evidence": {
+    "paragraphId": "P-N09-p2",
+    "sentenceIndex": 2,
+    "quote": "I accept that chance conversations can spark ideas, yet I remain convinced that planned workshops generate more useful ideas than accidental meetings in corridors."
+   },
+   "writerViewQuote": "I accept that chance conversations can spark ideas, yet I remain convinced that planned workshops generate more useful ideas than accidental meetings in corridors.",
+   "explanation": {
+    "whyCorrect": "Tác giả viết workshop có kế hoạch 'generate more useful ideas than accidental meetings', ngược với khẳng định cuộc gặp tình cờ là nguồn ý tưởng tốt nhất.",
+    "whyWrong": "Không phải NOT GIVEN vì tác giả so sánh trực tiếp hai nguồn ý tưởng và nghiêng hẳn về workshop có kế hoạch.",
+    "trap": "Bài thừa nhận nói chuyện tình cờ 'can spark ideas' nhưng không hề nói đó là nguồn tốt nhất; câu hỏi đã nâng mức lên 'the best'."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0011",
+   "questionType": "ynng",
+   "unitId": "R-U05",
+   "passageId": "P-N09",
+   "stem": "The writer believes companies should sell all of their office buildings.",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "ynng",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "NOT GIVEN",
+   "nearMiss": {
+    "paragraphId": "P-N09-p3",
+    "sentenceIndex": 3,
+    "quote": "Employers should therefore keep smaller offices for these purposes, while allowing staff to do their focused work wherever they are most productive.",
+    "whyNotEnough": "Tác giả nói nên giữ văn phòng nhỏ hơn cho một số mục đích, nhưng không nhắc đến việc bán bất kỳ tòa nhà nào."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "sell",
+     "all of their office buildings",
+     "keep smaller offices"
+    ],
+    "result": "Không câu nào nói về việc bán tòa nhà văn phòng."
+   },
+   "explanation": {
+    "whyCorrect": "Bài không hề nhắc chuyện bán tòa nhà; tác giả chỉ bàn việc giữ văn phòng nhỏ hơn cho đào tạo, đàm phán và đón nhân viên mới.",
+    "whyWrong": "Không phải YES vì không câu nào ủng hộ bán hết. Không phải NO vì tác giả cũng không nói phải giữ nguyên mọi tòa nhà hiện tại.",
+    "trap": "Câu 'the office should disappear altogether' xuất hiện dưới dạng phủ định khiến người đọc dễ suy ngược thành chủ trương bán hết văn phòng."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-0009",
+   "questionType": "mcq",
+   "unitId": "R-U05",
+   "passageId": "P-N09",
+   "stem": "According to the writer, remote companies should judge employees by",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "the results they produce"
+    },
+    {
+     "id": "b",
+     "text": "how often managers see them in the office",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "the number of workshops they attend",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "how quickly they answer messages at home",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N09-p2",
+    "sentenceIndex": 4,
+    "quote": "That risk is real, and it is why remote companies must judge employees by results rather than by how visible they are."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn hai viết các công ty làm việc từ xa phải đánh giá nhân viên 'by results rather than by how visible they are'.",
+    "whyWrong": "Lựa chọn b chính là vế bị tác giả loại bỏ. Lựa chọn c mượn từ 'workshops' ở câu khác. Lựa chọn d không xuất hiện trong bài.",
+    "trap": "Lựa chọn sai mượn đúng từ khóa của bài như 'workshops' và 'visible' rồi đảo vai trò của chúng trong câu."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-SEN-0009",
+   "questionType": "sentence",
+   "unitId": "R-U05",
+   "passageId": "P-N09",
+   "stem": "Since the company adopted a remote-first policy, {{1}} per employee has risen.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "output"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N09-p1",
+      "sentenceIndex": 3,
+      "quote": "The evidence from my own company is hard to ignore: since we adopted a remote-first policy, output per employee has risen while office costs have fallen sharply."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "productivity",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Từ cần điền nằm nguyên trong câu nguồn: 'output per employee has risen'.",
+    "whyWrong": "Đáp án phải là từ nguyên trong bài; 'productivity' sát ý chung nhưng không phải từ bài dùng ở câu này.",
+    "trap": "Câu hỏi giữ nguyên khung 'per employee has risen' nên chỉ cần khớp đúng một từ trong bài, không cần hiểu cả đoạn."
+   }
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0501",
+   "questionType": "ynng",
+   "unitId": "R-U05",
+   "passageId": "P-N10",
+   "stem": "The writer believes communication in her team has improved since hybrid working began.",
+   "correct": "YES",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "paraphrase-structural"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu hai nói điều ngược lại với lo ngại ban đầu về giao tiếp đã xảy ra, và báo cáo tuần nay hoàn thành sớm hơn trước.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N10-p1",
+    "sentenceIndex": 2,
+    "quote": "Two years on, I have to admit that the opposite has happened, and our weekly reports are now finished earlier than before."
+   },
+   "writerViewQuote": "Two years on, I have to admit that the opposite has happened, and our weekly reports are now finished earlier than before."
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0502",
+   "questionType": "ynng",
+   "unitId": "R-U05",
+   "passageId": "P-N10",
+   "stem": "The writer thinks younger colleagues contribute less in online meetings than in the boardroom.",
+   "correct": "NO",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết đồng nghiệp trẻ 'speak up more in online meetings than they ever did in the boardroom', ngược với 'contribute less'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N10-p1",
+    "sentenceIndex": 4,
+    "quote": "What matters most to me is that younger colleagues now speak up more in online meetings than they ever did in the boardroom."
+   },
+   "writerViewQuote": "What matters most to me is that younger colleagues now speak up more in online meetings than they ever did in the boardroom."
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0503",
+   "questionType": "ynng",
+   "unitId": "R-U05",
+   "passageId": "P-N10",
+   "stem": "The writer believes clients prefer face-to-face meetings.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "ynng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Cụm 'clients prefer face-to-face meetings' là lời của các quản lý khác; chính tác giả chỉ ghi nhận khách hàng chưa từng nói vậy với mình.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "nearMiss": {
+    "paragraphId": "P-N10-p1",
+    "sentenceIndex": 3,
+    "quote": "Some of my fellow managers claim that clients prefer face-to-face meetings, though our own clients have never actually said this to us.",
+    "whyNotEnough": "Bài ghi lại lời khẳng định của các quản lý khác và nói khách hàng chưa từng bày tỏ điều đó, nhưng không nêu quan điểm của tác giả về sở thích của khách hàng."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "clients",
+     "prefer",
+     "face-to-face"
+    ],
+    "result": "Không câu nào nêu quan điểm của tác giả về việc khách hàng thích gặp trực tiếp hay không."
+   }
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "Remote companies must judge employees by results.",
+  "instruction": "Bắt đầu bằng: Employees should be judged …",
+  "mustContain": [
+   "judged"
+  ],
+  "mustNotContain": [
+   "must judge"
+  ],
+  "samples": [
+   "Employees should be judged by results."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

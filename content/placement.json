@@ -1,0 +1,1720 @@
+{
+ "schemaVersion": 1,
+ "contentVersion": 1,
+ "kind": "placement-bank",
+ "passages": [
+  {
+   "id": "PL-PA",
+   "title": "The Night Train Returns",
+   "sentences": [
+    "After decades of decline, night trains are returning to European railways.",
+    "In the 1980s and 1990s, cheap flights and faster daytime trains led many companies to cancel overnight services.",
+    "Now, concern about the climate is changing travellers' habits.",
+    "A sleeper train produces far less carbon dioxide per passenger than a short flight, and passengers can sleep while they travel, arriving in a city centre rather than at a distant airport.",
+    "Tickets, however, are not always cheap: a private cabin on a popular route can cost more than a hotel room.",
+    "Operators say demand is strongest among younger travellers, who book early to find lower prices."
+   ]
+  },
+  {
+   "id": "PL-PB",
+   "title": "Salt: A Short History",
+   "sentences": [
+    "For most of human history, salt was far more than a seasoning.",
+    "Because it could preserve food, it was essential for survival, and in some regions it was used as money.",
+    "Roman soldiers are sometimes said to have been paid in salt, which is where the English word 'salary' comes from.",
+    "Salt was so valuable that governments taxed it heavily, and in several countries these taxes caused public anger.",
+    "The invention of refrigeration in the nineteenth century reduced salt's importance for preserving food.",
+    "Today salt is cheap and plentiful, and doctors instead warn that eating too much of it can raise blood pressure."
+   ]
+  }
+ ],
+ "clips": [
+  {
+   "id": "PL-LA",
+   "title": "Joining the library",
+   "lines": [
+    {
+     "speaker": "Librarian",
+     "text": "Good morning. Would you like to join the library?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "Yes, please. My name is Marta Kovac. That is K-O-V-A-C."
+    },
+    {
+     "speaker": "Librarian",
+     "text": "And a contact number, please?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "My mobile is 07742 815309."
+    },
+    {
+     "speaker": "Librarian",
+     "text": "Thank you. Your card will be ready on Thursday. Please note that the library closes early, at five o'clock, on Wednesdays."
+    }
+   ]
+  },
+  {
+   "id": "PL-LB",
+   "title": "Museum exhibition",
+   "lines": [
+    {
+     "speaker": "Guide",
+     "text": "Welcome to the City Museum. Our new exhibition, Oceans of Plastic, opens this Friday and runs until the end of March."
+    },
+    {
+     "speaker": "Guide",
+     "text": "The exhibition includes photographs from thirty countries and a full-size boat built entirely from plastic bottles collected on local beaches."
+    },
+    {
+     "speaker": "Guide",
+     "text": "On Saturday afternoons, visitors can join a free workshop where artists show how waste materials can be turned into useful objects."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Please note that the museum cafe will be closed during February for repairs, although the shop will remain open."
+    }
+   ]
+  },
+  {
+   "id": "PL-LC",
+   "title": "Photography course",
+   "lines": [
+    {
+     "speaker": "Man",
+     "text": "Hello, I would like to ask about the photography course."
+    },
+    {
+     "speaker": "Woman",
+     "text": "Of course. The course begins on Tuesday the twelfth. No, sorry, it begins on Wednesday the thirteenth, because the studio is being painted."
+    },
+    {
+     "speaker": "Man",
+     "text": "And how much does it cost?"
+    },
+    {
+     "speaker": "Woman",
+     "text": "It is one hundred and eighty pounds for eight weeks. Students need to bring their own camera, but all other materials are included."
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "PL-R-01",
+   "group": "reading",
+   "questionType": "tfng",
+   "difficulty": 1,
+   "stem": "Night trains are becoming popular again in Europe.",
+   "correct": "TRUE",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu đầu bài nói night trains đang quay lại đường sắt châu Âu.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PA"
+  },
+  {
+   "id": "PL-R-02",
+   "group": "reading",
+   "questionType": "tfng",
+   "difficulty": 2,
+   "stem": "Night trains produce more carbon dioxide per passenger than short flights.",
+   "correct": "FALSE",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói sleeper train thải ít carbon hơn nhiều so với chuyến bay ngắn.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PA"
+  },
+  {
+   "id": "PL-R-03",
+   "group": "reading",
+   "questionType": "tfng",
+   "difficulty": 3,
+   "stem": "Most night train passengers are business travellers.",
+   "correct": "NOT GIVEN",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài chỉ nói nhu cầu mạnh nhất ở người trẻ, không nói đa số hành khách là ai.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PA"
+  },
+  {
+   "id": "PL-R-04",
+   "group": "reading",
+   "questionType": "mcq",
+   "difficulty": 2,
+   "stem": "One advantage of a sleeper train mentioned in the passage is that passengers arrive",
+   "correct": "in a city centre",
+   "options": [
+    "at a distant airport",
+    "in a city centre",
+    "at a cheaper hotel",
+    "in a private cabin"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói hành khách đến trung tâm thành phố thay vì sân bay xa.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PA"
+  },
+  {
+   "id": "PL-R-05",
+   "group": "reading",
+   "questionType": "mcq",
+   "difficulty": 4,
+   "stem": "Many overnight services were cancelled in the 1980s and 1990s because of",
+   "correct": "cheap flights and faster daytime trains",
+   "options": [
+    "climate concerns",
+    "expensive tickets",
+    "cheap flights and faster daytime trains",
+    "younger travellers"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu 2 nêu hai lý do trực tiếp: chuyến bay rẻ và tàu ngày nhanh hơn.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PA"
+  },
+  {
+   "id": "PL-R-06",
+   "group": "reading",
+   "questionType": "sentence",
+   "difficulty": 1,
+   "stem": "Passengers can {{1}} while they travel on a sleeper train.",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết 'passengers can sleep while they travel'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "sleep"
+     ],
+     "maxWords": 1
+    }
+   },
+   "passageId": "PL-PA"
+  },
+  {
+   "id": "PL-R-07",
+   "group": "reading",
+   "questionType": "sentence",
+   "difficulty": 3,
+   "stem": "A private cabin on a popular route can cost more than a {{1}} room.",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết 'can cost more than a hotel room'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "hotel"
+     ],
+     "maxWords": 1
+    }
+   },
+   "passageId": "PL-PA"
+  },
+  {
+   "id": "PL-R-08",
+   "group": "reading",
+   "questionType": "tfng",
+   "difficulty": 1,
+   "stem": "Salt was used as money in some regions.",
+   "correct": "TRUE",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu 2 nói ở một số vùng muối được dùng làm tiền.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PB"
+  },
+  {
+   "id": "PL-R-09",
+   "group": "reading",
+   "questionType": "tfng",
+   "difficulty": 2,
+   "stem": "The English word 'salary' is connected to salt.",
+   "correct": "TRUE",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu 3 nói từ salary bắt nguồn từ việc trả bằng muối.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PB"
+  },
+  {
+   "id": "PL-R-10",
+   "group": "reading",
+   "questionType": "tfng",
+   "difficulty": 4,
+   "stem": "Salt taxes were popular with the public.",
+   "correct": "FALSE",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói thuế muối gây phẫn nộ trong công chúng ở vài nước.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PB"
+  },
+  {
+   "id": "PL-R-11",
+   "group": "reading",
+   "questionType": "tfng",
+   "difficulty": 5,
+   "stem": "Refrigeration was invented in France.",
+   "correct": "NOT GIVEN",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói tủ lạnh ra đời ở thế kỷ 19 nhưng không nói ở nước nào.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PB"
+  },
+  {
+   "id": "PL-R-12",
+   "group": "reading",
+   "questionType": "mcq",
+   "difficulty": 3,
+   "stem": "Salt was essential for survival mainly because it",
+   "correct": "could preserve food",
+   "options": [
+    "was used as money",
+    "could preserve food",
+    "was taxed by governments",
+    "made food taste better"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu 2: vì bảo quản được thực phẩm nên muối thiết yếu cho sự sống còn.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PB"
+  },
+  {
+   "id": "PL-R-13",
+   "group": "reading",
+   "questionType": "mcq",
+   "difficulty": 5,
+   "stem": "Doctors today warn that eating too much salt can",
+   "correct": "raise blood pressure",
+   "options": [
+    "lower blood pressure",
+    "damage eyesight",
+    "raise blood pressure",
+    "cause memory loss"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu cuối nói thẳng việc ăn nhiều muối làm tăng huyết áp.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "PL-PB"
+  },
+  {
+   "id": "PL-R-14",
+   "group": "reading",
+   "questionType": "sentence",
+   "difficulty": 4,
+   "stem": "In the past, governments {{1}} salt heavily.",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết 'governments taxed it heavily'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "taxed"
+     ],
+     "maxWords": 1
+    }
+   },
+   "passageId": "PL-PB"
+  },
+  {
+   "id": "PL-R-15",
+   "group": "reading",
+   "questionType": "sentence",
+   "difficulty": 5,
+   "stem": "Eating too much salt can raise blood {{1}}.",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Cụm cố định trong bài: 'raise blood pressure'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "pressure"
+     ],
+     "maxWords": 1
+    }
+   },
+   "passageId": "PL-PB"
+  },
+  {
+   "id": "PL-L-01",
+   "group": "listening",
+   "questionType": "form",
+   "difficulty": 1,
+   "stem": "What is the woman's surname?",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Người phụ nữ đánh vần họ: K-O-V-A-C.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Kovac"
+     ],
+     "maxWords": 1
+    }
+   },
+   "audioId": "PL-LA"
+  },
+  {
+   "id": "PL-L-02",
+   "group": "listening",
+   "questionType": "form",
+   "difficulty": 2,
+   "stem": "What is the woman's mobile number?",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Số được đọc rõ: 07742 815309.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "07742815309",
+      "07742 815309"
+     ],
+     "maxWords": 1
+    }
+   },
+   "audioId": "PL-LA"
+  },
+  {
+   "id": "PL-L-03",
+   "group": "listening",
+   "questionType": "mcq",
+   "difficulty": 2,
+   "stem": "The woman's library card will be ready on",
+   "correct": "Thursday",
+   "options": [
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Người thủ thư nói thẻ sẵn sàng vào thứ Năm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "PL-LA"
+  },
+  {
+   "id": "PL-L-04",
+   "group": "listening",
+   "questionType": "form",
+   "difficulty": 3,
+   "stem": "On which day does the library close early?",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Thư viện đóng sớm vào các ngày thứ Tư.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Wednesday",
+      "Wednesdays"
+     ],
+     "maxWords": 1
+    }
+   },
+   "audioId": "PL-LA"
+  },
+  {
+   "id": "PL-L-05",
+   "group": "listening",
+   "questionType": "form",
+   "difficulty": 4,
+   "stem": "At what time does the library close on that day?",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Giờ đóng sớm là five o'clock.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "five o'clock",
+      "five",
+      "5 pm",
+      "5pm"
+     ],
+     "maxWords": 2
+    }
+   },
+   "audioId": "PL-LA"
+  },
+  {
+   "id": "PL-L-06",
+   "group": "listening",
+   "questionType": "form",
+   "difficulty": 1,
+   "stem": "On which day does the exhibition open?",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Triển lãm mở vào thứ Sáu này.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Friday",
+      "this Friday"
+     ],
+     "maxWords": 2
+    }
+   },
+   "audioId": "PL-LB"
+  },
+  {
+   "id": "PL-L-07",
+   "group": "listening",
+   "questionType": "form",
+   "difficulty": 3,
+   "stem": "The exhibition runs until the end of which month?",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói triển lãm kéo dài đến cuối tháng Ba.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "March"
+     ],
+     "maxWords": 1
+    }
+   },
+   "audioId": "PL-LB"
+  },
+  {
+   "id": "PL-L-08",
+   "group": "listening",
+   "questionType": "mcq",
+   "difficulty": 2,
+   "stem": "The full-size boat in the exhibition is made from",
+   "correct": "plastic bottles",
+   "options": [
+    "wood from old ships",
+    "plastic bottles",
+    "fishing nets",
+    "recycled glass"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Thuyền được làm hoàn toàn từ chai nhựa nhặt ở bãi biển.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "PL-LB"
+  },
+  {
+   "id": "PL-L-09",
+   "group": "listening",
+   "questionType": "mcq",
+   "difficulty": 3,
+   "stem": "The free workshop takes place on",
+   "correct": "Saturday afternoons",
+   "options": [
+    "Friday mornings",
+    "Saturday afternoons",
+    "Sunday afternoons",
+    "weekday evenings"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Workshop miễn phí diễn vào chiều thứ Bảy.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "PL-LB"
+  },
+  {
+   "id": "PL-L-10",
+   "group": "listening",
+   "questionType": "form",
+   "difficulty": 5,
+   "stem": "During which month will the museum cafe be closed?",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Cafe đóng trong tháng Hai để sửa chữa; shop vẫn mở.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "February"
+     ],
+     "maxWords": 1
+    }
+   },
+   "audioId": "PL-LB"
+  },
+  {
+   "id": "PL-L-11",
+   "group": "listening",
+   "questionType": "form",
+   "difficulty": 5,
+   "stem": "On which day does the photography course begin?",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement",
+    "distractor-corrected"
+   ],
+   "explanation": {
+    "whyCorrect": "Người nói tự sửa: thứ Ba, xin lỗi, thứ Tư ngày 13. Giá trị cuối cùng mới đúng.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Wednesday",
+      "Wednesday the thirteenth"
+     ],
+     "maxWords": 3
+    }
+   },
+   "audioId": "PL-LC"
+  },
+  {
+   "id": "PL-L-12",
+   "group": "listening",
+   "questionType": "form",
+   "difficulty": 4,
+   "stem": "How much does the photography course cost?",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Giá khóa học là 180 bảng.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "180 pounds",
+      "one hundred and eighty pounds",
+      "£180",
+      "180"
+     ],
+     "maxWords": 5
+    }
+   },
+   "audioId": "PL-LC"
+  },
+  {
+   "id": "PL-L-13",
+   "group": "listening",
+   "questionType": "mcq",
+   "difficulty": 1,
+   "stem": "The photography course lasts",
+   "correct": "eight weeks",
+   "options": [
+    "four weeks",
+    "six weeks",
+    "eight weeks",
+    "ten weeks"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Khóa học kéo dài tám tuần.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "PL-LC"
+  },
+  {
+   "id": "PL-L-14",
+   "group": "listening",
+   "questionType": "mcq",
+   "difficulty": 4,
+   "stem": "Students need to bring their own",
+   "correct": "camera",
+   "options": [
+    "notebook",
+    "camera",
+    "tripod",
+    "laptop"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Học viên tự mang máy ảnh; tài liệu khác đã gồm trong giá.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "PL-LC"
+  },
+  {
+   "id": "PL-L-15",
+   "group": "listening",
+   "questionType": "mcq",
+   "difficulty": 5,
+   "stem": "The start day changed because",
+   "correct": "the studio is being painted",
+   "options": [
+    "the teacher was ill",
+    "the room was full",
+    "the studio is being painted",
+    "the course was too popular"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Ngày đổi vì studio đang được sơn.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "PL-LC"
+  },
+  {
+   "id": "PL-V-01",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 1,
+   "stem": "The opposite of 'ancient' is",
+   "correct": "modern",
+   "options": [
+    "modern",
+    "old",
+    "early",
+    "late"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "'Ancient' nghĩa là cổ xưa; trái nghĩa là 'modern'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-02",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 1,
+   "stem": "She ___ to school by bus every day.",
+   "correct": "goes",
+   "options": [
+    "goes",
+    "go",
+    "going",
+    "went"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Thói quen hằng ngày, chủ ngữ số ít: hiện tại đơn 'goes'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-03",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 2,
+   "stem": "In academic writing, a common synonym of 'important' is",
+   "correct": "significant",
+   "options": [
+    "funny",
+    "significant",
+    "quick",
+    "noisy"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "'Significant' là từ học thuật thay cho 'important'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-04",
+   "group": "vocab",
+   "questionType": "form",
+   "difficulty": 1,
+   "stem": "What is the past simple form of 'teach'?",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Quá khứ của 'teach' là 'taught'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "taught"
+     ],
+     "maxWords": 1
+    }
+   }
+  },
+  {
+   "id": "PL-V-05",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 2,
+   "stem": "The new law will have a serious ___ on small businesses.",
+   "correct": "effect",
+   "options": [
+    "affect",
+    "effect",
+    "effort",
+    "aspect"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Sau 'have a' cần danh từ: 'effect'. 'Affect' thường là động từ.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-06",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 2,
+   "stem": "If it rains tomorrow, we ___ at home.",
+   "correct": "will stay",
+   "options": [
+    "will stay",
+    "would stay",
+    "stayed",
+    "stays"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Điều kiện loại 1: if + hiện tại đơn, will + động từ.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-07",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 3,
+   "stem": "Researchers collected ___ from 500 patients before starting the analysis.",
+   "correct": "data",
+   "options": [
+    "data",
+    "datas",
+    "informations",
+    "evidences"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "'Data' là danh từ số nhiều không đếm theo cách dùng học thuật chuẩn.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-08",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 3,
+   "stem": "The bridge ___ in 1998.",
+   "correct": "was built",
+   "options": [
+    "built",
+    "was built",
+    "has build",
+    "is building"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Bị động quá khứ: cây cầu được xây vào năm 1998.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-09",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 3,
+   "stem": "His argument was based on weak ___, so few people were convinced.",
+   "correct": "evidence",
+   "options": [
+    "evidence",
+    "evident",
+    "evidently",
+    "prove"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Sau tính từ 'weak' cần danh từ 'evidence'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-10",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 4,
+   "stem": "By this time next year, she ___ her degree.",
+   "correct": "will have finished",
+   "options": [
+    "will finish",
+    "will have finished",
+    "finishes",
+    "has finish"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Mốc tương lai 'by this time next year' đi với tương lai hoàn thành.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-11",
+   "group": "vocab",
+   "questionType": "form",
+   "difficulty": 4,
+   "stem": "The government plans to {{1}} spending on education next year.",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Cụm đúng: 'increase spending' hoặc 'raise spending'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "increase",
+      "raise"
+     ],
+     "maxWords": 1
+    }
+   }
+  },
+  {
+   "id": "PL-V-12",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 5,
+   "stem": "Scarcely ___ the door when the phone rang.",
+   "correct": "had I opened",
+   "options": [
+    "I had opened",
+    "had I opened",
+    "I have opened",
+    "did I had opened"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Đảo ngữ sau 'Scarcely': 'had I opened'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-13",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 5,
+   "stem": "The report ___ that air pollution in the city is continuing to rise.",
+   "correct": "concludes",
+   "options": [
+    "pretends",
+    "refuses",
+    "concludes",
+    "avoids"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "'The report concludes that...' là cách kết luận học thuật đúng.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "PL-V-14",
+   "group": "vocab",
+   "questionType": "form",
+   "difficulty": 5,
+   "stem": "He denied {{1}} the money from the office.",
+   "correct": null,
+   "options": null,
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Sau 'deny' dùng V-ing: 'denied taking' hoặc 'denied having taken'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "taking",
+      "having taken"
+     ],
+     "maxWords": 2
+    }
+   }
+  },
+  {
+   "id": "PL-V-15",
+   "group": "vocab",
+   "questionType": "mcq",
+   "difficulty": 4,
+   "stem": "The study was ___ out by a research team in Oslo.",
+   "correct": "carried",
+   "options": [
+    "carried",
+    "brought",
+    "taken",
+    "made"
+   ],
+   "estimatedSeconds": 45,
+   "tags": [
+    "placement"
+   ],
+   "explanation": {
+    "whyCorrect": "Cụm bị động cố định: 'was carried out'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

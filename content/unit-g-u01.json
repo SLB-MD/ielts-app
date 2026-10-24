@@ -1,0 +1,586 @@
+{
+ "schemaVersion": 1,
+ "id": "G-U01",
+ "skill": "grammar",
+ "title": "Grammar: hiện tại hoàn thành và quá khứ đơn trong văn học thuật",
+ "objective": "Học xong bài này, bạn sẽ chọn đúng thì hiện tại hoàn thành hoặc quá khứ đơn trong câu văn học thuật dựa vào mốc thời gian.",
+ "minutes": 6,
+ "ruleCardId": "RC-GRAM-01",
+ "passage": {
+  "id": "G-P01",
+  "title": "Tracking a Changing Coastline",
+  "genre": "academic study",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "G-P01-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Since 1998, researchers at the Coastal Institute have monitored a stretch of shoreline in the north of England."
+     },
+     {
+      "index": 2,
+      "text": "The team has collected data on wave height, wind speed and cliff movement every month."
+     },
+     {
+      "index": 3,
+      "text": "In 1998, the institute installed its first sensors on the cliff top."
+     }
+    ]
+   },
+   {
+    "id": "G-P01-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "The researchers published their first major report in 2005."
+     },
+     {
+      "index": 2,
+      "text": "Since then, they have recorded the loss of more than twelve metres of land in some places."
+     },
+     {
+      "index": 3,
+      "text": "Storms in 2013 damaged several sensors, but the team repaired them within weeks."
+     },
+     {
+      "index": 4,
+      "text": "Local councils have used the findings to plan new sea defences."
+     }
+    ]
+   },
+   {
+    "id": "G-P01-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "The institute has recently begun a project with schools along the coast."
+     },
+     {
+      "index": 2,
+      "text": "Pupils have uploaded thousands of photographs that show how the beach changes after each storm."
+     },
+     {
+      "index": 3,
+      "text": "The project won a national education award last year."
+     },
+     {
+      "index": 4,
+      "text": "The archive has already helped scientists compare recent changes with records from the past."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "G-P02",
+  "title": "A University Archive of Weather Records",
+  "genre": "academic study",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "G-P02-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Volunteers at the city university have digitised weather records that date back to 1900."
+     },
+     {
+      "index": 2,
+      "text": "The project began in 2019, when a librarian found boxes of handwritten charts in the basement."
+     },
+     {
+      "index": 3,
+      "text": "Since then, students have scanned more than 40,000 pages."
+     },
+     {
+      "index": 4,
+      "text": "Last month, the team launched a website where anyone can search the records."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "G-MCQ-0001",
+   "skill": "grammar",
+   "questionType": "mcq",
+   "unitId": "G-U01",
+   "passageId": "G-P01",
+   "stem": "Complete the sentence with the correct form: The team ___ data on wave height every month since 1998.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has collected"
+    },
+    {
+     "id": "b",
+     "text": "has collect",
+     "distractorType": "participle-error"
+    },
+    {
+     "id": "c",
+     "text": "collects",
+     "distractorType": "tense-mismatch"
+    },
+    {
+     "id": "d",
+     "text": "collected",
+     "distractorType": "tense-mismatch"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "G-P01-p1",
+    "sentenceIndex": 2,
+    "quote": "The team has collected data on wave height, wind speed and cliff movement every month."
+   },
+   "explanation": {
+    "whyCorrect": "Cụm since 1998 mở ra khoảng thời gian kéo dài đến hiện tại nên phải dùng hiện tại hoàn thành: has collected.",
+    "whyWrong": "Sau has phải là phân từ hai collected, không phải collect. Collects và collected đều không đi với since 1998 trong ý này.",
+    "trap": "Thấy since là tín hiệu hiện tại hoàn thành; đừng chọn động từ nguyên dạng sau has."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "grammar",
+    "present-perfect",
+    "since"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-SEN-0001",
+   "skill": "grammar",
+   "questionType": "sentence",
+   "unitId": "G-U01",
+   "passageId": "G-P01",
+   "stem": "In 2005, the researchers {{1}} their first major report.",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "published"
+     ],
+     "maxWords": 1,
+     "wordClass": "verb",
+     "evidence": {
+      "paragraphId": "G-P01-p2",
+      "sentenceIndex": 1,
+      "quote": "The researchers published their first major report in 2005."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "have published",
+       "tag": "tense-mismatch"
+      },
+      {
+       "text": "publishes",
+       "tag": "wrong-form"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Mốc in 2005 đã kết thúc nên dùng quá khứ đơn published.",
+    "whyWrong": "Have published sai vì hiện tại hoàn thành không đi với mốc thời gian đã qua xác định. Publishes là hiện tại đơn, sai thì.",
+    "trap": "Mốc thời gian cụ thể trong quá khứ luôn kéo động từ về quá khứ đơn."
+   },
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "grammar",
+    "past-simple",
+    "time-marker"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-MCQ-0002",
+   "skill": "grammar",
+   "questionType": "mcq",
+   "unitId": "G-U01",
+   "passageId": "G-P01",
+   "stem": "Complete the sentence with the correct form: Storms in 2013 ___ several sensors.",
+   "options": [
+    {
+     "id": "a",
+     "text": "have damaged",
+     "distractorType": "tense-mismatch"
+    },
+    {
+     "id": "b",
+     "text": "damaged"
+    },
+    {
+     "id": "c",
+     "text": "has damaged",
+     "distractorType": "tense-mismatch"
+    },
+    {
+     "id": "d",
+     "text": "damage",
+     "distractorType": "wrong-form"
+    }
+   ],
+   "correct": "b",
+   "evidence": {
+    "paragraphId": "G-P01-p2",
+    "sentenceIndex": 3,
+    "quote": "Storms in 2013 damaged several sensors, but the team repaired them within weeks."
+   },
+   "explanation": {
+    "whyCorrect": "Sự việc gắn với năm 2013 đã qua nên dùng quá khứ đơn damaged.",
+    "whyWrong": "Have damaged và has damaged là hiện tại hoàn thành, không dùng với mốc 2013. Damage là dạng nguyên thể, sai thì.",
+    "trap": "Năm cụ thể trong quá khứ là dấu hiệu chặn hiện tại hoàn thành."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "grammar",
+    "past-simple",
+    "time-marker"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-SEN-0002",
+   "skill": "grammar",
+   "questionType": "sentence",
+   "unitId": "G-U01",
+   "passageId": "G-P01",
+   "stem": "Local councils {{1}} the findings to plan new sea defences.",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "have used"
+     ],
+     "maxWords": 2,
+     "wordClass": "verb phrase",
+     "evidence": {
+      "paragraphId": "G-P01-p2",
+      "sentenceIndex": 4,
+      "quote": "Local councils have used the findings to plan new sea defences."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "used",
+       "tag": "tense-mismatch"
+      },
+      {
+       "text": "has used",
+       "tag": "agreement-error"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Không có mốc quá khứ xác định và kết quả còn liên quan hiện tại nên dùng have used với chủ ngữ số nhiều councils.",
+    "whyWrong": "Used một mình là quá khứ đơn, thiếu trợ động từ hoàn thành. Has used sai vì councils là số nhiều, phải dùng have.",
+    "trap": "Chủ ngữ số nhiều đi với have; kiểm tra hòa hợp trước khi chốt đáp án."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "grammar",
+    "present-perfect",
+    "agreement"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-MCQ-0003",
+   "skill": "grammar",
+   "questionType": "mcq",
+   "unitId": "G-U01",
+   "passageId": "G-P01",
+   "stem": "Complete the sentence with the correct form: The project ___ a national education award last year.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has won",
+     "distractorType": "tense-mismatch"
+    },
+    {
+     "id": "b",
+     "text": "have won",
+     "distractorType": "agreement-error"
+    },
+    {
+     "id": "c",
+     "text": "wins",
+     "distractorType": "wrong-form"
+    },
+    {
+     "id": "d",
+     "text": "won"
+    }
+   ],
+   "correct": "d",
+   "evidence": {
+    "paragraphId": "G-P01-p3",
+    "sentenceIndex": 3,
+    "quote": "The project won a national education award last year."
+   },
+   "explanation": {
+    "whyCorrect": "Last year là mốc đã kết thúc nên động từ phải ở quá khứ đơn: won.",
+    "whyWrong": "Has won và have won là hiện tại hoàn thành, không đi với last year. Wins là hiện tại đơn, không hợp mốc quá khứ.",
+    "trap": "Last year, yesterday, in 2005 đều là mốc chặn hiện tại hoàn thành."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "grammar",
+    "past-simple",
+    "time-marker"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "id": "G-MCQ-0101",
+   "skill": "grammar",
+   "questionType": "mcq",
+   "unitId": "G-U01",
+   "passageId": "G-P02",
+   "stem": "Complete the sentence with the correct form: The project ___ in 2019.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has begun",
+     "distractorType": "tense-mismatch"
+    },
+    {
+     "id": "b",
+     "text": "began"
+    },
+    {
+     "id": "c",
+     "text": "begin",
+     "distractorType": "wrong-form"
+    },
+    {
+     "id": "d",
+     "text": "begins",
+     "distractorType": "tense-mismatch"
+    }
+   ],
+   "correct": "b",
+   "evidence": {
+    "paragraphId": "G-P02-p1",
+    "sentenceIndex": 2,
+    "quote": "The project began in 2019, when a librarian found boxes of handwritten charts in the basement."
+   },
+   "explanation": {
+    "whyCorrect": "Mốc in 2019 đã kết thúc nên dùng quá khứ đơn began.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "grammar",
+    "past-simple",
+    "time-marker"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-SEN-0101",
+   "skill": "grammar",
+   "questionType": "sentence",
+   "unitId": "G-U01",
+   "passageId": "G-P02",
+   "stem": "Since the project began, students {{1}} more than 40,000 pages.",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "have scanned"
+     ],
+     "maxWords": 2,
+     "wordClass": "verb phrase",
+     "evidence": {
+      "paragraphId": "G-P02-p1",
+      "sentenceIndex": 3,
+      "quote": "Since then, students have scanned more than 40,000 pages."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "scanned",
+       "tag": "tense-mismatch"
+      },
+      {
+       "text": "has scanned",
+       "tag": "agreement-error"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Since mở khoảng kéo dài đến nay và students là số nhiều nên đáp án là have scanned.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "grammar",
+    "present-perfect",
+    "since"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-MCQ-0102",
+   "skill": "grammar",
+   "questionType": "mcq",
+   "unitId": "G-U01",
+   "passageId": "G-P02",
+   "stem": "Complete the sentence with the correct form: The team ___ a search website last month.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has launched",
+     "distractorType": "tense-mismatch"
+    },
+    {
+     "id": "b",
+     "text": "launch",
+     "distractorType": "wrong-form"
+    },
+    {
+     "id": "c",
+     "text": "have launch",
+     "distractorType": "participle-error"
+    },
+    {
+     "id": "d",
+     "text": "launched"
+    }
+   ],
+   "correct": "d",
+   "evidence": {
+    "paragraphId": "G-P02-p1",
+    "sentenceIndex": 4,
+    "quote": "Last month, the team launched a website where anyone can search the records."
+   },
+   "explanation": {
+    "whyCorrect": "Last month là mốc đã qua nên dùng quá khứ đơn launched.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "grammar",
+    "past-simple",
+    "time-marker"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "The team repaired the damaged sensors in 2013.",
+  "instruction": "Viết lại ở thì hiện tại hoàn thành, bắt đầu bằng: The team has … và bỏ mốc thời gian.",
+  "mustContain": [
+   "has repaired"
+  ],
+  "mustNotContain": [
+   "2013"
+  ],
+  "samples": [
+   "The team has repaired the damaged sensors."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); English Grammar Profile (Cambridge) for grammar scope; NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

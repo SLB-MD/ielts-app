@@ -1,0 +1,2274 @@
+{
+ "schemaVersion": 1,
+ "kind": "full-test",
+ "id": "FT-R01",
+ "skill": "reading",
+ "title": "Full Reading test 1",
+ "minutes": 60,
+ "passages": [
+  {
+   "id": "FT-P01",
+   "title": "The Bees That Feed the World",
+   "genre": "nature",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "FT-P01-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "When people picture a farm, they usually imagine fields of grain or rows of vegetables, yet behind much of that harvest stands an insect most visitors never notice: the bee."
+      },
+      {
+       "index": 2,
+       "text": "Bees belong to a group of animals known as pollinators, which carry pollen from flower to flower as they feed."
+      },
+      {
+       "index": 3,
+       "text": "This movement of pollen allows plants to produce seeds and fruit, so pollination is essential for the reproduction of most flowering plants."
+      },
+      {
+       "index": 4,
+       "text": "Scientists estimate that roughly one in every three mouthfuls of food people eat depends, directly or indirectly, on pollination by insects."
+      },
+      {
+       "index": 5,
+       "text": "Crops such as apples, almonds, coffee and strawberries rely heavily on bees, while cereals like wheat are pollinated mainly by the wind."
+      },
+      {
+       "index": 6,
+       "text": "Without insect pollinators, many of these foods would become scarcer and more expensive, even if they did not disappear completely."
+      },
+      {
+       "index": 7,
+       "text": "The economic value of pollination worldwide has been measured in hundreds of billions of dollars each year."
+      }
+     ]
+    },
+    {
+     "id": "FT-P01-p2",
+     "label": "B",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "A single honeybee colony may contain tens of thousands of workers, almost all of them female."
+      },
+      {
+       "index": 2,
+       "text": "Each worker follows a changing programme of jobs during her short life, beginning with cleaning the hive and ending with flights outside to collect nectar and pollen."
+      },
+      {
+       "index": 3,
+       "text": "As a bee pushes into a flower to reach the sweet liquid inside, grains of pollen stick to the fine hairs covering her body."
+      },
+      {
+       "index": 4,
+       "text": "When she visits the next flower of the same species, some of those grains rub off, completing the transfer the plant needs."
+      },
+      {
+       "index": 5,
+       "text": "Bees are remarkably loyal to one kind of flower on a single trip, a habit that makes their work far more effective than random visits would be."
+      },
+      {
+       "index": 6,
+       "text": "Back at the hive, a returning forager may perform a short dance that tells her sisters the direction and distance of a rich source of flowers."
+      },
+      {
+       "index": 7,
+       "text": "This dance, decoded by researchers in the twentieth century, remains one of the most famous examples of communication in the animal world."
+      }
+     ]
+    },
+    {
+     "id": "FT-P01-p3",
+     "label": "C",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "In recent decades, beekeepers in many regions have reported losing large numbers of colonies over a single winter."
+      },
+      {
+       "index": 2,
+       "text": "No single cause explains these losses, which scientists attribute to a combination of pressures acting together."
+      },
+      {
+       "index": 3,
+       "text": "Parasites such as the varroa mite weaken bees and spread viruses among them, while some farm chemicals damage the insects' ability to navigate."
+      },
+      {
+       "index": 4,
+       "text": "Modern farming has also removed many of the wild flowers that once fed bees between crop seasons, leaving long gaps in their food supply."
+      },
+      {
+       "index": 5,
+       "text": "Climate change adds a further difficulty, because warmer springs can bring flowers into bloom before the bees that depend on them have emerged."
+      },
+      {
+       "index": 6,
+       "text": "Wild bee species face the same pressures, and unlike honeybees they have no beekeeper to protect them."
+      },
+      {
+       "index": 7,
+       "text": "Some wild species have already vanished from parts of their former range, although others have proved more adaptable than expected."
+      }
+     ]
+    },
+    {
+     "id": "FT-P01-p4",
+     "label": "D",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Farmers and gardeners are beginning to respond by planting strips of wild flowers along the edges of fields and leaving corners of land uncut."
+      },
+      {
+       "index": 2,
+       "text": "Cities, too, have turned out to be surprisingly good homes for bees, since parks and gardens often offer flowers across a longer season than farmland does."
+      },
+      {
+       "index": 3,
+       "text": "A growing number of city residents now keep hives on rooftops, where the bees seem untroubled by traffic below."
+      },
+      {
+       "index": 4,
+       "text": "Governments have restricted some of the chemicals most harmful to bees, although farmers argue that replacements can be less effective against pests."
+      },
+      {
+       "index": 5,
+       "text": "Researchers caution that such measures will help only if they are combined, because no single change can repair a damaged food supply."
+      },
+      {
+       "index": 6,
+       "text": "Protecting bees, in other words, means protecting the variety of plants and places they depend on throughout the year."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FT-P02",
+   "title": "Rails Beneath the City",
+   "genre": "history",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "FT-P02-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "By the middle of the nineteenth century, the largest cities of Europe and North America were choking on their own success."
+      },
+      {
+       "index": 2,
+       "text": "Streets built for carts and horses carried crowds of new vehicles, and a journey of a few kilometres across London or New York could take hours."
+      },
+      {
+       "index": 3,
+       "text": "Horse-drawn buses, though cheap, were slow and could carry only a small number of passengers at a time."
+      },
+      {
+       "index": 4,
+       "text": "Engineers therefore began to look below the street, where a railway would be safe from traffic jams and bad weather."
+      },
+      {
+       "index": 5,
+       "text": "The result was the Metropolitan Railway in London, which opened in 1863 and ran for about six kilometres between Paddington and Farringdon."
+      },
+      {
+       "index": 6,
+       "text": "Its trains were pulled by steam locomotives, and passengers travelled in carriages lit by gas."
+      },
+      {
+       "index": 7,
+       "text": "Despite the smoke and noise, the line was an immediate success, carrying millions of passengers in its first years."
+      },
+      {
+       "index": 8,
+       "text": "Other cities watched closely, although few expected underground railways to become a normal part of city life."
+      }
+     ]
+    },
+    {
+     "id": "FT-P02-p2",
+     "label": "B",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The first underground lines were built by the cut-and-cover method, in which a huge trench was dug along a street, the railway laid inside it, and the road rebuilt on top."
+      },
+      {
+       "index": 2,
+       "text": "This method was cheap but chaotic, since whole streets had to close for months and buildings sometimes had to be pulled down."
+      },
+      {
+       "index": 3,
+       "text": "A breakthrough came with the tunnelling shield, a giant iron frame that protected workers while they dug through soft clay and lined the tunnel with iron rings."
+      },
+      {
+       "index": 4,
+       "text": "Steam underground, however, filled the tunnels with smoke, and drivers and passengers alike complained of the foul air."
+      },
+      {
+       "index": 5,
+       "text": "The answer was electricity, and in 1890 London opened the first deep electric railway, running in twin tunnels far below the streets."
+      },
+      {
+       "index": 6,
+       "text": "Electric trains were cleaner, quicker to accelerate and able to run more frequently than the steam trains they replaced."
+      },
+      {
+       "index": 7,
+       "text": "Within a generation, Paris, Berlin, Budapest and New York had all opened underground lines of their own, each adapting the idea to local conditions."
+      }
+     ]
+    },
+    {
+     "id": "FT-P02-p3",
+     "label": "C",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The new railways changed not only how people travelled but also where they chose to live."
+      },
+      {
+       "index": 2,
+       "text": "Workers who had crowded into rooms near the factories could now rent cheaper homes in the suburbs and ride into the centre each day."
+      },
+      {
+       "index": 3,
+       "text": "Land values rose sharply around suburban stations, and whole new districts grew up along the lines within a few years."
+      },
+      {
+       "index": 4,
+       "text": "The railways also created a new kind of traveller, the commuter, whose daily journey became a fixed pattern of city life."
+      },
+      {
+       "index": 5,
+       "text": "Not everyone welcomed the change, and some residents fought long campaigns against lines planned beneath their homes."
+      },
+      {
+       "index": 6,
+       "text": "Shopkeepers, by contrast, generally supported new stations, which delivered hundreds of potential customers to their doors."
+      },
+      {
+       "index": 7,
+       "text": "By the 1930s, maps of the great underground networks had become symbols of the modern city, printed on posters and postcards."
+      }
+     ]
+    },
+    {
+     "id": "FT-P02-p4",
+     "label": "D",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Today, more than 200 cities around the world operate metro systems, and the busiest carry billions of passengers a year."
+      },
+      {
+       "index": 2,
+       "text": "Modern trains are often driverless, guided by computers that keep a precise distance between one train and the next."
+      },
+      {
+       "index": 3,
+       "text": "Engineers continue to extend the old networks, digging new tunnels beneath rivers and even beneath earlier tunnels."
+      },
+      {
+       "index": 4,
+       "text": "The problems, however, are familiar ones: crowded platforms, ageing equipment and the constant cost of repairs."
+      },
+      {
+       "index": 5,
+       "text": "What began as a smoky experiment beneath one London street has become the backbone of urban travel on every continent."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FT-P03",
+   "title": "The Psychology of Habits",
+   "genre": "psychology",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "FT-P03-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Much of what people do each day is not the result of fresh decisions but of habits, actions repeated so often that they run almost automatically."
+      },
+      {
+       "index": 2,
+       "text": "Psychologists describe a habit as a link between a situation and a behaviour, built up through repetition in a stable setting."
+      },
+      {
+       "index": 3,
+       "text": "When the same cue appears, such as finishing dinner or arriving at the office, the behaviour follows with little conscious thought."
+      },
+      {
+       "index": 4,
+       "text": "This automatic quality is useful, because it frees the mind to concentrate on problems that genuinely need attention."
+      },
+      {
+       "index": 5,
+       "text": "Studies suggest that a large share of daily behaviour, perhaps more than two-fifths, is performed out of habit rather than deliberate choice."
+      },
+      {
+       "index": 6,
+       "text": "The same routine can be a blessing or a burden, depending on whether the behaviour it produces is one the person would choose."
+      },
+      {
+       "index": 7,
+       "text": "Habits are not the same as reflexes, because they are learned through experience rather than present from birth."
+      }
+     ]
+    },
+    {
+     "id": "FT-P03-p2",
+     "label": "B",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Researchers often explain habit formation through a simple loop of cue, routine and reward."
+      },
+      {
+       "index": 2,
+       "text": "A cue, which may be a place, a time of day or an emotion, triggers the routine, the behaviour itself."
+      },
+      {
+       "index": 3,
+       "text": "The reward that follows teaches the brain that the loop is worth remembering, so the link grows stronger each time it is completed."
+      },
+      {
+       "index": 4,
+       "text": "In one laboratory study, rats running a maze gradually stopped pausing to explore and ran straight to food at the end, their brain activity falling as the route became familiar."
+      },
+      {
+       "index": 5,
+       "text": "Human habits work in a similar way, although our routines are usually more complex and tied to social situations."
+      },
+      {
+       "index": 6,
+       "text": "Contrary to popular belief, there is no single number of days that forming a habit requires, and one well-known study found times ranging from under three weeks to well over eight months."
+      },
+      {
+       "index": 7,
+       "text": "What mattered most in that study was not the calendar but consistency, since missing an occasion once did not destroy the growing habit."
+      }
+     ]
+    },
+    {
+     "id": "FT-P03-p3",
+     "label": "C",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Because habits are triggered by cues, willpower alone is a surprisingly weak tool for changing them."
+      },
+      {
+       "index": 2,
+       "text": "People who rely only on resisting temptation usually fail, because the old cue continues to produce the old routine."
+      },
+      {
+       "index": 3,
+       "text": "A more effective approach is to keep the cue and the reward but replace the routine in the middle with a healthier behaviour."
+      },
+      {
+       "index": 4,
+       "text": "Someone who snacks when stressed, for example, might take a short walk instead, gaining fresh air and a break while the stress fades."
+      },
+      {
+       "index": 5,
+       "text": "Changing the environment also helps, since removing a cue is easier than fighting the behaviour it triggers."
+      },
+      {
+       "index": 6,
+       "text": "Employers and governments have used these insights to design programmes that make the desired behaviour the easiest option."
+      },
+      {
+       "index": 7,
+       "text": "Defaults are powerful for the same reason, because people tend to accept whatever arrangement they are given rather than actively choose another."
+      }
+     ]
+    },
+    {
+     "id": "FT-P03-p4",
+     "label": "D",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The science of habits carries a hopeful message as well as a warning."
+      },
+      {
+       "index": 2,
+       "text": "The warning is that behaviour repeated in a stable context will sink below conscious control, whether the person wants it to or not."
+      },
+      {
+       "index": 3,
+       "text": "The hopeful part is that the same machinery can be deliberately used to build behaviours that support health, learning and work."
+      },
+      {
+       "index": 4,
+       "text": "Small changes, repeated in the same place and at the same time, are more likely to become permanent than dramatic resolutions made once a year."
+      },
+      {
+       "index": 5,
+       "text": "Understanding habits does not excuse harmful behaviour, but it does explain why information alone so rarely changes what people do."
+      },
+      {
+       "index": 6,
+       "text": "For psychologists, the practical lesson is to design the cue, not merely to lecture the person."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "FT-R-001",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Pollination is necessary for most flowering plants to produce seeds and fruit.",
+   "correct": "TRUE",
+   "difficulty": 1,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói chuyển phấn giúp cây tạo hạt và quả, và thụ phấn thiết yếu cho sinh sản của hầu hết cây có hoa.",
+    "whyWrong": "FALSE sai vì bài khẳng định trực tiếp. NOT GIVEN sai vì thông tin có sẵn trong bài.",
+    "trap": "Câu hỏi dùng 'necessary' thay cho 'essential' trong bài; nghĩa không đổi."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P01",
+   "evidence": {
+    "paragraphId": "FT-P01-p1",
+    "sentenceIndex": 3,
+    "quote": "This movement of pollen allows plants to produce seeds and fruit, so pollination is essential for the reproduction of most flowering plants."
+   }
+  },
+  {
+   "id": "FT-R-002",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Wheat depends heavily on bees for its pollination.",
+   "correct": "FALSE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói ngũ cốc như lúa mì thụ phấn chủ yếu nhờ gió, trong khi các cây nhờ ong là táo, hạnh nhân, cà phê và dâu.",
+    "whyWrong": "TRUE sai vì lúa mì thuộc nhóm thụ phấn nhờ gió. NOT GIVEN sai vì bài nêu rõ cách thụ phấn của lúa mì.",
+    "trap": "Lúa mì đứng cuối cùng một câu liệt kê các cây nhờ ong nên rất dễ đọc nhầm nhóm."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P01",
+   "evidence": {
+    "paragraphId": "FT-P01-p1",
+    "sentenceIndex": 5,
+    "quote": "Crops such as apples, almonds, coffee and strawberries rely heavily on bees, while cereals like wheat are pollinated mainly by the wind."
+   }
+  },
+  {
+   "id": "FT-R-003",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Bees first appeared on Earth over 200 million years ago.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Toàn bài không hề nêu thời điểm ong xuất hiện trên Trái Đất.",
+    "whyWrong": "TRUE và FALSE đều sai vì bài không khẳng định cũng không phủ định niên đại này.",
+    "trap": "Bài nói nhiều về vai trò của ong khiến người đọc tưởng thông tin lịch sử của loài cũng đã được cho."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P01",
+   "nearMiss": {
+    "paragraphId": "FT-P01-p1",
+    "sentenceIndex": 2,
+    "quote": "Bees belong to a group of animals known as pollinators, which carry pollen from flower to flower as they feed.",
+    "whyNotEnough": "Câu này chỉ định nghĩa loài thụ phấn và việc ong mang phấn hoa, không nói ong xuất hiện từ khi nào."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "200 million",
+     "appeared",
+     "years ago"
+    ],
+    "result": "Không câu nào nêu niên đại xuất hiện của ong."
+   }
+  },
+  {
+   "id": "FT-R-004",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Almost all of the workers in a honeybee colony are female.",
+   "correct": "TRUE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài mở đầu đoạn hai bằng việc một đàn ong có hàng chục nghìn ong thợ và hầu như tất cả là con cái.",
+    "whyWrong": "FALSE sai vì tỉ lệ con cái được nêu là gần như toàn bộ. NOT GIVEN sai vì giới tính của ong thợ được nói rõ.",
+    "trap": "Từ 'workers' có thể khiến người đọc nghĩ tới cả hai giới; bài xác định rõ là con cái."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P01",
+   "evidence": {
+    "paragraphId": "FT-P01-p2",
+    "sentenceIndex": 1,
+    "quote": "A single honeybee colony may contain tens of thousands of workers, almost all of them female."
+   }
+  },
+  {
+   "id": "FT-R-005",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "A worker bee performs the same job throughout her life.",
+   "correct": "FALSE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói mỗi ong thợ theo một chương trình việc thay đổi dần, bắt đầu bằng dọn tổ và kết thúc bằng bay ra ngoài kiếm ăn.",
+    "whyWrong": "TRUE sai vì công việc thay đổi theo tuổi của ong. NOT GIVEN sai vì trình tự công việc được mô tả cụ thể.",
+    "trap": "Chữ 'programme' trong bài dễ bị đọc lướt thành một lịch cố định không đổi."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P01",
+   "evidence": {
+    "paragraphId": "FT-P01-p2",
+    "sentenceIndex": 2,
+    "quote": "Each worker follows a changing programme of jobs during her short life, beginning with cleaning the hive and ending with flights outside to collect nectar and pollen."
+   }
+  },
+  {
+   "id": "FT-R-006",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Honeybees are able to recognise individual human faces.",
+   "correct": "NOT GIVEN",
+   "difficulty": 5,
+   "estimatedSeconds": 75,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài không nhắc khả năng nhận diện khuôn mặt người ở bất kỳ câu nào.",
+    "whyWrong": "TRUE và FALSE đều sai vì khả năng này không được khẳng định hay phủ định trong bài.",
+    "trap": "Đoạn về điệu nhảy cho thấy ong giao tiếp tinh vi, dễ khiến người đọc suy ra thêm các khả năng khác."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P01",
+   "nearMiss": {
+    "paragraphId": "FT-P01-p2",
+    "sentenceIndex": 7,
+    "quote": "This dance, decoded by researchers in the twentieth century, remains one of the most famous examples of communication in the animal world.",
+    "whyNotEnough": "Câu gần nhất ca ngợi điệu nhảy của ong là ví dụ giao tiếp nổi tiếng ở động vật, không nhắc việc nhận mặt người."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "faces",
+     "recognise",
+     "human"
+    ],
+    "result": "Không câu nào nói ong nhận diện được khuôn mặt người."
+   }
+  },
+  {
+   "id": "FT-R-007",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Why does a bee's loyalty to one species of flower on a single trip matter?",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói sự trung thành với một loài hoa khiến công việc của ong hiệu quả hơn nhiều so với các chuyến thăm ngẫu nhiên.",
+    "whyWrong": "Các lựa chọn còn lại nói về lượng mật, phấn rơi khỏi thân và đường về tổ, đều không phải lý do bài nêu.",
+    "trap": "Lựa chọn c mượn chi tiết phấn bám và rụng trên thân ong nhưng đảo ngược ý nghĩa của nó."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "It makes pollination much more effective."
+    },
+    {
+     "id": "b",
+     "text": "It allows her to carry more nectar back to the hive.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "It prevents pollen from rubbing off her body.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "It helps her remember the way back to the hive.",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P01",
+   "evidence": {
+    "paragraphId": "FT-P01-p2",
+    "sentenceIndex": 5,
+    "quote": "Bees are remarkably loyal to one kind of flower on a single trip, a habit that makes their work far more effective than random visits would be."
+   }
+  },
+  {
+   "id": "FT-R-008",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "According to the passage, the losses of bee colonies in recent decades are best explained by",
+   "correct": "b",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài khẳng định không một nguyên nhân đơn lẻ nào giải thích được, mà là nhiều áp lực tác động cùng lúc.",
+    "whyWrong": "Ve sán và hóa chất đều có thật trong bài nhưng chỉ là từng phần; virus đơn lẻ cũng không phải kết luận của tác giả.",
+    "trap": "Lựa chọn a nhấc đúng tên ký sinh trùng nổi bật nhất trong đoạn nhằm dụ người đọc chọn một nguyên nhân duy nhất."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "the varroa mite alone.",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "several pressures working together."
+    },
+    {
+     "id": "c",
+     "text": "mistakes made by beekeepers.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "a single new virus.",
+     "distractorType": "opposite"
+    }
+   ],
+   "passageId": "FT-P01",
+   "evidence": {
+    "paragraphId": "FT-P01-p3",
+    "sentenceIndex": 2,
+    "quote": "No single cause explains these losses, which scientists attribute to a combination of pressures acting together."
+   }
+  },
+  {
+   "id": "FT-R-009",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Climate change makes life harder for some bees because",
+   "correct": "c",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói mùa xuân ấm hơn có thể khiến hoa nở trước khi những con ong phụ thuộc vào chúng xuất hiện.",
+    "whyWrong": "Bão phá tổ và hóa chất không thuộc phần biến đổi khí hậu; lựa chọn b đảo ngược thứ tự hoa nở và ong xuất hiện.",
+    "trap": "Lựa chọn d mượn chi tiết hoa dại biến mất, nhưng nguyên nhân trong bài là canh tác hiện đại, không phải khí hậu."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "storms destroy large numbers of hives.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "bees emerge earlier than the flowers they need.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "flowers may open before the bees appear."
+    },
+    {
+     "id": "d",
+     "text": "warmer weather kills the wild flowers bees feed on.",
+     "distractorType": "partial-truth"
+    }
+   ],
+   "passageId": "FT-P01",
+   "evidence": {
+    "paragraphId": "FT-P01-p3",
+    "sentenceIndex": 5,
+    "quote": "Climate change adds a further difficulty, because warmer springs can bring flowers into bloom before the bees that depend on them have emerged."
+   }
+  },
+  {
+   "id": "FT-R-010",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "What does the writer say about bees in cities?",
+   "correct": "d",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói công viên và vườn trong thành phố thường cho hoa trong một mùa dài hơn đất nông nghiệp.",
+    "whyWrong": "Tổ trên mái nhà chỉ là một phần nhỏ; giao thông được nói là không làm ong bận tâm, ngược với lựa chọn b.",
+    "trap": "Lựa chọn a phóng đại chi tiết tổ ong trên mái thành toàn bộ ong thành phố."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "All city bees are kept in hives on rooftops.",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "b",
+     "text": "Traffic seriously disturbs them.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "City parks contain almost no flowers.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "They may find flowers over a longer season than on farmland."
+    }
+   ],
+   "passageId": "FT-P01",
+   "evidence": {
+    "paragraphId": "FT-P01-p4",
+    "sentenceIndex": 2,
+    "quote": "Cities, too, have turned out to be surprisingly good homes for bees, since parks and gardens often offer flowers across a longer season than farmland does."
+   }
+  },
+  {
+   "id": "FT-R-011",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "As a bee pushes into a flower, grains of pollen stick to the fine {{1}} covering her body.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Từ nguyên trong bài là 'the fine hairs covering her body'.",
+    "whyWrong": "Các từ như 'legs' hay 'wings' hợp nghĩa chung nhưng không phải từ của bài.",
+    "trap": "Câu hỏi đổi 'As a bee pushes into' lấy từ chính câu nguồn nên chỉ cần khớp cụm 'fine hairs'."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "hairs"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P01-p2",
+      "sentenceIndex": 3,
+      "quote": "As a bee pushes into a flower to reach the sweet liquid inside, grains of pollen stick to the fine hairs covering her body."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-012",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "A returning forager's dance tells other bees the direction and {{1}} of a rich source of flowers.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói điệu nhảy cho biết hướng và khoảng cách của nguồn hoa giàu mật.",
+    "whyWrong": "Từ 'location' diễn đạt gần đúng ý nhưng không phải từ nguyên trong câu nguồn.",
+    "trap": "Hai thông tin đi cặp trong bài là 'direction and distance'; điền thiếu một trong hai là mất điểm."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "distance"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P01-p2",
+      "sentenceIndex": 6,
+      "quote": "Back at the hive, a returning forager may perform a short dance that tells her sisters the direction and distance of a rich source of flowers."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-013",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Unlike honeybees, wild bees have no {{1}} to protect them.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài đối chiếu ong hoang với ong mật ở chỗ chúng không có người nuôi ong bảo vệ.",
+    "whyWrong": "Từ 'hive' thuộc về ong mật và không hoàn thành đúng ý đối chiếu của câu.",
+    "trap": "Cấu trúc 'unlike honeybees' báo hiệu đáp án nằm ở điểm khác biệt mà bài nêu ngay trong câu."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "beekeeper"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P01-p3",
+      "sentenceIndex": 6,
+      "quote": "Wild bee species face the same pressures, and unlike honeybees they have no beekeeper to protect them."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-014",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Farmers are planting strips of wild {{1}} along the edges of fields to help bees.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói nông dân trồng các dải hoa dại dọc theo mép ruộng.",
+    "whyWrong": "Các từ cây trồng như 'trees' không xuất hiện trong cụm này của bài.",
+    "trap": "Từ 'wild' đứng ngay trước chỗ trống là gợi ý mạnh nhất về cụm 'wild flowers'."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "flowers"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P01-p4",
+      "sentenceIndex": 1,
+      "quote": "Farmers and gardeners are beginning to respond by planting strips of wild flowers along the edges of fields and leaving corners of land uncut."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-015",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "A journey of a few kilometres across London could take hours in the mid-nineteenth century.",
+   "correct": "TRUE",
+   "difficulty": 1,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Đoạn một nói một chuyến đi vài kilômét qua London hay New York có thể mất hàng giờ.",
+    "whyWrong": "FALSE sai vì thời gian hàng giờ được khẳng định rõ. NOT GIVEN sai vì thông tin có trong bài.",
+    "trap": "Câu hỏi chỉ nhắc London trong khi bài nhắc cả London và New York; phần về London vẫn đúng."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P02",
+   "evidence": {
+    "paragraphId": "FT-P02-p1",
+    "sentenceIndex": 2,
+    "quote": "Streets built for carts and horses carried crowds of new vehicles, and a journey of a few kilometres across London or New York could take hours."
+   }
+  },
+  {
+   "id": "FT-R-016",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "London's first underground railway was powered by electricity.",
+   "correct": "FALSE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Tuyến đầu tiên dùng đầu máy hơi nước; điện chỉ xuất hiện sau đó với tuyến sâu năm 1890.",
+    "whyWrong": "TRUE sai vì điện đến muộn hơn gần ba thập kỷ. NOT GIVEN sai vì nguồn động lực của tuyến đầu được nêu rõ.",
+    "trap": "Bài nhắc điện nổi bật ở đoạn sau nên dễ gán nhầm cho tuyến đầu tiên."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P02",
+   "evidence": {
+    "paragraphId": "FT-P02-p1",
+    "sentenceIndex": 6,
+    "quote": "Its trains were pulled by steam locomotives, and passengers travelled in carriages lit by gas."
+   }
+  },
+  {
+   "id": "FT-R-017",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "The Metropolitan Railway was the most expensive transport project of its age.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài không cho bất kỳ con số hay so sánh nào về chi phí xây dựng tuyến Metropolitan.",
+    "whyWrong": "TRUE và FALSE đều sai vì mức chi phí không được khẳng định hay phủ định.",
+    "trap": "Độ dài sáu kilômét và hai ga đầu cuối là dữ kiện thật trong bài nhưng không liên quan tới chi phí."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P02",
+   "nearMiss": {
+    "paragraphId": "FT-P02-p1",
+    "sentenceIndex": 5,
+    "quote": "The result was the Metropolitan Railway in London, which opened in 1863 and ran for about six kilometres between Paddington and Farringdon.",
+    "whyNotEnough": "Câu gần nhất chỉ cho năm mở cửa, độ dài và hai đầu tuyến, hoàn toàn không nhắc tới tiền xây dựng."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "expensive",
+     "cost",
+     "project"
+    ],
+    "result": "Không câu nào nêu chi phí của tuyến Metropolitan."
+   }
+  },
+  {
+   "id": "FT-R-018",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "The cut-and-cover method seriously disrupted the streets above the railway.",
+   "correct": "TRUE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "paraphrase"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài mô tả phương pháp này là hỗn loạn vì cả con phố phải đóng cửa nhiều tháng và nhà cửa đôi khi bị phá bỏ.",
+    "whyWrong": "FALSE sai vì mức độ xáo trộn được mô tả trực tiếp. NOT GIVEN sai vì hậu quả trên mặt đường có trong bài.",
+    "trap": "Tên phương pháp nghe có vẻ nhẹ nhàng nhưng mô tả đi kèm mới là căn cứ trả lời."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P02",
+   "evidence": {
+    "paragraphId": "FT-P02-p2",
+    "sentenceIndex": 2,
+    "quote": "This method was cheap but chaotic, since whole streets had to close for months and buildings sometimes had to be pulled down."
+   }
+  },
+  {
+   "id": "FT-R-019",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Electric trains ran less frequently than the steam trains they replaced.",
+   "correct": "FALSE",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói tàu điện sạch hơn, tăng tốc nhanh hơn và chạy thường xuyên hơn tàu hơi nước.",
+    "whyWrong": "TRUE đảo ngược đúng chi tiết so sánh trong bài. NOT GIVEN sai vì tần suất chạy được nêu rõ.",
+    "trap": "Ba ưu điểm được liệt kê liên tiếp; người đọc dễ bỏ sót ưu điểm cuối về tần suất."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P02",
+   "evidence": {
+    "paragraphId": "FT-P02-p2",
+    "sentenceIndex": 6,
+    "quote": "Electric trains were cleaner, quicker to accelerate and able to run more frequently than the steam trains they replaced."
+   }
+  },
+  {
+   "id": "FT-R-020",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "The tunnelling shield was an important breakthrough because it",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài định nghĩa lá chắn đào hầm là khung sắt khổng lồ bảo vệ công nhân khi đào qua đất sét mềm.",
+    "whyWrong": "Khói thuộc vấn đề của tàu hơi nước; rẻ hơn là đặc điểm của đào hở; vòng sắt là vật liệu lót hầm chứ không chở khách.",
+    "trap": "Lựa chọn d ghép hai chi tiết thật trong cùng câu là vòng sắt và hầm thành một ý sai."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "removed smoke from the tunnels.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "protected workers as they dug through soft clay."
+    },
+    {
+     "id": "c",
+     "text": "made construction cheaper than the cut-and-cover method.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "carried passengers inside iron rings.",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "passageId": "FT-P02",
+   "evidence": {
+    "paragraphId": "FT-P02-p2",
+    "sentenceIndex": 3,
+    "quote": "A breakthrough came with the tunnelling shield, a giant iron frame that protected workers while they dug through soft clay and lined the tunnel with iron rings."
+   }
+  },
+  {
+   "id": "FT-R-021",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Underground railways changed where workers lived because they could",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói công nhân có thể thuê nhà rẻ hơn ở vùng ngoại ô và đi tàu vào trung tâm mỗi ngày.",
+    "whyWrong": "Nhà rẻ nằm ở ngoại ô chứ không gần nhà máy; giá đất quanh ga tăng chứ công nhân không được nói là mua nhà ở đó.",
+    "trap": "Lựa chọn b giữ đúng chữ 'cheaper homes' nhưng dời sai vị trí của chúng."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "live in the suburbs and travel into the centre each day."
+    },
+    {
+     "id": "b",
+     "text": "rent cheaper homes close to the factories.",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "buy houses around suburban stations before prices rose.",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "avoid travelling to work altogether.",
+     "distractorType": "opposite"
+    }
+   ],
+   "passageId": "FT-P02",
+   "evidence": {
+    "paragraphId": "FT-P02-p3",
+    "sentenceIndex": 2,
+    "quote": "Workers who had crowded into rooms near the factories could now rent cheaper homes in the suburbs and ride into the centre each day."
+   }
+  },
+  {
+   "id": "FT-R-022",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Which group generally welcomed the building of new stations?",
+   "correct": "c",
+   "difficulty": 1,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói chủ cửa hàng thường ủng hộ ga mới vì ga mang hàng trăm khách tiềm năng tới cửa tiệm.",
+    "whyWrong": "Cư dân phía trên tuyến là nhóm phản đối; chủ nhà máy và lái xe buýt ngựa không được nhắc là ủng hộ.",
+    "trap": "Từ 'by contrast' trong bài báo hiệu nhóm ủng hộ đứng đối lập với cư dân phản đối ngay trước đó."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "residents living above the planned lines.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "factory owners in the city centre.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "shopkeepers."
+    },
+    {
+     "id": "d",
+     "text": "drivers of horse-drawn buses.",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P02",
+   "evidence": {
+    "paragraphId": "FT-P02-p3",
+    "sentenceIndex": 6,
+    "quote": "Shopkeepers, by contrast, generally supported new stations, which delivered hundreds of potential customers to their doors."
+   }
+  },
+  {
+   "id": "FT-R-023",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "The writer's conclusion about modern metro systems is that they",
+   "correct": "d",
+   "difficulty": 5,
+   "estimatedSeconds": 75,
+   "tags": [
+    "mcq",
+    "main-idea"
+   ],
+   "explanation": {
+    "whyCorrect": "Đoạn cuối nói các vấn đề ngày nay vẫn quen thuộc: sân ga đông, thiết bị cũ và chi phí sửa chữa thường xuyên.",
+    "whyWrong": "Tàu không người lái không được nói là đã giải quyết quá tải; việc đào hầm mới vẫn tiếp diễn, ngược với lựa chọn c.",
+    "trap": "Chi tiết tàu không người lái ở đầu đoạn dễ khiến người đọc lạc khỏi kết luận nằm ở hai câu cuối đoạn."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "have solved the problem of crowded platforms.",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "b",
+     "text": "are slowly being replaced by driverless buses.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "no longer need any new tunnels.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "still struggle with familiar problems such as crowding and repairs."
+    }
+   ],
+   "passageId": "FT-P02",
+   "evidence": {
+    "paragraphId": "FT-P02-p4",
+    "sentenceIndex": 4,
+    "quote": "The problems, however, are familiar ones: crowded platforms, ageing equipment and the constant cost of repairs."
+   }
+  },
+  {
+   "id": "FT-R-024",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Passengers on the first Metropolitan Railway travelled in carriages lit by {{1}}.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói hành khách đi trong các toa được thắp sáng bằng khí đốt.",
+    "whyWrong": "Từ 'electricity' thuộc về giai đoạn sau của đường sắt ngầm, không phải tuyến đầu.",
+    "trap": "Câu hỏi gắn với 'first' nên đáp án phải lấy từ mô tả tuyến năm 1863."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "gas"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P02-p1",
+      "sentenceIndex": 6,
+      "quote": "Its trains were pulled by steam locomotives, and passengers travelled in carriages lit by gas."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-025",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "The railways created a new kind of daily traveller called the {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài gọi kiểu hành khách mới này là 'the commuter'.",
+    "whyWrong": "Từ 'passenger' quá chung và không phải tên gọi riêng bài đặt cho kiểu người này.",
+    "trap": "Cụm 'a new kind of traveller' trong câu hỏi sao đúng cấu trúc của câu nguồn."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "commuter"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P02-p3",
+      "sentenceIndex": 4,
+      "quote": "The railways also created a new kind of traveller, the commuter, whose daily journey became a fixed pattern of city life."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-026",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Modern driverless trains are guided by {{1}} that keep a precise distance between trains.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói tàu hiện đại thường không người lái và được máy tính dẫn dắt.",
+    "whyWrong": "Từ 'drivers' mâu thuẫn ngay với tính chất không người lái của tàu.",
+    "trap": "Chỗ trống cần chủ ngữ số nhiều khớp động từ 'keep' trong câu hỏi."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "computers"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P02-p4",
+      "sentenceIndex": 2,
+      "quote": "Modern trains are often driverless, guided by computers that keep a precise distance between one train and the next."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-027",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "By the 1930s, maps of underground networks were printed on posters and {{1}}.",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói bản đồ mạng lưới ngầm trở thành biểu tượng in trên áp phích và bưu thiếp.",
+    "whyWrong": "Từ 'tickets' hợp bối cảnh đường sắt nhưng không xuất hiện trong câu này.",
+    "trap": "Đáp án nằm ở cuối một liệt kê hai vật phẩm in ấn ở cuối đoạn ba."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "postcards"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P02-p3",
+      "sentenceIndex": 7,
+      "quote": "By the 1930s, maps of the great underground networks had become symbols of the modern city, printed on posters and postcards."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-028",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "More than two-fifths of daily behaviour may be performed out of habit.",
+   "correct": "TRUE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "quantifier"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài dẫn nghiên cứu cho rằng một phần lớn hành vi hằng ngày, có thể hơn hai phần năm, là do thói quen chứ không phải lựa chọn có chủ ý.",
+    "whyWrong": "FALSE sai vì tỉ lệ hơn hai phần năm được nêu rõ. NOT GIVEN sai vì con số có trong bài.",
+    "trap": "Cụm 'perhaps' làm câu có vẻ không chắc chắn nhưng vẫn là khẳng định được đưa ra trong bài."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P03",
+   "evidence": {
+    "paragraphId": "FT-P03-p1",
+    "sentenceIndex": 5,
+    "quote": "Studies suggest that a large share of daily behaviour, perhaps more than two-fifths, is performed out of habit rather than deliberate choice."
+   }
+  },
+  {
+   "id": "FT-R-029",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Habits are the same as reflexes.",
+   "correct": "FALSE",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài phân biệt rõ thói quen được học qua trải nghiệm, còn phản xạ có sẵn từ khi sinh ra.",
+    "whyWrong": "TRUE sai vì bài phủ định trực tiếp sự đồng nhất này. NOT GIVEN sai vì điểm khác biệt được giải thích cụ thể.",
+    "trap": "Cả hai đều tự động nên dễ bị coi là một; tiêu chí phân biệt trong bài là nguồn gốc hình thành."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P03",
+   "evidence": {
+    "paragraphId": "FT-P03-p1",
+    "sentenceIndex": 7,
+    "quote": "Habits are not the same as reflexes, because they are learned through experience rather than present from birth."
+   }
+  },
+  {
+   "id": "FT-R-030",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "In the laboratory study, the rats were able to choose between two different routes through the maze.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài chỉ mô tả chuột chạy mê cung và dần chạy thẳng tới thức ăn, không nói mê cung có hai lối hay chuột được chọn.",
+    "whyWrong": "TRUE và FALSE đều sai vì chi tiết về số lối đi không hề được cho.",
+    "trap": "Mê cung gợi hình ảnh nhiều ngã rẽ nên người đọc dễ tự thêm chi tiết hai lối đi."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P03",
+   "nearMiss": {
+    "paragraphId": "FT-P03-p2",
+    "sentenceIndex": 4,
+    "quote": "In one laboratory study, rats running a maze gradually stopped pausing to explore and ran straight to food at the end, their brain activity falling as the route became familiar.",
+    "whyNotEnough": "Câu gần nhất chỉ nói chuột dần ngừng khám phá và chạy thẳng tới thức ăn ở cuối mê cung."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "choose",
+     "two routes",
+     "maze"
+    ],
+    "result": "Không câu nào nói chuột được chọn giữa hai lối đi."
+   }
+  },
+  {
+   "id": "FT-R-031",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Willpower alone is the strongest tool for changing a habit.",
+   "correct": "FALSE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài mở đầu đoạn ba bằng nhận định ý chí đơn thuần là công cụ yếu một cách đáng ngạc nhiên để đổi thói quen.",
+    "whyWrong": "TRUE đảo ngược hoàn toàn đánh giá của tác giả. NOT GIVEN sai vì mức độ hiệu quả của ý chí được nêu trực tiếp.",
+    "trap": "Từ 'alone' trong câu hỏi khớp đúng phạm vi đánh giá của bài; bỏ sót từ này dễ chọn nhầm."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P03",
+   "evidence": {
+    "paragraphId": "FT-P03-p3",
+    "sentenceIndex": 1,
+    "quote": "Because habits are triggered by cues, willpower alone is a surprisingly weak tool for changing them."
+   }
+  },
+  {
+   "id": "FT-R-032",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Keeping the cue and the reward but changing the routine is described as an effective way to change a habit.",
+   "correct": "TRUE",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "paraphrase"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài gọi đây là cách tiếp cận hiệu quả hơn: giữ tín hiệu và phần thưởng, thay hành vi ở giữa bằng hành vi lành mạnh hơn.",
+    "whyWrong": "FALSE sai vì bài khen trực tiếp cách này. NOT GIVEN sai vì công thức ba phần được trình bày rõ.",
+    "trap": "Câu hỏi nén cả đoạn giải thích thành một câu; cần đối chiếu đủ ba thành phần mới kết luận được."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P03",
+   "evidence": {
+    "paragraphId": "FT-P03-p3",
+    "sentenceIndex": 3,
+    "quote": "A more effective approach is to keep the cue and the reward but replace the routine in the middle with a healthier behaviour."
+   }
+  },
+  {
+   "id": "FT-R-033",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "In the habit loop, the function of the reward is to",
+   "correct": "a",
+   "difficulty": 2,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói phần thưởng dạy bộ não rằng vòng lặp đáng ghi nhớ, nên mối liên kết mạnh lên sau mỗi lần hoàn thành.",
+    "whyWrong": "Kích hoạt hành vi là vai trò của tín hiệu; phần thưởng không làm yếu liên kết mà làm nó mạnh lên.",
+    "trap": "Ba thành phần của vòng lặp đứng gần nhau nên rất dễ gán nhầm chức năng của tín hiệu cho phần thưởng."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "teach the brain that the loop is worth remembering."
+    },
+    {
+     "id": "b",
+     "text": "trigger the behaviour itself.",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "weaken the link between cue and behaviour.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "remove the need for repetition.",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P03",
+   "evidence": {
+    "paragraphId": "FT-P03-p2",
+    "sentenceIndex": 3,
+    "quote": "The reward that follows teaches the brain that the loop is worth remembering, so the link grows stronger each time it is completed."
+   }
+  },
+  {
+   "id": "FT-R-034",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "The habit-formation study mentioned in the passage found that the most important factor was",
+   "correct": "c",
+   "difficulty": 5,
+   "estimatedSeconds": 75,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài kết luận điều quan trọng nhất không phải lịch đếm ngày mà là sự đều đặn, và lỡ một lần không phá hỏng thói quen đang hình thành.",
+    "whyWrong": "Con số hai mươi mốt ngày thuộc niềm tin phổ biến bị bài bác bỏ; không lỡ lần nào cũng trái với chi tiết bài nêu.",
+    "trap": "Lựa chọn a dùng đúng con số quen thuộc về thói quen nên rất hấp dẫn với người đọc theo kinh nghiệm bên ngoài bài."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "reaching exactly twenty-one days.",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "never missing a single occasion.",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "c",
+     "text": "consistency."
+    },
+    {
+     "id": "d",
+     "text": "the difficulty of the new behaviour.",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P03",
+   "evidence": {
+    "paragraphId": "FT-P03-p2",
+    "sentenceIndex": 7,
+    "quote": "What mattered most in that study was not the calendar but consistency, since missing an occasion once did not destroy the growing habit."
+   }
+  },
+  {
+   "id": "FT-R-035",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Defaults influence behaviour because people",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài giải thích phương án mặc định mạnh vì con người có xu hướng chấp nhận sắp xếp được cho sẵn thay vì chủ động chọn cái khác.",
+    "whyWrong": "Không có chi tiết nào về sợ chương trình nhà nước; việc tự loại bỏ tín hiệu cũng không phải lý do bài nêu cho mặc định.",
+    "trap": "Câu chứa đáp án nằm ngay sau ví dụ về nhà tuyển dụng và chính phủ nên dễ bị đọc lướt qua."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "enjoy making active choices.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "tend to accept the arrangement they are given."
+    },
+    {
+     "id": "c",
+     "text": "fear government programmes.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "always remove cues from their environment.",
+     "distractorType": "over-generalization"
+    }
+   ],
+   "passageId": "FT-P03",
+   "evidence": {
+    "paragraphId": "FT-P03-p3",
+    "sentenceIndex": 7,
+    "quote": "Defaults are powerful for the same reason, because people tend to accept whatever arrangement they are given rather than actively choose another."
+   }
+  },
+  {
+   "id": "FT-R-036",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "The writer's main conclusion in the final paragraph is that understanding habits",
+   "correct": "d",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "mcq",
+    "main-idea"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu cuối bài nói hiểu về thói quen giải thích vì sao chỉ riêng thông tin hiếm khi thay đổi được hành vi của con người.",
+    "whyWrong": "Bài phủ định việc hiểu thói quen là cái cớ cho hành vi có hại, và đề cao thay đổi nhỏ thay vì quyết tâm lớn.",
+    "trap": "Lựa chọn c mượn hình ảnh quyết tâm lớn mỗi năm nhưng đảo ngược khuyến nghị của tác giả."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "proves that information is completely useless.",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "b",
+     "text": "excuses harmful behaviour.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "makes dramatic annual resolutions more effective.",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "helps explain why information alone rarely changes behaviour."
+    }
+   ],
+   "passageId": "FT-P03",
+   "evidence": {
+    "paragraphId": "FT-P03-p4",
+    "sentenceIndex": 5,
+    "quote": "Understanding habits does not excuse harmful behaviour, but it does explain why information alone so rarely changes what people do."
+   }
+  },
+  {
+   "id": "FT-R-037",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Psychologists define a habit as a link between a situation and a {{1}}.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Định nghĩa trong bài là mối liên kết giữa một tình huống và một hành vi.",
+    "whyWrong": "Từ 'action' gần nghĩa nhưng bài dùng nguyên từ 'behaviour' trong định nghĩa.",
+    "trap": "Đây là câu định nghĩa mở đầu phần khái niệm nên đáp án nằm ở đoạn một."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "behaviour"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P03-p1",
+      "sentenceIndex": 2,
+      "quote": "Psychologists describe a habit as a link between a situation and a behaviour, built up through repetition in a stable setting."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-038",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "The habit loop consists of a cue, a routine and a {{1}}.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài giới thiệu vòng lặp gồm tín hiệu, hành vi quen thuộc và phần thưởng.",
+    "whyWrong": "Từ 'repetition' là điều kiện hình thành chứ không phải thành phần thứ ba của vòng lặp.",
+    "trap": "Ba thành phần được liệt kê theo đúng thứ tự trong câu nguồn ở đầu đoạn hai."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "reward"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P03-p2",
+      "sentenceIndex": 1,
+      "quote": "Researchers often explain habit formation through a simple loop of cue, routine and reward."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-039",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "A person who snacks when stressed could replace the snack with a short {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Ví dụ trong bài là đi bộ một đoạn ngắn thay cho ăn vặt khi căng thẳng.",
+    "whyWrong": "Các hoạt động thư giãn khác có thể hợp lý nhưng không phải ví dụ bài đưa ra.",
+    "trap": "Câu hỏi sao đúng khung ví dụ 'snacks when stressed' của câu nguồn."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "walk"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P03-p3",
+      "sentenceIndex": 4,
+      "quote": "Someone who snacks when stressed, for example, might take a short walk instead, gaining fresh air and a break while the stress fades."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R-040",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Small changes repeated in the same place and at the same {{1}} are most likely to become permanent.",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói thay đổi nhỏ lặp lại cùng nơi và cùng thời điểm dễ trở thành vĩnh viễn nhất.",
+    "whyWrong": "Từ 'day' gần nghĩa thời gian nhưng cụm nguyên trong bài là 'at the same time'.",
+    "trap": "Đáp án là vế thứ hai của một cặp song song 'same place and at the same time'."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "time"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P03-p4",
+      "sentenceIndex": 4,
+      "quote": "Small changes, repeated in the same place and at the same time, are more likely to become permanent than dramatic resolutions made once a year."
+     }
+    }
+   }
+  }
+ ]
+}

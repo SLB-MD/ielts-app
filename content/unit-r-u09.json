@@ -1,0 +1,469 @@
+{
+ "schemaVersion": 1,
+ "id": "R-U09",
+ "skill": "reading",
+ "title": "Reading: YES/NO/NOT GIVEN — học trực tuyến ở đại học",
+ "objective": "Học xong bài này, bạn sẽ phân biệt được quan điểm của chính tác giả với khẳng định được gán cho giảng viên hay đồng nghiệp khác trong bài về học trực tuyến.",
+ "minutes": 7,
+ "ruleCardId": "RC-YNNG",
+ "passage": {
+  "id": "P-N19",
+  "title": "The Lecture Hall Is Not Sacred",
+  "genre": "opinion",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N19-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "After a decade of teaching in rooms of three hundred seats, I now record most of my lectures and let students watch them when it suits their own schedules."
+     },
+     {
+      "index": 2,
+      "text": "In my view, the traditional lecture is a poor use of the one hour a week when students and teachers are actually together."
+     },
+     {
+      "index": 3,
+      "text": "Class time should be spent on discussion, problems and feedback, not on one person reading aloud what students could read or watch at home."
+     }
+    ]
+   },
+   {
+    "id": "P-N19-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Colleagues sometimes claim that students simply will not watch recorded lectures without the discipline of a timetable."
+     },
+     {
+      "index": 2,
+      "text": "My own attendance data tell a different story: viewing figures for my recordings rise steadily in the weeks before examinations, and most students watch each lecture at least twice."
+     },
+     {
+      "index": 3,
+      "text": "I do accept that a minority of students struggle to organise their own study time, and for them the university should offer structured study sessions on campus."
+     }
+    ]
+   },
+   {
+    "id": "P-N19-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "None of this means universities should close their lecture halls and move every course online."
+     },
+     {
+      "index": 2,
+      "text": "Laboratory work, studio practice and small-group teaching lose too much when they are moved onto a screen, and I would oppose any plan to digitise them."
+     },
+     {
+      "index": 3,
+      "text": "What I am arguing for is a division of labour: information delivered online, and human contact reserved for the work that genuinely needs it."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "P-N20",
+  "title": "A Student Writes Back",
+  "genre": "opinion",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N20-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "When my university moved first-year lectures online, I worried that I would feel cut off from my course."
+     },
+     {
+      "index": 2,
+      "text": "Two terms later, I honestly prefer it, because I can pause a recording whenever a concept needs a second look."
+     },
+     {
+      "index": 3,
+      "text": "Some lecturers claim that students learn more from handouts than from recordings, but nobody has ever asked us which we actually use."
+     },
+     {
+      "index": 4,
+      "text": "What I value most is the weekly seminar, where our tutor questions us on the recorded material and the quieter students finally get heard."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0901",
+   "questionType": "ynng",
+   "unitId": "R-U09",
+   "passageId": "P-N19",
+   "stem": "The writer thinks live class time is wasted when it is used only to deliver information to students.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "paraphrase-structural"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "YES",
+   "evidence": {
+    "paragraphId": "P-N19-p1",
+    "sentenceIndex": 2,
+    "quote": "In my view, the traditional lecture is a poor use of the one hour a week when students and teachers are actually together."
+   },
+   "writerViewQuote": "In my view, the traditional lecture is a poor use of the one hour a week when students and teachers are actually together.",
+   "explanation": {
+    "whyCorrect": "Đoạn một viết bài giảng truyền thống là 'a poor use' của giờ học duy nhất khi sinh viên và giáo viên thực sự ở cùng nhau.",
+    "whyWrong": "Không phải NOT GIVEN vì tác giả mở đầu bằng 'In my view', nêu thẳng quan điểm của chính mình về giờ lên lớp.",
+    "trap": "Câu hỏi diễn đạt lại 'poor use' thành 'is wasted'; cần nhận ra đây là cùng một đánh giá chứ không phải ý mới."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0902",
+   "questionType": "ynng",
+   "unitId": "R-U09",
+   "passageId": "P-N19",
+   "stem": "The writer believes that most students fail to watch recorded lectures regularly.",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "ynng",
+    "contradiction"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "NO",
+   "evidence": {
+    "paragraphId": "P-N19-p2",
+    "sentenceIndex": 2,
+    "quote": "My own attendance data tell a different story: viewing figures for my recordings rise steadily in the weeks before examinations, and most students watch each lecture at least twice."
+   },
+   "writerViewQuote": "My own attendance data tell a different story: viewing figures for my recordings rise steadily in the weeks before examinations, and most students watch each lecture at least twice.",
+   "explanation": {
+    "whyCorrect": "Số liệu của chính tác giả cho thấy lượt xem tăng đều trước kỳ thi và hầu hết sinh viên xem mỗi bài giảng ít nhất hai lần.",
+    "whyWrong": "Không phải NOT GIVEN vì tác giả trực tiếp bác bỏ lo ngại bằng cụm 'tell a different story' kèm số liệu theo dõi của mình.",
+    "trap": "Câu đầu đoạn hai là lời của đồng nghiệp ('Colleagues sometimes claim'); đó không phải quan điểm của tác giả mà là ý kiến bị bác bỏ."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0903",
+   "questionType": "ynng",
+   "unitId": "R-U09",
+   "passageId": "P-N19",
+   "stem": "The writer believes recorded lectures should be shorter than traditional lectures.",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "ynng",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "NOT GIVEN",
+   "nearMiss": {
+    "paragraphId": "P-N19-p1",
+    "sentenceIndex": 1,
+    "quote": "After a decade of teaching in rooms of three hundred seats, I now record most of my lectures and let students watch them when it suits their own schedules.",
+    "whyNotEnough": "Tác giả nói mình ghi hình hầu hết bài giảng và sinh viên xem lúc nào tùy ý, nhưng không hề so sánh hay nhắc tới độ dài của bài giảng ghi hình."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "shorter",
+     "length",
+     "minutes",
+     "duration"
+    ],
+    "result": "Không câu nào nói về độ dài của bài giảng ghi hình hay bài giảng truyền thống."
+   },
+   "explanation": {
+    "whyCorrect": "Bài bàn về việc ghi hình và thời điểm xem, không hề bàn độ dài; vì vậy không thể kết luận tác giả muốn bài giảng ghi hình ngắn hơn.",
+    "whyWrong": "Không phải YES vì không câu nào ủng hộ rút ngắn. Không phải NO vì tác giả cũng không nói bài ghi hình nên dài bằng bài truyền thống.",
+    "trap": "Chi tiết 'one hour a week' nói về giờ gặp trực tiếp hằng tuần, không phải độ dài quy định cho bài giảng ghi hình."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-0901",
+   "questionType": "mcq",
+   "unitId": "R-U09",
+   "passageId": "P-N19",
+   "stem": "According to the writer, students who find it difficult to organise their own study time should",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "be offered structured study sessions on campus"
+    },
+    {
+     "id": "b",
+     "text": "watch each lecture at least twice before examinations",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "be required to attend live lectures every week",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "receive less feedback during class time",
+     "distractorType": "opposite"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N19-p2",
+    "sentenceIndex": 3,
+    "quote": "I do accept that a minority of students struggle to organise their own study time, and for them the university should offer structured study sessions on campus."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn hai viết với nhóm sinh viên này, trường 'should offer structured study sessions on campus'.",
+    "whyWrong": "Lựa chọn b mượn chi tiết xem hai lần của số đông sinh viên. Lựa chọn c không được đề xuất ở đâu. Lựa chọn d ngược với chủ trương dành giờ học cho phản hồi.",
+    "trap": "Câu nguồn bắt đầu bằng sự nhượng bộ 'I do accept that'; phần sau 'and for them' mới là đề xuất dành cho đúng nhóm sinh viên trong câu hỏi."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-SEN-0901",
+   "questionType": "sentence",
+   "unitId": "R-U09",
+   "passageId": "P-N19",
+   "stem": "The writer argues that {{1}} work loses too much when it is moved onto a screen.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Laboratory"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N19-p3",
+      "sentenceIndex": 2,
+      "quote": "Laboratory work, studio practice and small-group teaching lose too much when they are moved onto a screen, and I would oppose any plan to digitise them."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "practical",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Câu nguồn liệt kê 'Laboratory work, studio practice and small-group teaching lose too much' khi chuyển lên màn hình.",
+    "whyWrong": "'Practical' sát nghĩa chung nhưng không phải từ nguyên trong bài ở vị trí này nên không được chấp nhận.",
+    "trap": "Danh sách có ba hạng mục; chỗ trống đứng ngay trước 'work' nên phải khớp với hạng mục đầu tiên trong câu nguồn."
+   }
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0951",
+   "questionType": "ynng",
+   "unitId": "R-U09",
+   "passageId": "P-N20",
+   "stem": "The writer prefers recorded lectures because she can stop them to review difficult ideas.",
+   "correct": "YES",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "paraphrase-structural"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu hai viết cô 'honestly prefer it' vì có thể 'pause a recording whenever a concept needs a second look'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N20-p1",
+    "sentenceIndex": 2,
+    "quote": "Two terms later, I honestly prefer it, because I can pause a recording whenever a concept needs a second look."
+   },
+   "writerViewQuote": "Two terms later, I honestly prefer it, because I can pause a recording whenever a concept needs a second look."
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0952",
+   "questionType": "ynng",
+   "unitId": "R-U09",
+   "passageId": "P-N20",
+   "stem": "The writer thinks the weekly seminar is less valuable than the recorded lectures.",
+   "correct": "NO",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu cuối mở đầu 'What I value most is the weekly seminar', đặt seminar lên trên mọi thứ khác, ngược với 'less valuable'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N20-p1",
+    "sentenceIndex": 4,
+    "quote": "What I value most is the weekly seminar, where our tutor questions us on the recorded material and the quieter students finally get heard."
+   },
+   "writerViewQuote": "What I value most is the weekly seminar, where our tutor questions us on the recorded material and the quieter students finally get heard."
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-0953",
+   "questionType": "ynng",
+   "unitId": "R-U09",
+   "passageId": "P-N20",
+   "stem": "The writer believes handouts are more useful than recordings.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "ynng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Khẳng định sinh viên học được nhiều hơn từ tài liệu phát tay là lời của 'some lecturers'; tác giả chỉ nói chưa ai hỏi sinh viên, không nêu quan điểm của mình.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "nearMiss": {
+    "paragraphId": "P-N20-p1",
+    "sentenceIndex": 3,
+    "quote": "Some lecturers claim that students learn more from handouts than from recordings, but nobody has ever asked us which we actually use.",
+    "whyNotEnough": "Bài ghi lại lời khẳng định của một số giảng viên và nói sinh viên chưa từng được hỏi, nhưng không nêu quan điểm của chính tác giả về tài liệu phát tay."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "handouts",
+     "lecturers claim",
+     "asked us"
+    ],
+    "result": "Không câu nào nêu quan điểm của tác giả về việc tài liệu phát tay hữu ích hơn bản ghi hay không."
+   }
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "Teachers deliver information in lectures.",
+  "instruction": "Bắt đầu bằng: Information is delivered …",
+  "mustContain": [
+   "is delivered"
+  ],
+  "mustNotContain": [
+   "Teachers deliver"
+  ],
+  "samples": [
+   "Information is delivered in lectures by teachers."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

@@ -1,0 +1,536 @@
+{
+ "schemaVersion": 1,
+ "kind": "mini-test",
+ "id": "MT-01",
+ "title": "Mini test 1",
+ "minutes": 9,
+ "passages": [
+  {
+   "id": "P-N04",
+   "title": "The Rise of Repair Cafes",
+   "genre": "society",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "P-N04-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Repair cafes first appeared in the Netherlands in 2009 and have since spread to many countries."
+      },
+      {
+       "index": 2,
+       "text": "At a repair cafe, visitors bring broken household items, such as lamps, bicycles and clothing, and repair them with the help of volunteers."
+      },
+      {
+       "index": 3,
+       "text": "The cafes are free to enter, although visitors usually buy a drink and are expected to attempt the repair themselves rather than simply hand the item over."
+      },
+      {
+       "index": 4,
+       "text": "Supporters say the movement reduces waste, because fewer products are thrown away, and teaches practical skills that many people have lost."
+      },
+      {
+       "index": 5,
+       "text": "Critics point out that some modern products are designed so that they cannot be opened, which makes repairing them almost impossible."
+      },
+      {
+       "index": 6,
+       "text": "Even so, a single cafe can hold only a limited number of visitors each month, so the direct effect on total waste remains small."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "clips": [
+  {
+   "id": "A-N02",
+   "title": "Booking a train ticket",
+   "lines": [
+    {
+     "speaker": "Clerk",
+     "text": "Good afternoon. How can I help you?"
+    },
+    {
+     "speaker": "Man",
+     "text": "I would like a ticket to Bristol on Friday morning, please."
+    },
+    {
+     "speaker": "Clerk",
+     "text": "The eight fifteen train arrives at ten forty. A return ticket costs forty-six pounds."
+    },
+    {
+     "speaker": "Man",
+     "text": "Is there a cheaper train?"
+    },
+    {
+     "speaker": "Clerk",
+     "text": "The nine fifty is thirty-nine pounds return, but it stops at more stations, so it takes longer."
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "MT-R-01",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Repair cafes started in the Netherlands.",
+   "correct": "TRUE",
+   "difficulty": 1,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu đầu bài nói repair cafe xuất hiện đầu tiên ở Hà Lan năm 2009.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "P-N04",
+   "evidence": {
+    "paragraphId": "P-N04-p1",
+    "sentenceIndex": 1,
+    "quote": "Repair cafes first appeared in the Netherlands in 2009 and have since spread to many countries."
+   }
+  },
+  {
+   "id": "MT-R-02",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Visitors pay a fee to have their items repaired at a repair cafe.",
+   "correct": "FALSE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói vào cửa miễn phí và khách tự sửa với sự giúp đỡ, không trả phí sửa.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "P-N04",
+   "evidence": {
+    "paragraphId": "P-N04-p1",
+    "sentenceIndex": 3,
+    "quote": "The cafes are free to enter, although visitors usually buy a drink and are expected to attempt the repair themselves rather than simply hand the item over."
+   }
+  },
+  {
+   "id": "MT-R-03",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Repair cafes have reduced total waste by half in most countries.",
+   "correct": "NOT GIVEN",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "quantifier"
+   ],
+   "explanation": {
+    "whyCorrect": "Con số 'một nửa' không có trong bài.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "P-N04",
+   "nearMiss": {
+    "paragraphId": "P-N04-p1",
+    "sentenceIndex": 6,
+    "quote": "Even so, a single cafe can hold only a limited number of visitors each month, so the direct effect on total waste remains small.",
+    "whyNotEnough": "Bài nói tác động trực tiếp lên tổng lượng rác còn nhỏ, không cho con số giảm một nửa."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "half",
+     "reduced",
+     "most countries"
+    ],
+    "result": "Không câu nào nêu tỉ lệ giảm rác."
+   }
+  },
+  {
+   "id": "MT-R-04",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "According to critics, some modern products are difficult to repair because they",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói nhiều sản phẩm được thiết kế không mở ra được.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "P-N04",
+   "options": [
+    {
+     "id": "a",
+     "text": "are too heavy to carry",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "cannot be opened"
+    },
+    {
+     "id": "c",
+     "text": "contain dangerous parts",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "cost too much",
+     "distractorType": "partial-truth"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "P-N04-p1",
+    "sentenceIndex": 5,
+    "quote": "Critics point out that some modern products are designed so that they cannot be opened, which makes repairing them almost impossible."
+   }
+  },
+  {
+   "id": "MT-R-05",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "At a repair cafe, visitors repair their items with the help of {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Từ nguyên trong bài: 'with the help of volunteers'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "P-N04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "volunteers"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "P-N04-p1",
+      "sentenceIndex": 2,
+      "quote": "At a repair cafe, visitors bring broken household items, such as lamps, bicycles and clothing, and repair them with the help of volunteers."
+     }
+    }
+   }
+  },
+  {
+   "id": "MT-R-06",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Supporters believe repair cafes are valuable mainly because they reduce waste and",
+   "correct": "a",
+   "difficulty": 2,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nêu hai giá trị: giảm rác và dạy kỹ năng thực hành.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "P-N04",
+   "options": [
+    {
+     "id": "a",
+     "text": "teach practical skills"
+    },
+    {
+     "id": "b",
+     "text": "create paid jobs",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "sell cheap products",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "replace factories",
+     "distractorType": "over-generalization"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "P-N04-p1",
+    "sentenceIndex": 4,
+    "quote": "Supporters say the movement reduces waste, because fewer products are thrown away, and teaches practical skills that many people have lost."
+   }
+  },
+  {
+   "id": "MT-L-01",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "The man wants a ticket to {{1}}.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form"
+   ],
+   "explanation": {
+    "whyCorrect": "Điểm đến là Bristol.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "A-N02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Bristol"
+     ],
+     "maxWords": 1
+    }
+   }
+  },
+  {
+   "id": "MT-L-02",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "The 8.15 train arrives at {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Giờ đến là ten forty.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "A-N02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "ten forty",
+      "10.40",
+      "10:40"
+     ],
+     "maxWords": 2
+    }
+   }
+  },
+  {
+   "id": "MT-L-03",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "A return ticket on the 8.15 train costs",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Giá khứ hồi chuyến 8.15 là 46 bảng; 39 bảng là chuyến 9.50.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "A-N02",
+   "options": [
+    {
+     "id": "a",
+     "text": "39 pounds",
+     "distractorType": "wrong-speaker"
+    },
+    {
+     "id": "b",
+     "text": "46 pounds"
+    },
+    {
+     "id": "c",
+     "text": "55 pounds",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "85 pounds",
+     "distractorType": "out-of-scope"
+    }
+   ]
+  },
+  {
+   "id": "MT-L-04",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "The 9.50 train is cheaper but",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Chuyến 9.50 rẻ hơn nhưng dừng ở nhiều ga hơn nên đi lâu hơn.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "A-N02",
+   "options": [
+    {
+     "id": "a",
+     "text": "leaves earlier",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "stops at more stations"
+    },
+    {
+     "id": "c",
+     "text": "has no seats",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "arrives before ten",
+     "distractorType": "out-of-scope"
+    }
+   ]
+  }
+ ]
+}

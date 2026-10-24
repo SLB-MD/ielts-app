@@ -1,0 +1,23 @@
+{
+ "schemaVersion": 1,
+ "kind": "speaking-prompts",
+ "part1": [
+  {"topic": "Work and study", "questions": ["Do you work or are you a student?", "What subject are you studying?", "Why did you choose that subject?", "What do you like most about your work or studies?"]},
+  {"topic": "Hometown", "questions": ["Where is your hometown?", "What do you like about living there?", "Has your hometown changed much in recent years?", "Would you like to live there in the future?"]},
+  {"topic": "Health and daily routine", "questions": ["What do you usually do to stay healthy?", "Do you have a regular daily routine?", "How often do you visit a doctor or a clinic?", "Do you think you get enough sleep and exercise?"]},
+  {"topic": "Work and transport", "questions": ["How do you usually travel to work or to your place of study?", "How long does that journey take?", "Do you prefer public transport or travelling by motorbike or car?", "What delivery services do you often use in daily life?"]}
+ ],
+ "part2": [
+  {"cue": "Describe a skill you learned as a child.", "points": ["say what the skill is", "say who taught you", "say how you learned it", "and explain how useful the skill is today"]},
+  {"cue": "Describe a place you visited that you particularly enjoyed.", "points": ["say where the place is", "say when you went there", "say what you did there", "and explain why you enjoyed it"]},
+  {"cue": "Describe a person working in healthcare whom you admire.", "points": ["say who the person is", "say what their job involves", "say when you first met them or heard about them", "and explain why you admire them"]},
+  {"cue": "Describe a delivery or a transport journey that you remember well.", "points": ["say what was being delivered or where the journey was", "say who organised it or travelled", "say what happened during the delivery or journey", "and explain why you remember it"]}
+ ],
+ "part3": [
+  {"topic": "Learning skills", "questions": ["What skills are most useful for adults in daily life?", "Should schools teach practical skills such as cooking and managing money?", "Can adults learn new skills as easily as children?"]},
+  {"topic": "Travel", "questions": ["Why do so many people enjoy travelling to other countries?", "What are the disadvantages of mass tourism?", "Will people travel more or less in the future, in your opinion?"]},
+  {"topic": "Healthcare work", "questions": ["What qualities does a good doctor or nurse need?", "Why do some countries find it difficult to train enough medical staff?", "How can technology change the work of people in healthcare?"]},
+  {"topic": "Transport and deliveries", "questions": ["How has online shopping changed the delivery industry in your country?", "What problems can large delivery networks cause for cities?", "Will drones and driverless vehicles replace delivery workers in the future, in your opinion?"]}
+ ],
+ "checklist": ["Tôi đã nói đủ thời lượng của phần này?", "Tôi có dùng từ cụ thể thay vì từ chung chung?", "Tôi có cả câu đơn lẫn câu phức?", "Tôi đã nghe lại và nhận ra chỗ mình dừng lâu?"]
+}

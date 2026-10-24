@@ -1,0 +1,92 @@
+{
+ "schemaVersion": 1,
+ "kind": "rule-cards",
+ "cards": [
+  {
+   "id": "RC-TALK-1",
+   "title": "Xin nhắc lại hoặc nói chậm",
+   "rule": "Sorry, could you say that again? · Could you speak a bit more slowly?",
+   "steps": [
+    "Dùng ngay khi không nghe rõ, thay vì đoán ý người nói.",
+    "Nói rõ phần chưa nghe được: từ cuối câu, con số hay tên riêng.",
+    "Nghe lại phần đó rồi tiếp tục câu chuyện."
+   ],
+   "traps": [
+    "Im lặng và gật đầu dù chưa hiểu",
+    "Nói yes theo thói quen khi chưa nghe rõ",
+    "Xin nhắc lại cả đoạn dài thay vì phần chưa nghe được"
+   ]
+  },
+  {
+   "id": "RC-TALK-2",
+   "title": "Xác nhận mình hiểu",
+   "rule": "So you mean …, right?",
+   "steps": [
+    "Tóm tắt ý vừa nghe bằng một câu ngắn của chính mình.",
+    "Thêm right? ở cuối để người nói xác nhận hoặc sửa lại.",
+    "Nếu bị sửa, nghe phần sửa và nhắc lại ý đúng một lần."
+   ],
+   "traps": [
+    "Nhắc lại nguyên văn cả câu dài thay vì tóm tắt ý",
+    "Không kiểm tra lại khi mới hiểu khoảng một nửa"
+   ]
+  },
+  {
+   "id": "RC-TALK-3",
+   "title": "Hỏi nghĩa của từ",
+   "rule": "What does … mean? · What do you mean by …?",
+   "steps": [
+    "Chèn từ chưa biết vào đúng vị trí trong cụm mẫu.",
+    "Nghe giải thích và để ý ví dụ đi kèm từ đó.",
+    "Dùng lại từ đó trong câu tiếp theo của mình."
+   ],
+   "traps": [
+    "Dừng để tra từ điển giữa câu, làm mất mạch hội thoại",
+    "Hỏi nghĩa quá nhiều từ trong cùng một lượt nói"
+   ]
+  },
+  {
+   "id": "RC-TALK-4",
+   "title": "Diễn đạt vòng khi quên từ",
+   "rule": "It's the thing you use to … · It's a kind of …",
+   "steps": [
+    "Nói công dụng hoặc loại của vật thay cho tên gọi chưa nhớ ra.",
+    "Thêm một chi tiết: nơi dùng, kích thước hoặc cách dùng.",
+    "Khi người nghe đoán đúng từ, nhắc lại từ đó một lần để ghi nhớ."
+   ],
+   "traps": [
+    "Dừng hẳn cuộc nói chuyện để tìm một từ duy nhất",
+    "Dùng cử chỉ thay cho lời nói trong cuộc gọi chỉ có âm thanh"
+   ]
+  },
+  {
+   "id": "RC-TALK-5",
+   "title": "Mua thời gian để nghĩ",
+   "rule": "That's an interesting question. Let me think for a moment.",
+   "steps": [
+    "Nói cụm mẫu ngay khi cần thêm thời gian, thay vì im lặng dài.",
+    "Dùng khoảng lặng để chọn một ý chính, không soạn cả bài nói.",
+    "Bắt đầu trả lời bằng ý đơn giản nhất trước."
+   ],
+   "traps": [
+    "Im lặng quá lâu khiến người nghe tưởng mất kết nối",
+    "Cố tìm câu hoàn hảo rồi bỏ mất ý định nói"
+   ]
+  },
+  {
+   "id": "RC-TALK-6",
+   "title": "Mở rộng ý",
+   "rule": "For example, … · The reason is that …",
+   "steps": [
+    "Sau ý chính, thêm một ví dụ bằng cụm For example.",
+    "Khi cần giải thích lý do, dùng cụm The reason is that.",
+    "Kết thúc lượt nói bằng một câu ngắn và rõ ràng."
+   ],
+   "traps": [
+    "Trả lời một, hai từ khiến cuộc nói chuyện dừng sớm",
+    "Thêm quá nhiều ý trong cùng một lượt nói"
+   ]
+  }
+ ],
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

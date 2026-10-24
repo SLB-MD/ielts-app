@@ -1,0 +1,472 @@
+{
+ "schemaVersion": 1,
+ "id": "R-U02",
+ "skill": "reading",
+ "title": "Reading: phân biệt quan điểm tác giả với sự kiện",
+ "objective": "Học xong bài này, bạn sẽ phân biệt được quan điểm của tác giả với sự kiện và ý kiến của người khác trong câu YES/NO/NOT GIVEN.",
+ "minutes": 6,
+ "ruleCardId": "RC-YNNG",
+ "passage": {
+  "id": "P-N03",
+  "title": "Why Cities Should Keep Funding Public Libraries",
+  "genre": "opinion",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N03-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "City councils facing tight budgets often ask whether public libraries are still worth funding, and in my view the answer is clearly yes."
+     },
+     {
+      "index": 2,
+      "text": "Libraries remain one of the few public spaces where everyone is welcome without having to spend money."
+     },
+     {
+      "index": 3,
+      "text": "For that reason, cutting their funding would remove something that no café or shopping centre can replace."
+     }
+    ]
+   },
+   {
+    "id": "P-N03-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Critics sometimes claim that libraries have lost their purpose because almost everything can be found online."
+     },
+     {
+      "index": 2,
+      "text": "I find this argument unconvincing, because a large minority of residents still have no reliable internet connection at home."
+     },
+     {
+      "index": 3,
+      "text": "Librarians also argue that trained staff help visitors judge which online information can be trusted."
+     },
+     {
+      "index": 4,
+      "text": "That guidance matters more, not less, in an age of fast-moving misinformation."
+     }
+    ]
+   },
+   {
+    "id": "P-N03-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Public libraries also support people who are looking for work, many of whom depend on library computers to apply for jobs."
+     },
+     {
+      "index": 2,
+      "text": "In addition, reading programmes for young children help build early language skills that schools alone cannot always provide."
+     },
+     {
+      "index": 3,
+      "text": "Councils should therefore protect library budgets and, where possible, extend opening hours in the evenings."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "P-N04",
+  "title": "A Reading Room for the Village",
+  "genre": "opinion",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N04-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "When the village hall added a small reading room five years ago, few people expected it to be used much."
+     },
+     {
+      "index": 2,
+      "text": "In fact, the room is now busy every evening, and I believe its success shows that shared reading spaces still matter."
+     },
+     {
+      "index": 3,
+      "text": "Some villagers say the room should open on Sundays as well, although no decision has been taken on this."
+     },
+     {
+      "index": 4,
+      "text": "What is clear is that the reading room has brought neighbours together in a way that few other activities have."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "R-YNNG-0001",
+   "skill": "reading",
+   "questionType": "ynng",
+   "unitId": "R-U02",
+   "passageId": "P-N03",
+   "stem": "The writer believes that public libraries should continue to receive public money.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "ynng",
+    "paraphrase-structural"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "YES",
+   "evidence": {
+    "paragraphId": "P-N03-p1",
+    "sentenceIndex": 1,
+    "quote": "City councils facing tight budgets often ask whether public libraries are still worth funding, and in my view the answer is clearly yes."
+   },
+   "writerViewQuote": "City councils facing tight budgets often ask whether public libraries are still worth funding, and in my view the answer is clearly yes.",
+   "explanation": {
+    "whyCorrect": "Ngay câu đầu, tác giả viết 'in my view the answer is clearly yes' khi bàn việc tiếp tục tài trợ thư viện.",
+    "whyWrong": "Không phải NO vì tác giả ủng hộ rõ ràng. Đây là quan điểm của chính tác giả, không phải ý kiến của người khác được trích dẫn.",
+    "trap": "Câu hỏi đổi 'still worth funding' thành 'continue to receive public money'; khác cách nói, cùng một ý."
+   }
+  },
+  {
+   "id": "R-YNNG-0002",
+   "skill": "reading",
+   "questionType": "ynng",
+   "unitId": "R-U02",
+   "passageId": "P-N03",
+   "stem": "The writer thinks that online information has made library staff unnecessary.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "contradiction"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "NO",
+   "evidence": {
+    "paragraphId": "P-N03-p2",
+    "sentenceIndex": 4,
+    "quote": "That guidance matters more, not less, in an age of fast-moving misinformation."
+   },
+   "writerViewQuote": "That guidance matters more, not less, in an age of fast-moving misinformation.",
+   "explanation": {
+    "whyCorrect": "Tác giả viết sự hướng dẫn của nhân viên 'matters more, not less', nghĩa là nhân viên càng cần thiết hơn, ngược hẳn câu hỏi.",
+    "whyWrong": "Không phải NOT GIVEN vì tác giả nêu thẳng mức độ cần thiết của nhân viên thư viện ở cuối đoạn hai.",
+    "trap": "Ý 'thư viện hết cần thiết' là luận điểm của người phê bình mà tác giả phản bác; gán ý đó cho tác giả là chọn sai."
+   }
+  },
+  {
+   "id": "R-YNNG-0003",
+   "skill": "reading",
+   "questionType": "ynng",
+   "unitId": "R-U02",
+   "passageId": "P-N03",
+   "stem": "The writer believes librarians should be replaced by volunteers.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "NOT GIVEN",
+   "nearMiss": {
+    "paragraphId": "P-N03-p2",
+    "sentenceIndex": 3,
+    "quote": "Librarians also argue that trained staff help visitors judge which online information can be trusted.",
+    "whyNotEnough": "Bài nói nhân viên được đào tạo giúp người đọc đánh giá thông tin trực tuyến, nhưng không nhắc đến tình nguyện viên hay việc thay thế nhân viên."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "volunteers",
+     "replaced",
+     "librarians"
+    ],
+    "result": "Không câu nào nhắc đến tình nguyện viên hay việc thay thế thủ thư."
+   },
+   "explanation": {
+    "whyCorrect": "Toàn bài không nhắc tình nguyện viên; việc thay thế nhân viên không được khẳng định cũng không bị phủ định.",
+    "whyWrong": "Không phải NO vì tác giả không nói nhân viên không nên bị thay thế; bài chỉ khẳng định vai trò của nhân viên được đào tạo.",
+    "trap": "Câu gần nhất nói về nhân viên được đào tạo khiến người đọc dễ suy thêm ý về tình nguyện viên mà bài không hề nêu."
+   }
+  },
+  {
+   "id": "R-MCQ-0002",
+   "skill": "reading",
+   "questionType": "mcq",
+   "unitId": "R-U02",
+   "passageId": "P-N03",
+   "stem": "According to the writer, one group that particularly depends on public libraries is",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "people applying for jobs"
+    },
+    {
+     "id": "b",
+     "text": "owners of cafés and shopping centres",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "city council officials",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "visitors who distrust all online information",
+     "distractorType": "over-generalization"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N03-p3",
+    "sentenceIndex": 1,
+    "quote": "Public libraries also support people who are looking for work, many of whom depend on library computers to apply for jobs."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn ba nói nhiều người tìm việc phụ thuộc vào máy tính của thư viện để nộp đơn xin việc.",
+    "whyWrong": "Lựa chọn b mượn từ 'café, shopping centre' nhưng sai vai trò. Lựa chọn c không được bài nói là nhóm phụ thuộc thư viện. Lựa chọn d nói quá mức so với bài.",
+    "trap": "Lựa chọn sai thường mượn đúng từ của bài rồi gắn vào một vai trò khác."
+   }
+  },
+  {
+   "id": "R-SEN-0002",
+   "skill": "reading",
+   "questionType": "sentence",
+   "unitId": "R-U02",
+   "passageId": "P-N03",
+   "stem": "Reading programmes help young children build early {{1}} skills.",
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "language"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N03-p3",
+      "sentenceIndex": 2,
+      "quote": "In addition, reading programmes for young children help build early language skills that schools alone cannot always provide."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "reading",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Từ cần điền nằm nguyên trong bài: 'early language skills'.",
+    "whyWrong": "Đáp án phải là từ nguyên trong bài và đúng ngữ pháp khi điền vào câu; 'reading' lặp từ ở đầu câu nhưng không khớp cụm trong bài.",
+    "trap": "Chỗ trống đứng ngay sau 'reading programmes' nên dễ điền lại từ 'reading'; cụm đúng trong bài là 'language skills'."
+   }
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "id": "R-YNNG-0101",
+   "skill": "reading",
+   "questionType": "ynng",
+   "unitId": "R-U02",
+   "passageId": "P-N04",
+   "stem": "The writer believes the reading room has been a success.",
+   "correct": "YES",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "ynng",
+    "paraphrase-lexical"
+   ],
+   "explanation": {
+    "whyCorrect": "Tác giả viết 'I believe its success shows that shared reading spaces still matter', khẳng định phòng đọc thành công.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N04-p1",
+    "sentenceIndex": 2,
+    "quote": "In fact, the room is now busy every evening, and I believe its success shows that shared reading spaces still matter."
+   },
+   "writerViewQuote": "In fact, the room is now busy every evening, and I believe its success shows that shared reading spaces still matter."
+  },
+  {
+   "id": "R-YNNG-0102",
+   "skill": "reading",
+   "questionType": "ynng",
+   "unitId": "R-U02",
+   "passageId": "P-N04",
+   "stem": "The writer thinks the reading room is rarely used.",
+   "correct": "NO",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "ynng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói phòng đọc 'busy every evening', ngược với 'rarely used'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N04-p1",
+    "sentenceIndex": 2,
+    "quote": "In fact, the room is now busy every evening, and I believe its success shows that shared reading spaces still matter."
+   },
+   "writerViewQuote": "In fact, the room is now busy every evening, and I believe its success shows that shared reading spaces still matter."
+  },
+  {
+   "id": "R-YNNG-0103",
+   "skill": "reading",
+   "questionType": "ynng",
+   "unitId": "R-U02",
+   "passageId": "P-N04",
+   "stem": "The writer believes the reading room will open on Sundays next month.",
+   "correct": "NOT GIVEN",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài không khẳng định cũng không phủ định việc mở cửa Chủ nhật tháng sau; mới chỉ có đề xuất và chưa có quyết định.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "nearMiss": {
+    "paragraphId": "P-N04-p1",
+    "sentenceIndex": 3,
+    "quote": "Some villagers say the room should open on Sundays as well, although no decision has been taken on this.",
+    "whyNotEnough": "Bài chỉ nói một số dân làng đề xuất mở cửa vào Chủ nhật và chưa có quyết định nào, không nói tháng sau sẽ mở."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "Sundays",
+     "next month",
+     "decision"
+    ],
+    "result": "Không câu nào nói phòng đọc sẽ mở cửa vào Chủ nhật trong tháng sau."
+   }
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "Libraries help people who are looking for work.",
+  "instruction": "Bắt đầu bằng: Public libraries support people …",
+  "mustContain": [
+   "support"
+  ],
+  "mustNotContain": [
+   "help"
+  ],
+  "samples": [
+   "Public libraries support people who are looking for work."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

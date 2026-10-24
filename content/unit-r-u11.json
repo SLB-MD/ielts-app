@@ -1,0 +1,611 @@
+{
+ "schemaVersion": 1,
+ "id": "R-U11",
+ "skill": "reading",
+ "title": "Reading: nối tiêu đề đoạn và trắc nghiệm — lịch sử nhiếp ảnh",
+ "objective": "Học xong bài này, bạn sẽ nêu được ý chính của cả đoạn trước khi chọn tiêu đề, và loại được các tiêu đề chỉ khớp một chi tiết trong bài về lịch sử nhiếp ảnh.",
+ "minutes": 7,
+ "ruleCardId": "RC-MCQ",
+ "passage": {
+  "id": "P-N23",
+  "title": "From Silver Plates to Smartphones",
+  "genre": "history",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N23-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "The first permanent photograph was made in France in the 1820s, when an inventor captured the view from his window on a metal plate coated with a light-sensitive substance."
+     },
+     {
+      "index": 2,
+      "text": "The process took hours of exposure, so early photographs showed empty streets and still objects rather than moving people."
+     },
+     {
+      "index": 3,
+      "text": "Within two decades, the daguerreotype had made portrait photography a business, and studios opened in cities across Europe and America."
+     }
+    ]
+   },
+   {
+    "id": "P-N23-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "For much of the nineteenth century, photography remained a craft for specialists who carried heavy cameras, glass plates and chemicals from place to place."
+     },
+     {
+      "index": 2,
+      "text": "That changed in 1888, when the Kodak company sold a simple box camera loaded with a roll of film that held one hundred pictures."
+     },
+     {
+      "index": 3,
+      "text": "Customers sent the whole camera back to the factory, where the film was developed and printed, and the camera was returned loaded with fresh film."
+     }
+    ]
+   },
+   {
+    "id": "P-N23-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Colour photography existed in experimental forms from the 1860s, but it reached ordinary families only in the 1930s, when reliable colour film went on sale."
+     },
+     {
+      "index": 2,
+      "text": "A second revolution arrived in 1948 with the instant camera, which produced a finished print within minutes of the shutter being pressed."
+     },
+     {
+      "index": 3,
+      "text": "For the first time, photographers could check a picture immediately instead of waiting days for a laboratory to process their film."
+     }
+    ]
+   },
+   {
+    "id": "P-N23-p4",
+    "label": "D",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Digital cameras replaced film with electronic sensors during the 1990s, although early models stored only a handful of low-quality images."
+     },
+     {
+      "index": 2,
+      "text": "When cameras were built into mobile phones in the following decade, photography stopped being a special occasion and became a way of recording daily life."
+     },
+     {
+      "index": 3,
+      "text": "Today, more photographs are taken every day than were taken during the whole of the nineteenth century, and most are shared online within minutes."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "P-N24",
+  "title": "The Camera in a Darkened Room",
+  "genre": "history",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N24-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Centuries before chemical photography, artists used a device called the camera obscura, a darkened room or box into which light entered through a small hole."
+     },
+     {
+      "index": 2,
+      "text": "The light projected an upside-down image of the outside scene onto the opposite wall, which the artist could then trace by hand."
+     },
+     {
+      "index": 3,
+      "text": "Portable versions in the eighteenth century allowed landscape painters to carry the device outdoors, although the image still had to be copied by drawing."
+     }
+    ]
+   },
+   {
+    "id": "P-N24-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "The camera obscura could show an image, but it could not keep one, and this limitation drove inventors to search for light-sensitive materials."
+     },
+     {
+      "index": 2,
+      "text": "When such materials were finally combined with the camera obscura in the nineteenth century, the modern camera was born."
+     },
+     {
+      "index": 3,
+      "text": "Modern digital cameras still follow the same basic design: a dark chamber, an opening that admits light, and a surface that records the image."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1101",
+   "questionType": "mcq",
+   "unitId": "R-U11",
+   "passageId": "P-N23",
+   "stem": "Choose the best heading for Paragraph A.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "matching-headings",
+    "main-idea"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "Early images and the first portrait studios"
+    },
+    {
+     "id": "b",
+     "text": "Why nineteenth-century streets look empty",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "Photography becomes a hobby for families",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "The decline of professional studios",
+     "distractorType": "opposite"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N23-p1",
+    "sentenceIndex": 3,
+    "quote": "Within two decades, the daguerreotype had made portrait photography a business, and studios opened in cities across Europe and America."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn A kể từ bức ảnh cố định đầu tiên ở Pháp thập niên 1820 đến việc daguerreotype biến chụp chân dung thành nghề và phòng chụp mọc lên khắp nơi.",
+    "whyWrong": "Lựa chọn b chỉ dựa vào một chi tiết phố vắng. Lựa chọn c nói về sở thích gia đình thuộc đoạn sau. Lựa chọn d trái với việc phòng chụp mở thêm.",
+    "trap": "Tiêu đề đúng phải bao quát cả đoạn; chi tiết 'empty streets' chỉ là một ý phụ, không thể làm tiêu đề cho đoạn A."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1102",
+   "questionType": "mcq",
+   "unitId": "R-U11",
+   "passageId": "P-N23",
+   "stem": "Choose the best heading for Paragraph C.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "matching-headings",
+    "main-idea"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "Colour arrives, and pictures become instant"
+    },
+    {
+     "id": "b",
+     "text": "Film that could hold a hundred pictures",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "Why laboratories needed days to develop film",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "The end of photography for families",
+     "distractorType": "opposite"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N23-p3",
+    "sentenceIndex": 1,
+    "quote": "Colour photography existed in experimental forms from the 1860s, but it reached ordinary families only in the 1930s, when reliable colour film went on sale."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn C mở đầu bằng ảnh màu đến với gia đình thập niên 1930 và ngay sau đó là máy ảnh chụp lấy liền năm 1948.",
+    "whyWrong": "Lựa chọn b mượn chi tiết cuộn phim một trăm bức của đoạn B. Lựa chọn c hỏi nguyên nhân mà bài không giải thích. Lựa chọn d ngược vì ảnh màu đến với gia đình.",
+    "trap": "Đoạn có hai mốc, màu và lấy liền; tiêu đề đúng phải ôm cả hai, không dừng ở mốc đầu tiên."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1103",
+   "questionType": "mcq",
+   "unitId": "R-U11",
+   "passageId": "P-N23",
+   "stem": "What happened to a Kodak camera after its owner had finished the roll of film?",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "It was sent back to the factory to be processed and reloaded"
+    },
+    {
+     "id": "b",
+     "text": "The owner developed the film at home in a darkroom",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "It was exchanged for a lighter metal model",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "The film was removed and shown in portrait studios",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N23-p2",
+    "sentenceIndex": 3,
+    "quote": "Customers sent the whole camera back to the factory, where the film was developed and printed, and the camera was returned loaded with fresh film."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn B viết khách gửi cả máy về nhà máy, nơi phim được tráng và in, và máy được nạp phim mới rồi gửi trả.",
+    "whyWrong": "Lựa chọn b trái với việc phải gửi máy đi. Lựa chọn c bịa chi tiết đổi máy kim loại nhẹ. Lựa chọn d ghép 'studios' của đoạn A vào sai bối cảnh.",
+    "trap": "Thủ tục gửi cả máy, không chỉ gửi cuộn phim, là chi tiết dễ bị đọc lướt qua trong câu dài cuối đoạn B."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1104",
+   "questionType": "mcq",
+   "unitId": "R-U11",
+   "passageId": "P-N23",
+   "stem": "Choose the best heading for Paragraph D.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "matching-headings",
+    "main-idea"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "Photography becomes part of everyday life"
+    },
+    {
+     "id": "b",
+     "text": "Sensors that stored only a few pictures",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "The best phones for professional photographers",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "A return to film in the digital age",
+     "distractorType": "opposite"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N23-p4",
+    "sentenceIndex": 2,
+    "quote": "When cameras were built into mobile phones in the following decade, photography stopped being a special occasion and became a way of recording daily life."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn D kết luận nhiếp ảnh thôi là dịp đặc biệt, thành cách ghi lại đời sống hằng ngày kể từ khi máy ảnh gắn vào điện thoại.",
+    "whyWrong": "Lựa chọn b chỉ là một chi tiết về bộ nhớ máy đời đầu. Lựa chọn c không có trong bài. Lựa chọn d bịa chuyện quay lại phim nhựa.",
+    "trap": "Câu đầu đoạn D còn nói về máy số đời đầu; ý chính nằm ở sự thay đổi thói quen ở hai câu sau."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1105",
+   "questionType": "mcq",
+   "unitId": "R-U11",
+   "passageId": "P-N23",
+   "stem": "According to the passage, how do today's photography habits differ from those of the nineteenth century?",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "mcq",
+    "paraphrase-structural"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "Far more pictures are taken, and they are usually shared almost at once"
+    },
+    {
+     "id": "b",
+     "text": "Most photographs are still printed on metal plates",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "People take photographs only on special occasions",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "Professional studios develop most photographs",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N23-p4",
+    "sentenceIndex": 3,
+    "quote": "Today, more photographs are taken every day than were taken during the whole of the nineteenth century, and most are shared online within minutes."
+   },
+   "explanation": {
+    "whyCorrect": "Câu cuối đoạn D nói số ảnh chụp mỗi ngày nay nhiều hơn cả thế kỷ mười chín, và hầu hết được chia sẻ trực tuyến trong vài phút.",
+    "whyWrong": "Lựa chọn b mượn 'metal plate' của đoạn A. Lựa chọn c ngược với 'stopped being a special occasion'. Lựa chọn d không được bài nhắc tới.",
+    "trap": "So sánh tổng số ảnh giữa hai thời kỳ nằm ở câu cuối; đọc kỹ cấu trúc 'more ... than' trong câu so sánh."
+   }
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1151",
+   "questionType": "mcq",
+   "unitId": "R-U11",
+   "passageId": "P-N24",
+   "stem": "Choose the best heading for Paragraph A.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "matching-headings",
+    "main-idea"
+   ],
+   "options": [
+    {
+     "id": "a",
+     "text": "A drawing aid used by artists"
+    },
+    {
+     "id": "b",
+     "text": "Light entering through a small hole",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "The search for materials that could fix an image",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "Artists abandon the device in the eighteenth century",
+     "distractorType": "opposite"
+    }
+   ],
+   "correct": "a",
+   "explanation": {
+    "whyCorrect": "Đoạn A mô tả camera obscura là phòng hay hộp tối cho ánh sáng lọt qua lỗ nhỏ, chiếu cảnh ngoài trời lên tường để nghệ sĩ vẽ theo.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N24-p1",
+    "sentenceIndex": 2,
+    "quote": "The light projected an upside-down image of the outside scene onto the opposite wall, which the artist could then trace by hand."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1152",
+   "questionType": "mcq",
+   "unitId": "R-U11",
+   "passageId": "P-N24",
+   "stem": "Choose the best heading for Paragraph B.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "matching-headings",
+    "main-idea"
+   ],
+   "options": [
+    {
+     "id": "a",
+     "text": "From showing images to keeping them"
+    },
+    {
+     "id": "b",
+     "text": "The birth of chemical photography in France",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "How digital sensors improved on film",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "Why the camera obscura fell out of use",
+     "distractorType": "opposite"
+    }
+   ],
+   "correct": "a",
+   "explanation": {
+    "whyCorrect": "Đoạn B mở đầu bằng hạn chế không giữ được hình ảnh, rồi nói vật liệu nhạy sáng kết hợp với camera obscura sinh ra máy ảnh hiện đại.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N24-p2",
+    "sentenceIndex": 2,
+    "quote": "When such materials were finally combined with the camera obscura in the nineteenth century, the modern camera was born."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1153",
+   "questionType": "mcq",
+   "unitId": "R-U11",
+   "passageId": "P-N24",
+   "stem": "What limitation of the camera obscura drove inventors to search for new materials?",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "specific-detail"
+   ],
+   "options": [
+    {
+     "id": "a",
+     "text": "It could display an image but not preserve it"
+    },
+    {
+     "id": "b",
+     "text": "Its images were always upside down",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "It was too large to carry outdoors",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "It could only be used by landscape painters",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "correct": "a",
+   "explanation": {
+    "whyCorrect": "Câu đầu đoạn B viết thiết bị 'could show an image, but it could not keep one', và chính hạn chế này thúc đẩy việc tìm vật liệu nhạy sáng.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N24-p2",
+    "sentenceIndex": 1,
+    "quote": "The camera obscura could show an image, but it could not keep one, and this limitation drove inventors to search for light-sensitive materials."
+   }
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "Kodak sold the first simple box camera in 1888.",
+  "instruction": "Bắt đầu bằng: The first simple box camera …",
+  "mustContain": [
+   "was sold"
+  ],
+  "mustNotContain": [
+   "kodak sold"
+  ],
+  "samples": [
+   "The first simple box camera was sold by Kodak in 1888."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

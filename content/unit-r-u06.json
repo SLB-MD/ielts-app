@@ -1,0 +1,548 @@
+{
+ "schemaVersion": 1,
+ "id": "R-U06",
+ "skill": "reading",
+ "title": "Reading: hoàn thành câu và trắc nghiệm — bản đồ và hàng hải",
+ "objective": "Học xong bài này, bạn sẽ xác định được từ nguyên trong bài để điền vào chỗ trống và loại được lựa chọn sai trong câu trắc nghiệm bằng lý do cụ thể.",
+ "minutes": 6,
+ "ruleCardId": "RC-MCQ",
+ "passage": {
+  "id": "P-N11",
+  "title": "Drawing the World: Maps and the Sea",
+  "genre": "history",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N11-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "For most of human history, sailors who left sight of land had no reliable way of knowing where they were."
+     },
+     {
+      "index": 2,
+      "text": "Early charts were drawn from memory and travellers' reports, so coastlines were often shown in the wrong place."
+     },
+     {
+      "index": 3,
+      "text": "The invention of the magnetic compass, which reached Europe from China by the thirteenth century, gave sailors a consistent sense of direction for the first time."
+     }
+    ]
+   },
+   {
+    "id": "P-N11-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Direction alone, however, could not fix a ship's position, because crews also needed to measure how far they had travelled."
+     },
+     {
+      "index": 2,
+      "text": "From the sixteenth century, sailors estimated speed with a simple device: a rope with knots tied at regular intervals, thrown into the sea behind the ship."
+     },
+     {
+      "index": 3,
+      "text": "Counting the knots that passed through a sailor's hands in a set time gave an approximate speed, and this is why speed at sea is still measured in knots today."
+     },
+     {
+      "index": 4,
+      "text": "Latitude could be found from the height of the sun at midday, but longitude remained a far harder problem."
+     }
+    ]
+   },
+   {
+    "id": "P-N11-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Because a ship's longitude depends on the difference between local time and the time at a reference port, accurate clocks were the missing piece."
+     },
+     {
+      "index": 2,
+      "text": "In the eighteenth century, the clockmaker John Harrison spent decades building sea clocks that stayed accurate on long voyages."
+     },
+     {
+      "index": 3,
+      "text": "His fourth clock, H4, lost only a few seconds on a journey across the Atlantic, and finally gave sailors a practical way to calculate longitude."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "P-N12",
+  "title": "The First Printed Sea Charts",
+  "genre": "history",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N12-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Printed sea charts began to spread in the sixteenth century, as mapmakers in port cities started selling copies to merchant captains."
+     },
+     {
+      "index": 2,
+      "text": "Unlike hand-drawn charts, printed versions could be corrected and reissued when new coastlines were reported."
+     },
+     {
+      "index": 3,
+      "text": "Some captains distrusted the printed charts at first, preferring the handwritten notes they had inherited from older sailors."
+     },
+     {
+      "index": 4,
+      "text": "Within fifty years, however, printed charts were carried on most long voyages, because they were cheaper and easier to replace than unique hand-drawn copies."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "skill": "reading",
+   "id": "R-SEN-0010",
+   "questionType": "sentence",
+   "unitId": "R-U06",
+   "passageId": "P-N11",
+   "stem": "Early charts were often inaccurate because they were drawn from {{1}} and travellers' reports.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "memory"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N11-p1",
+      "sentenceIndex": 2,
+      "quote": "Early charts were drawn from memory and travellers' reports, so coastlines were often shown in the wrong place."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "imagination",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Câu nguồn ở đoạn một nói bản đồ đầu tiên được vẽ 'from memory and travellers' reports'.",
+    "whyWrong": "'Imagination' hợp nghĩa chung nhưng không phải từ nguyên trong bài nên không được chấp nhận.",
+    "trap": "Sau 'from' có hai nguồn của bản đồ; chỗ trống khớp với nguồn thứ nhất, ngay trước 'and travellers' reports'."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-0010",
+   "questionType": "mcq",
+   "unitId": "R-U06",
+   "passageId": "P-N11",
+   "stem": "According to the passage, the magnetic compass helped sailors mainly by",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "giving them a reliable sense of direction"
+    },
+    {
+     "id": "b",
+     "text": "showing the exact position of their ship",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "c",
+     "text": "measuring the speed of the ship",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "telling them the time at the reference port",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N11-p1",
+    "sentenceIndex": 3,
+    "quote": "The invention of the magnetic compass, which reached Europe from China by the thirteenth century, gave sailors a consistent sense of direction for the first time."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn một nói la bàn cho thủy thủ 'a consistent sense of direction for the first time'.",
+    "whyWrong": "Lựa chọn b nói quá vì đoạn hai khẳng định chỉ hướng đi thì chưa xác định được vị trí. Lựa chọn c là việc của dây thừng. Lựa chọn d thuộc vấn đề kinh độ.",
+    "trap": "Các lựa chọn sai đều lấy chi tiết thật ở phần khác của bài rồi gán cho la bàn."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-SEN-0011",
+   "questionType": "sentence",
+   "unitId": "R-U06",
+   "passageId": "P-N11",
+   "stem": "Sailors counted the knots on a rope to estimate the ship's {{1}}.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "speed"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N11-p2",
+      "sentenceIndex": 3,
+      "quote": "Counting the knots that passed through a sailor's hands in a set time gave an approximate speed, and this is why speed at sea is still measured in knots today."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "distance",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Câu nguồn nói đếm nút thừng cho 'an approximate speed', tức tốc độ gần đúng của con tàu.",
+    "whyWrong": "'Distance' được nhắc như thứ thủy thủ cần đo, nhưng dụng cụ đếm nút cho ra tốc độ chứ không phải quãng đường.",
+    "trap": "Chủ đề đoạn là đo lường trên biển nên dễ điền 'distance'; kết quả của phép đếm nút trong bài là tốc độ."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-0011",
+   "questionType": "mcq",
+   "unitId": "R-U06",
+   "passageId": "P-N11",
+   "stem": "Why was longitude harder to calculate than latitude?",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-structural"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "It required comparing local time with the time at another port"
+    },
+    {
+     "id": "b",
+     "text": "The sun could not be seen at midday while at sea",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "Sailors did not know the height of the sun",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "Accurate clocks were banned on long voyages",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N11-p3",
+    "sentenceIndex": 1,
+    "quote": "Because a ship's longitude depends on the difference between local time and the time at a reference port, accurate clocks were the missing piece."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn ba giải thích kinh độ phụ thuộc vào hiệu số giữa giờ địa phương và giờ ở cảng tham chiếu nên cần đồng hồ chính xác.",
+    "whyWrong": "Lựa chọn b ngược với cách tìm vĩ độ bằng độ cao mặt trời. Lựa chọn c lặp cụm 'height of the sun' nhưng sai ý. Lựa chọn d không có trong bài.",
+    "trap": "Câu hỏi hỏi lý do tương phản giữa vĩ độ và kinh độ; chỉ đoạn ba mới chứa lời giải thích đúng."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-SEN-0012",
+   "questionType": "sentence",
+   "unitId": "R-U06",
+   "passageId": "P-N11",
+   "stem": "Harrison's fourth sea clock lost only a few {{1}} during the Atlantic crossing.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "number"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "seconds"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N11-p3",
+      "sentenceIndex": 3,
+      "quote": "His fourth clock, H4, lost only a few seconds on a journey across the Atlantic, and finally gave sailors a practical way to calculate longitude."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "minutes",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Câu cuối nói đồng hồ H4 'lost only a few seconds' trong chuyến vượt Đại Tây Dương.",
+    "whyWrong": "'Minutes' phóng đại mức sai lệch; cả câu nhấn mạnh độ chính xác của đồng hồ tới từng giây.",
+    "trap": "Mức sai lệch được diễn đạt định tính bằng 'a few' nên từ cần điền là đơn vị thời gian nhỏ được nêu trong bài."
+   }
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "skill": "reading",
+   "id": "R-SEN-0601",
+   "questionType": "sentence",
+   "unitId": "R-U06",
+   "passageId": "P-N12",
+   "stem": "Printed charts could be corrected and {{1}} when new coastlines were reported.",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "reissued"
+     ],
+     "maxWords": 1,
+     "wordClass": "verb",
+     "evidence": {
+      "paragraphId": "P-N12-p1",
+      "sentenceIndex": 2,
+      "quote": "Unlike hand-drawn charts, printed versions could be corrected and reissued when new coastlines were reported."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "replaced",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Câu nguồn viết bản đồ in 'could be corrected and reissued' khi có bờ biển mới được báo cáo.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-0601",
+   "questionType": "mcq",
+   "unitId": "R-U06",
+   "passageId": "P-N12",
+   "stem": "Why did printed charts become common on long voyages?",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "options": [
+    {
+     "id": "a",
+     "text": "They cost less and were easier to replace"
+    },
+    {
+     "id": "b",
+     "text": "Captains were ordered to stop using handwritten notes",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "They were more accurate than any hand-drawn chart",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "d",
+     "text": "Older sailors refused to share their notes with captains",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "correct": "a",
+   "explanation": {
+    "whyCorrect": "Câu cuối nói bản đồ in phổ biến vì chúng 'cheaper and easier to replace' hơn bản vẽ tay duy nhất.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N12-p1",
+    "sentenceIndex": 4,
+    "quote": "Within fifty years, however, printed charts were carried on most long voyages, because they were cheaper and easier to replace than unique hand-drawn copies."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-SEN-0602",
+   "questionType": "sentence",
+   "unitId": "R-U06",
+   "passageId": "P-N12",
+   "stem": "At first, some captains preferred the {{1}} notes they had inherited.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "handwritten"
+     ],
+     "maxWords": 1,
+     "wordClass": "adjective",
+     "evidence": {
+      "paragraphId": "P-N12-p1",
+      "sentenceIndex": 3,
+      "quote": "Some captains distrusted the printed charts at first, preferring the handwritten notes they had inherited from older sailors."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "printed",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Bài nói một số thuyền trưởng lúc đầu thích 'the handwritten notes they had inherited' hơn bản in.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "Sailors estimated speed by counting knots on a rope.",
+  "instruction": "Bắt đầu bằng: Speed was estimated …",
+  "mustContain": [
+   "was estimated"
+  ],
+  "mustNotContain": [
+   "counting"
+  ],
+  "samples": [
+   "Speed was estimated using a rope with knots tied at regular intervals."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

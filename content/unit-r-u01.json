@@ -1,0 +1,470 @@
+{
+ "schemaVersion": 1,
+ "id": "R-U01",
+ "skill": "reading",
+ "title": "Reading: phân biệt FALSE và NOT GIVEN",
+ "objective": "Học xong bài này, bạn sẽ phân biệt được FALSE và NOT GIVEN khi bài không nhắc đến từ khóa.",
+ "minutes": 6,
+ "ruleCardId": "RC-TFNG",
+ "passage": {
+  "id": "P-N01",
+  "title": "Beavers Return to British Rivers",
+  "genre": "nature",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N01-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "After an absence of nearly 400 years, beavers have begun to return to rivers across Britain."
+     },
+     {
+      "index": 2,
+      "text": "The animals were hunted to extinction in the sixteenth century, mainly for their fur."
+     },
+     {
+      "index": 3,
+      "text": "In recent years, conservation groups have released small numbers of beavers into fenced areas of wetland."
+     }
+    ]
+   },
+   {
+    "id": "P-N01-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Beavers change the landscape around them by building dams across small streams."
+     },
+     {
+      "index": 2,
+      "text": "These dams create ponds that hold water during dry periods and provide homes for fish, birds and insects."
+     },
+     {
+      "index": 3,
+      "text": "Studies have also found that beaver dams can slow the flow of water and reduce the risk of flooding in towns downstream."
+     }
+    ]
+   },
+   {
+    "id": "P-N01-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Not everyone welcomes the return of the beavers."
+     },
+     {
+      "index": 2,
+      "text": "Some farmers worry that dams may flood their fields and damage crops."
+     },
+     {
+      "index": 3,
+      "text": "Conservation groups argue that careful management, such as removing dams in problem areas, can limit these conflicts."
+     },
+     {
+      "index": 4,
+      "text": "Whether the animals will be allowed to spread freely across the country is still being debated."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "P-N02",
+  "title": "City Meadows",
+  "genre": "environment",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N02-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Several cities have begun turning unused land into wildflower meadows instead of keeping it as short grass."
+     },
+     {
+      "index": 2,
+      "text": "Meadows need to be cut only once or twice a year, so they cost less to maintain than lawns."
+     },
+     {
+      "index": 3,
+      "text": "They also provide food and shelter for bees and butterflies, whose numbers have fallen sharply in recent decades."
+     },
+     {
+      "index": 4,
+      "text": "Some residents, however, complain that meadows look untidy compared with neat green lawns."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "R-TFNG-0001",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U01",
+   "passageId": "P-N01",
+   "stem": "Beavers disappeared from Britain because they were hunted.",
+   "correct": "TRUE",
+   "evidence": {
+    "paragraphId": "P-N01-p1",
+    "sentenceIndex": 2,
+    "quote": "The animals were hunted to extinction in the sixteenth century, mainly for their fur."
+   },
+   "explanation": {
+    "whyCorrect": "Bài nói beavers bị săn đến tuyệt chủng vào thế kỷ 16, đúng ý câu hỏi dù cách diễn đạt khác.",
+    "whyWrong": "Không phải NOT GIVEN vì bài nêu thẳng nguyên nhân tuyệt chủng.",
+    "trap": "Câu hỏi đổi 'hunted to extinction' thành 'disappeared because they were hunted'; đây là paraphrase, không phải ý mới."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "paraphrase-structural"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-TFNG-0002",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U01",
+   "passageId": "P-N01",
+   "stem": "Beaver dams increase the risk of flooding in towns downstream.",
+   "correct": "FALSE",
+   "evidence": {
+    "paragraphId": "P-N01-p2",
+    "sentenceIndex": 3,
+    "quote": "Studies have also found that beaver dams can slow the flow of water and reduce the risk of flooding in towns downstream."
+   },
+   "explanation": {
+    "whyCorrect": "Bài nói đập của beaver làm giảm nguy cơ ngập ở thị trấn xuôi dòng, ngược hẳn câu hỏi.",
+    "whyWrong": "Không phải TRUE vì hướng tác động bị đảo. Không phải NOT GIVEN vì bài nói trực tiếp về nguy cơ ngập.",
+    "trap": "Đảo một yếu tố thật: reduce thành increase. Chỉ cần đọc sót một từ là chọn sai."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-TFNG-0003",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U01",
+   "passageId": "P-N01",
+   "stem": "The government has agreed to release beavers in every part of Britain.",
+   "correct": "NOT GIVEN",
+   "nearMiss": {
+    "paragraphId": "P-N01-p3",
+    "sentenceIndex": 4,
+    "quote": "Whether the animals will be allowed to spread freely across the country is still being debated.",
+    "whyNotEnough": "Bài nói việc cho beaver lan rộng khắp nước còn đang tranh luận, không nói chính phủ đã đồng ý."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "government",
+     "agreed",
+     "release",
+     "every part"
+    ],
+    "result": "Không câu nào nói chính phủ đã đồng ý thả beaver ở mọi nơi."
+   },
+   "explanation": {
+    "whyCorrect": "Bài không khẳng định cũng không phủ định việc chính phủ đồng ý; thông tin này vắng mặt nên đáp án là NOT GIVEN.",
+    "whyWrong": "Không phải TRUE vì không có câu nào xác nhận. Không phải FALSE vì bài cũng không nói chính phủ từ chối.",
+    "trap": "Câu hỏi nghe rất cụ thể về chính phủ nên dễ bịa ra kết luận; bài chỉ nói vấn đề còn đang tranh luận."
+   },
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-MCQ-0001",
+   "skill": "reading",
+   "questionType": "mcq",
+   "unitId": "R-U01",
+   "passageId": "P-N01",
+   "stem": "According to the passage, beaver ponds are valuable because they",
+   "options": [
+    {
+     "id": "a",
+     "text": "provide homes for many other species"
+    },
+    {
+     "id": "b",
+     "text": "produce water for farms during dry periods",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "c",
+     "text": "protect farmland from flood water",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "attract tourists to wetland areas",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N01-p2",
+    "sentenceIndex": 2,
+    "quote": "These dams create ponds that hold water during dry periods and provide homes for fish, birds and insects."
+   },
+   "explanation": {
+    "whyCorrect": "Bài nói ao do đập tạo ra là nơi ở của cá, chim và côn trùng.",
+    "whyWrong": "Lựa chọn b nhắc đúng chi tiết giữ nước mùa khô nhưng gán sai mục đích cho nông trại. Lựa chọn c ngược ý lo ngại của nông dân. Lựa chọn d không có trong bài.",
+    "trap": "Lựa chọn sai thường chứa một chi tiết thật của bài nhưng gắn vào kết luận khác."
+   },
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-SEN-0001",
+   "skill": "reading",
+   "questionType": "sentence",
+   "unitId": "R-U01",
+   "passageId": "P-N01",
+   "stem": "Beavers were hunted mainly for their {{1}}.",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "fur"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N01-p1",
+      "sentenceIndex": 2,
+      "quote": "The animals were hunted to extinction in the sixteenth century, mainly for their fur."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "skin",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Từ cần điền nằm nguyên trong câu nguồn: 'mainly for their fur'.",
+    "whyWrong": "Đáp án phải là từ nguyên trong bài và đúng ngữ pháp khi điền vào câu.",
+    "trap": "Giới hạn một từ: viết dài hơn vẫn bị tính sai dù ý đúng."
+   },
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "id": "R-TFNG-0101",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U01",
+   "passageId": "P-N02",
+   "stem": "Wildflower meadows are cheaper to maintain than lawns.",
+   "correct": "TRUE",
+   "evidence": {
+    "paragraphId": "P-N02-p1",
+    "sentenceIndex": 2,
+    "quote": "Meadows need to be cut only once or twice a year, so they cost less to maintain than lawns."
+   },
+   "explanation": {
+    "whyCorrect": "Bài nói meadow tốn ít chi phí bảo trì hơn bãi cỏ vì chỉ cắt một, hai lần mỗi năm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-TFNG-0102",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U01",
+   "passageId": "P-N02",
+   "stem": "Meadows must be cut every week to stay healthy.",
+   "correct": "FALSE",
+   "evidence": {
+    "paragraphId": "P-N02-p1",
+    "sentenceIndex": 2,
+    "quote": "Meadows need to be cut only once or twice a year, so they cost less to maintain than lawns."
+   },
+   "explanation": {
+    "whyCorrect": "Bài nói chỉ cần cắt một hoặc hai lần mỗi năm, ngược với 'every week'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "tfng",
+    "contradiction",
+    "number"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-TFNG-0103",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U01",
+   "passageId": "P-N02",
+   "stem": "Most residents prefer meadows to lawns.",
+   "correct": "NOT GIVEN",
+   "nearMiss": {
+    "paragraphId": "P-N02-p1",
+    "sentenceIndex": 4,
+    "quote": "Some residents, however, complain that meadows look untidy compared with neat green lawns.",
+    "whyNotEnough": "Bài chỉ nói một số cư dân phàn nàn meadow trông lộn xộn, không nói đa số thích loại nào hơn."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "most residents",
+     "prefer",
+     "lawns"
+    ],
+    "result": "Không câu nào so sánh lựa chọn của đa số cư dân."
+   },
+   "explanation": {
+    "whyCorrect": "Bài không cho biết đa số cư dân thích gì hơn nên không thể kết luận.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "quantifier"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "Some farmers worry that dams may flood their fields.",
+  "instruction": "Bắt đầu bằng: Some farmers are concerned that …",
+  "mustContain": [
+   "concerned"
+  ],
+  "mustNotContain": [
+   "worry"
+  ],
+  "samples": [
+   "Some farmers are concerned that dams may flood their fields."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

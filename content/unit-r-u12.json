@@ -1,0 +1,434 @@
+{
+ "schemaVersion": 1,
+ "id": "R-U12",
+ "skill": "reading",
+ "title": "Reading: ôn tập TRUE/FALSE/NOT GIVEN và YES/NO/NOT GIVEN — bảo tàng số",
+ "objective": "Học xong bài này, bạn sẽ tự tách được câu hỏi về sự kiện trong bài với câu hỏi về quan điểm tác giả, và áp dụng đúng bộ ba đáp án cho từng loại trong bài về bảo tàng số.",
+ "minutes": 7,
+ "ruleCardId": "RC-TFNG",
+ "passage": {
+  "id": "P-N25",
+  "title": "The Museum Without Walls",
+  "genre": "opinion",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N25-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "When a museum scans a fragile manuscript in three dimensions, the original can rest in dark storage while millions of people examine every page on a screen."
+     },
+     {
+      "index": 2,
+      "text": "In my view, this is not a poor substitute for a visit but a different kind of access, one that geography and money no longer control."
+     },
+     {
+      "index": 3,
+      "text": "A student in a remote village can now zoom in on details of an object that even visitors standing in the gallery are not allowed to approach."
+     }
+    ]
+   },
+   {
+    "id": "P-N25-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Critics of digital museums argue that a screen can never reproduce the experience of standing before a real object, and I accept that something is lost."
+     },
+     {
+      "index": 2,
+      "text": "What I reject is the claim that digital copies threaten the survival of physical museums, because the evidence so far points the other way."
+     },
+     {
+      "index": 3,
+      "text": "Institutions that publish their collections online report that visitor numbers at their buildings rise afterwards, as people who met an object on screen decide to see it in person."
+     }
+    ]
+   },
+   {
+    "id": "P-N25-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "The real risk is not technology but funding, since high-quality scanning is expensive and smaller museums cannot pay for it from their own budgets."
+     },
+     {
+      "index": 2,
+      "text": "Governments should therefore treat digitisation as public infrastructure and share the cost across national collections."
+     },
+     {
+      "index": 3,
+      "text": "If that happens, the digital museum will not replace the building on the street, but will stand beside it as a second door into the same heritage."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "P-N26",
+  "title": "A Volunteer Scans the Past",
+  "genre": "opinion",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N26-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Our local history society has spent two years photographing every object in the town museum and putting the pictures on a public website."
+     },
+     {
+      "index": 2,
+      "text": "Some members worried at first that nobody would visit the museum itself once the collection was online."
+     },
+     {
+      "index": 3,
+      "text": "In fact, our visitor numbers have grown, because schools use the website to prepare classes before they come."
+     },
+     {
+      "index": 4,
+      "text": "I am convinced the website works best as an invitation, not as a replacement, and I would oppose closing the building to save money."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "skill": "reading",
+   "id": "R-TFNG-1201",
+   "questionType": "tfng",
+   "unitId": "R-U12",
+   "passageId": "P-N25",
+   "stem": "Digital scanning allows the public to study fragile manuscripts while the originals remain in storage.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "paraphrase-structural"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "TRUE",
+   "evidence": {
+    "paragraphId": "P-N25-p1",
+    "sentenceIndex": 1,
+    "quote": "When a museum scans a fragile manuscript in three dimensions, the original can rest in dark storage while millions of people examine every page on a screen."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn một viết khi bảo tàng quét bản thảo mong manh dạng ba chiều, bản gốc được cất trong kho tối còn hàng triệu người xem từng trang trên màn hình.",
+    "whyWrong": "Không phải NOT GIVEN vì bài nêu rõ cơ chế: quét bản gốc rồi cho xem bản số, bản gốc không phải mang ra trưng bày.",
+    "trap": "Câu hỏi diễn đạt lại 'rest in dark storage' thành 'remain in storage'; cần khớp cả hai vế của câu, bản gốc và người xem."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-TFNG-1202",
+   "questionType": "tfng",
+   "unitId": "R-U12",
+   "passageId": "P-N25",
+   "stem": "Most visitors to digital museums are under twenty-five years old.",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "NOT GIVEN",
+   "nearMiss": {
+    "paragraphId": "P-N25-p1",
+    "sentenceIndex": 3,
+    "quote": "A student in a remote village can now zoom in on details of an object that even visitors standing in the gallery are not allowed to approach.",
+    "whyNotEnough": "Bài chỉ nêu ví dụ một sinh viên ở làng xa xem chi tiết hiện vật trên màn hình, không cho số liệu về độ tuổi hay nhóm khách chiếm đa số."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "twenty-five",
+     "years old",
+     "most visitors",
+     "age"
+    ],
+    "result": "Không câu nào thống kê hay nhận xét về độ tuổi của người xem bảo tàng số."
+   },
+   "explanation": {
+    "whyCorrect": "Bài chỉ lấy ví dụ một sinh viên ở làng xa xem chi tiết hiện vật; không có thống kê hay nhận định nào về độ tuổi của khách xem bảo tàng số.",
+    "whyWrong": "Không phải TRUE vì ví dụ một sinh viên không nói lên độ tuổi của đa số khách. Không phải FALSE vì bài không phủ nhận điều này.",
+    "trap": "Từ 'student' dễ bị suy rộng thành nhóm tuổi chiếm đa số; một ví dụ minh họa không phải số liệu về toàn bộ khách."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-1201",
+   "questionType": "ynng",
+   "unitId": "R-U12",
+   "passageId": "P-N25",
+   "stem": "The writer believes digital access is valuable partly because it does not depend on where a person lives.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "YES",
+   "evidence": {
+    "paragraphId": "P-N25-p1",
+    "sentenceIndex": 2,
+    "quote": "In my view, this is not a poor substitute for a visit but a different kind of access, one that geography and money no longer control."
+   },
+   "writerViewQuote": "In my view, this is not a poor substitute for a visit but a different kind of access, one that geography and money no longer control.",
+   "explanation": {
+    "whyCorrect": "Tác giả mở đầu 'In my view' và nói cách tiếp cận này là thứ 'geography and money no longer control', tức không còn phụ thuộc nơi sống.",
+    "whyWrong": "Không phải NOT GIVEN vì quan điểm được gắn trực tiếp với cụm 'In my view', dấu hiệu rõ ràng của ý kiến tác giả.",
+    "trap": "Cụm 'a different kind of access' là cách tác giả đánh giá giá trị; phần sau nêu lý do về địa lý và tiền bạc."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-1202",
+   "questionType": "ynng",
+   "unitId": "R-U12",
+   "passageId": "P-N25",
+   "stem": "The writer agrees with critics that online collections will reduce the number of people visiting museum buildings.",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "ynng",
+    "contradiction"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "NO",
+   "evidence": {
+    "paragraphId": "P-N25-p2",
+    "sentenceIndex": 2,
+    "quote": "What I reject is the claim that digital copies threaten the survival of physical museums, because the evidence so far points the other way."
+   },
+   "writerViewQuote": "What I reject is the claim that digital copies threaten the survival of physical museums, because the evidence so far points the other way.",
+   "explanation": {
+    "whyCorrect": "Tác giả viết thẳng 'What I reject is the claim that digital copies threaten the survival of physical museums', bác bỏ đúng lo ngại trong câu hỏi.",
+    "whyWrong": "Không phải YES vì dù thừa nhận mất mát trải nghiệm ở câu trước, tác giả không đồng ý rằng bộ sưu tập trực tuyến làm giảm khách.",
+    "trap": "Ý thừa nhận 'something is lost' thuộc phần trải nghiệm; đừng nhầm nó với đồng ý về số lượng khách đến tòa nhà."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-TFNG-1203",
+   "questionType": "tfng",
+   "unitId": "R-U12",
+   "passageId": "P-N25",
+   "stem": "Smaller museums can easily afford high-quality scanning from their own budgets.",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "correct": "FALSE",
+   "evidence": {
+    "paragraphId": "P-N25-p3",
+    "sentenceIndex": 1,
+    "quote": "The real risk is not technology but funding, since high-quality scanning is expensive and smaller museums cannot pay for it from their own budgets."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn ba viết quét chất lượng cao rất tốn kém và 'smaller museums cannot pay for it from their own budgets', ngược hẳn 'easily afford'.",
+    "whyWrong": "Không phải TRUE vì bài nêu nguy cơ chính là kinh phí, và bảo tàng nhỏ không tự chi trả nổi từ ngân sách của mình.",
+    "trap": "Từ 'expensive' ở ngay đầu đoạn ba đã báo hiệu đáp án; khẳng định dùng 'easily' để đảo ngược mức độ của bài."
+   }
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "skill": "reading",
+   "id": "R-YNNG-1251",
+   "questionType": "ynng",
+   "unitId": "R-U12",
+   "passageId": "P-N26",
+   "stem": "The writer believes the museum website encourages people to visit rather than replacing the visit.",
+   "correct": "YES",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "paraphrase-lexical"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu cuối viết tác giả 'convinced the website works best as an invitation, not as a replacement', tức trang web mời gọi người ta đến chứ không thay thế chuyến thăm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N26-p1",
+    "sentenceIndex": 4,
+    "quote": "I am convinced the website works best as an invitation, not as a replacement, and I would oppose closing the building to save money."
+   },
+   "writerViewQuote": "I am convinced the website works best as an invitation, not as a replacement, and I would oppose closing the building to save money."
+  },
+  {
+   "skill": "reading",
+   "id": "R-YNNG-1252",
+   "questionType": "ynng",
+   "unitId": "R-U12",
+   "passageId": "P-N26",
+   "stem": "The writer thinks the website is mainly used by elderly residents.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 75,
+   "tags": [
+    "ynng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói trường học dùng trang web để chuẩn bị bài trước khi đến; không nói nhóm người dùng chính theo độ tuổi, cũng không nhắc người cao tuổi.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "nearMiss": {
+    "paragraphId": "P-N26-p1",
+    "sentenceIndex": 3,
+    "quote": "In fact, our visitor numbers have grown, because schools use the website to prepare classes before they come.",
+    "whyNotEnough": "Bài chỉ nói trường học dùng trang web chuẩn bị lớp học và số khách tăng, không xác định nhóm người dùng chính theo độ tuổi."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "elderly",
+     "older residents",
+     "mainly used",
+     "age"
+    ],
+    "result": "Không câu nào nói trang web chủ yếu được người cao tuổi hay bất kỳ nhóm tuổi nào sử dụng."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-TFNG-1251",
+   "questionType": "tfng",
+   "unitId": "R-U12",
+   "passageId": "P-N26",
+   "stem": "Visitor numbers at the town museum fell after the collection went online.",
+   "correct": "FALSE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu ba viết 'our visitor numbers have grown' sau khi bộ sưu tập lên mạng, ngược với khẳng định số khách giảm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N26-p1",
+    "sentenceIndex": 3,
+    "quote": "In fact, our visitor numbers have grown, because schools use the website to prepare classes before they come."
+   }
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "Museums scan fragile artefacts to protect them.",
+  "instruction": "Bắt đầu bằng: Fragile artefacts …",
+  "mustContain": [
+   "are scanned"
+  ],
+  "mustNotContain": [
+   "museums scan"
+  ],
+  "samples": [
+   "Fragile artefacts are scanned by museums to protect them."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

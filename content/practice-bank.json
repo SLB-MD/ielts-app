@@ -1,0 +1,620 @@
+{
+ "schemaVersion": 1,
+ "kind": "practice-bank",
+ "passages": [
+  {
+   "id": "P-N03",
+   "title": "Community Gardens",
+   "genre": "society",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "P-N03-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Community gardens have appeared in many cities on land that was previously empty or unused."
+      },
+      {
+       "index": 2,
+       "text": "Residents rent a small plot for a low fee and grow vegetables, fruit and flowers there."
+      },
+      {
+       "index": 3,
+       "text": "Because the plots are side by side, gardeners often exchange advice, seeds and tools with their neighbours."
+      },
+      {
+       "index": 4,
+       "text": "Some gardens also run classes for children, teaching them where food comes from and how plants grow."
+      },
+      {
+       "index": 5,
+       "text": "However, most gardens have long waiting lists, and in some areas plots are too small for families who want to grow most of their own food."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "clips": [
+  {
+   "id": "A-N01",
+   "title": "A tour of the sports centre",
+   "lines": [
+    {
+     "speaker": "Guide",
+     "text": "Welcome to the Riverside Sports Centre. The swimming pool opens at six thirty in the morning and closes at nine in the evening."
+    },
+    {
+     "speaker": "Guide",
+     "text": "On the first floor you will find the gym, and next to it, the yoga studio. Yoga classes are held on Mondays and Thursdays at seven."
+    },
+    {
+     "speaker": "Guide",
+     "text": "If you want to join, the monthly fee is thirty-five pounds. Students receive a twenty per cent discount."
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "PR-TFNG-01",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Community gardens are usually built on land that nobody was using.",
+   "correct": "TRUE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "paraphrase-lexical"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói vườn mọc lên trên đất trước đây trống hoặc không ai dùng.",
+    "whyWrong": "Không phải NOT GIVEN vì bài nói thẳng tình trạng trước đây của khu đất.",
+    "trap": "Đổi 'empty or unused' thành 'nobody was using' là paraphrase."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "P-N03",
+   "evidence": {
+    "paragraphId": "P-N03-p1",
+    "sentenceIndex": 1,
+    "quote": "Community gardens have appeared in many cities on land that was previously empty or unused."
+   }
+  },
+  {
+   "id": "PR-TFNG-02",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Gardeners have to buy their own seeds and are not allowed to share tools.",
+   "correct": "FALSE",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói người làm vườn thường trao đổi lời khuyên, hạt giống và dụng cụ với hàng xóm.",
+    "whyWrong": "Câu hỏi phủ định điều bài khẳng định nên là FALSE.",
+    "trap": "Cụm 'not allowed' bịa ra một lệnh cấm không có trong bài."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "P-N03",
+   "evidence": {
+    "paragraphId": "P-N03-p1",
+    "sentenceIndex": 3,
+    "quote": "Because the plots are side by side, gardeners often exchange advice, seeds and tools with their neighbours."
+   }
+  },
+  {
+   "id": "PR-TFNG-03",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Community gardens are more popular in cities than in the countryside.",
+   "correct": "NOT GIVEN",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "comparative"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài không đưa ra phép so sánh này nên không thể kết luận.",
+    "whyWrong": "",
+    "trap": "Câu so sánh hơn luôn cần hai vế trong bài; ở đây chỉ có một vế."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "P-N03",
+   "nearMiss": {
+    "paragraphId": "P-N03-p1",
+    "sentenceIndex": 1,
+    "quote": "Community gardens have appeared in many cities on land that was previously empty or unused.",
+    "whyNotEnough": "Bài chỉ nói vườn xuất hiện ở nhiều thành phố, không so sánh với nông thôn."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "countryside",
+     "more popular",
+     "than"
+    ],
+    "result": "Không câu nào so sánh mức phổ biến giữa thành phố và nông thôn."
+   }
+  },
+  {
+   "id": "PR-MCQ-01",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Classes for children in some gardens teach them",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói lớp học dạy trẻ thức ăn đến từ đâu và cây lớn lên thế nào.",
+    "whyWrong": "Lựa chọn a và d mượn từ 'vegetables' và 'tools' của bài nhưng gắn sai hoạt động. Lựa chọn c không có trong bài.",
+    "trap": "Từ khóa trùng không có nghĩa là đáp án đúng."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "P-N03",
+   "options": [
+    {
+     "id": "a",
+     "text": "how to cook vegetables",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "where food comes from"
+    },
+    {
+     "id": "c",
+     "text": "how to sell plants",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "how to build tools",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "P-N03-p1",
+    "sentenceIndex": 4,
+    "quote": "Some gardens also run classes for children, teaching them where food comes from and how plants grow."
+   }
+  },
+  {
+   "id": "PR-MCQ-02",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "One problem with community gardens mentioned in the passage is that",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói đa số vườn có danh sách chờ dài; phí thuê trong bài là thấp.",
+    "whyWrong": "Lựa chọn a ngược bài ('low fee'). Lựa chọn d ngược bài vì có lớp cho trẻ em.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "P-N03",
+   "options": [
+    {
+     "id": "a",
+     "text": "the rent is too high for most families",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "the waiting lists are long"
+    },
+    {
+     "id": "c",
+     "text": "the plots are far from the city",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "children are not allowed to join",
+     "distractorType": "opposite"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "P-N03-p1",
+    "sentenceIndex": 5,
+    "quote": "However, most gardens have long waiting lists, and in some areas plots are too small for families who want to grow most of their own food."
+   }
+  },
+  {
+   "id": "PR-SEN-01",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Residents pay a low {{1}} to rent a small plot.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Từ nguyên trong bài là 'fee' trong cụm 'for a low fee'.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "P-N03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "fee"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "P-N03-p1",
+      "sentenceIndex": 2,
+      "quote": "Residents rent a small plot for a low fee and grow vegetables, fruit and flowers there."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "price",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "PR-LIS-01",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "The swimming pool closes at {{1}} in the evening.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Giờ đóng cửa bể bơi là chín giờ tối.",
+    "whyWrong": "",
+    "trap": "Số giờ mở cửa sáu rưỡi là mồi dễ nhầm."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "A-N01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "nine",
+      "9",
+      "nine o'clock",
+      "9 pm"
+     ],
+     "maxWords": 2
+    }
+   }
+  },
+  {
+   "id": "PR-LIS-02",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Yoga classes are held on Mondays and {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "form"
+   ],
+   "explanation": {
+    "whyCorrect": "Lớp yoga diễn vào thứ Hai và thứ Năm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "A-N01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Thursdays",
+      "Thursday"
+     ],
+     "maxWords": 1
+    }
+   }
+  },
+  {
+   "id": "PR-LIS-03",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How much is the monthly fee for students?",
+   "correct": "b",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Phí chuẩn 35 bảng, sinh viên giảm 20 phần trăm nên trả 28 bảng.",
+    "whyWrong": "Lựa chọn a là giá chưa giảm. Lựa chọn c là tỉ lệ giảm, không phải số tiền.",
+    "trap": "Câu này cần tính một bước, không chỉ nghe số."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "A-N01",
+   "options": [
+    {
+     "id": "a",
+     "text": "35 pounds",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "28 pounds"
+    },
+    {
+     "id": "c",
+     "text": "20 pounds",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "15 pounds",
+     "distractorType": "out-of-scope"
+    }
+   ]
+  },
+  {
+   "id": "PR-VOC-01",
+   "skill": "vocab",
+   "questionType": "mcq",
+   "stem": "The two plans are very similar, so the difference between them is not ___.",
+   "correct": "a",
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "mcq",
+    "vocab"
+   ],
+   "explanation": {
+    "whyCorrect": "'Significant' nghĩa là đáng kể; câu nói khác biệt không đáng kể.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "significant"
+    },
+    {
+     "id": "b",
+     "text": "available",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "ancient",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "local",
+     "distractorType": "out-of-scope"
+    }
+   ]
+  },
+  {
+   "id": "PR-VOC-02",
+   "skill": "vocab",
+   "questionType": "form",
+   "stem": "The past simple of 'occur' is {{1}}.",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "grammar"
+   ],
+   "explanation": {
+    "whyCorrect": "Quá khứ của 'occur' là 'occurred', gấp đôi chữ r.",
+    "whyWrong": "",
+    "trap": "Chính tả gấp đôi phụ âm là điểm hay sai."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "occurred"
+     ],
+     "maxWords": 1
+    }
+   }
+  },
+  {
+   "id": "PR-VOC-03",
+   "skill": "vocab",
+   "questionType": "mcq",
+   "stem": "Neither the teacher nor the students ___ in the room now.",
+   "correct": "a",
+   "difficulty": 4,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "grammar"
+   ],
+   "explanation": {
+    "whyCorrect": "Hòa hợp theo chủ ngữ gần nhất 'students' nên dùng 'are'.",
+    "whyWrong": "",
+    "trap": "Quy tắc hòa hợp theo chủ ngữ gần với 'neither... nor'."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "are"
+    },
+    {
+     "id": "b",
+     "text": "is",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "c",
+     "text": "were",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "be",
+     "distractorType": "out-of-scope"
+    }
+   ]
+  }
+ ]
+}

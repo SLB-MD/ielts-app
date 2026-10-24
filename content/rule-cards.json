@@ -1,0 +1,68 @@
+{
+ "schemaVersion": 1,
+ "kind": "rule-cards",
+ "cards": [
+  {
+   "id": "RC-TFNG",
+   "title": "TRUE / FALSE / NOT GIVEN",
+   "rule": "Chỉ chọn TRUE hoặc FALSE khi chỉ ra được câu trong bài.",
+   "steps": [
+    "Gạch danh từ, động từ, số chính của câu hỏi.",
+    "Tìm chỗ bài nói về đúng ý đó.",
+    "So ý: cùng nghĩa là TRUE; ngược nghĩa là FALSE; bài không nói là NOT GIVEN."
+   ],
+   "traps": [
+    "Từ khóa trùng nhưng ý khác",
+    "all, some, most, only",
+    "may, must, will",
+    "Đổi thì hoặc mốc thời gian",
+    "So sánh hơn, kém và con số"
+   ]
+  },
+  {
+   "id": "RC-YNNG",
+   "title": "YES / NO / NOT GIVEN",
+   "rule": "Hỏi quan điểm của tác giả, không hỏi sự kiện.",
+   "steps": [
+    "Xác nhận đây là nhận định, không phải sự kiện.",
+    "Tìm câu có từ chỉ quan điểm như argue, claim, seem, should.",
+    "So như TFNG, nhưng đối tượng là ý kiến của tác giả."
+   ],
+   "traps": [
+    "Nhầm sự kiện với quan điểm",
+    "Quan điểm của người được trích dẫn khác quan điểm tác giả"
+   ]
+  },
+  {
+   "id": "RC-MCQ",
+   "title": "Multiple choice (Reading)",
+   "rule": "Loại từng lựa chọn bằng lý do, không chọn bằng cảm giác.",
+   "steps": [
+    "Đọc câu hỏi, tự dự đoán đáp án trước.",
+    "Tìm đoạn liên quan trong bài.",
+    "Loại từng lựa chọn và nói được lý do loại."
+   ],
+   "traps": [
+    "Đúng một phần",
+    "Đúng nhưng ngoài bài",
+    "Lặp từ nhưng đổi ý",
+    "Nói quá mức so với bài"
+   ]
+  },
+  {
+   "id": "RC-MH",
+   "title": "Matching Headings",
+   "rule": "Tìm ý chính của cả đoạn, không phải một chi tiết.",
+   "steps": [
+    "Tự nêu ý chính tối đa 6 từ trước khi nhìn heading.",
+    "Loại heading chỉ khớp một chi tiết phụ.",
+    "Mỗi heading dùng một lần; luôn có heading thừa."
+   ],
+   "traps": [
+    "Heading trùng từ nhưng chỉ khớp một câu",
+    "Đoạn có hai ý, chọn ý phụ"
+   ]
+  }
+ ],
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

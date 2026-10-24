@@ -1,0 +1,568 @@
+{
+  "schemaVersion": 1,
+  "kind": "mini-test",
+  "id": "MT-02",
+  "title": "Mini test 2",
+  "minutes": 9,
+  "passages": [
+    {
+      "id": "P-N13",
+      "title": "Community Seed Libraries",
+      "genre": "society",
+      "source": "original",
+      "license": "project-original",
+      "paragraphs": [
+        {
+          "id": "P-N13-p1",
+          "label": "A",
+          "sentences": [
+            {
+              "index": 1,
+              "text": "Community seed libraries allow gardeners to borrow seeds for free at the start of the growing season."
+            },
+            {
+              "index": 2,
+              "text": "Members take a small packet of seeds home, plant them, and let one or two plants go to seed at the end of summer."
+            },
+            {
+              "index": 3,
+              "text": "They then return some of the new seeds to the library, so that the collection keeps growing year after year."
+            },
+            {
+              "index": 4,
+              "text": "Most seed libraries are kept in public libraries, where the packets are stored in old card catalogues."
+            },
+            {
+              "index": 5,
+              "text": "The idea works well for plants such as beans and tomatoes, because their flowers mostly pollinate themselves and the seeds stay true to type."
+            },
+            {
+              "index": 6,
+              "text": "Organisers say that local seeds gradually adapt to the soil and weather of the area, so they often grow better than seeds bought from distant suppliers."
+            },
+            {
+              "index": 7,
+              "text": "However, keeping each variety separate takes time, and volunteers must label every packet carefully to avoid mixing them up."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "clips": [
+    {
+      "id": "A-N03",
+      "title": "Registering for a cookery course",
+      "lines": [
+        {
+          "speaker": "Receptionist",
+          "text": "Good morning, Greenhill Cookery School. How can I help you?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "I would like to register for the Italian cookery course, please."
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "That course runs on Tuesday evenings — sorry, I mean Thursday evenings, from six to eight."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Thursday is fine. How much does the course cost?"
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "It is ninety pounds for six weeks, and that includes all the ingredients."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Do I need to bring anything?"
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "Just an apron. We provide the knives and the other equipment."
+        },
+        {
+          "speaker": "Woman",
+          "text": "And where is the first class held?"
+        },
+        {
+          "speaker": "Receptionist",
+          "text": "In the main kitchen on the second floor. Please arrive fifteen minutes early for the first session."
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "MT2-R-01",
+      "skill": "reading",
+      "questionType": "tfng",
+      "stem": "Gardeners can borrow seeds from a community seed library without paying.",
+      "correct": "TRUE",
+      "difficulty": 1,
+      "estimatedSeconds": 45,
+      "tags": [
+        "tfng",
+        "paraphrase-lexical"
+      ],
+      "explanation": {
+        "whyCorrect": "Bài nói người làm vườn mượn hạt miễn phí vào đầu mùa trồng.",
+        "whyWrong": "Không phải NOT GIVEN vì bài nói rõ việc mượn hạt là miễn phí.",
+        "trap": "Cụm 'for free' đổi thành 'without paying' là paraphrase."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "passageId": "P-N13",
+      "evidence": {
+        "paragraphId": "P-N13-p1",
+        "sentenceIndex": 1,
+        "quote": "Community seed libraries allow gardeners to borrow seeds for free at the start of the growing season."
+      }
+    },
+    {
+      "id": "MT2-R-02",
+      "skill": "reading",
+      "questionType": "tfng",
+      "stem": "Members must return exactly the same seeds that they borrowed.",
+      "correct": "FALSE",
+      "difficulty": 2,
+      "estimatedSeconds": 45,
+      "tags": [
+        "tfng",
+        "contradiction"
+      ],
+      "explanation": {
+        "whyCorrect": "Bài nói hội viên trả lại một phần hạt mới thu được, không phải chính hạt đã mượn.",
+        "whyWrong": "Câu hỏi khẳng định điều ngược với bài nên là FALSE, không phải NOT GIVEN.",
+        "trap": "Động từ 'return' có thật trong bài nhưng vật được trả lại khác hẳn."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "passageId": "P-N13",
+      "evidence": {
+        "paragraphId": "P-N13-p1",
+        "sentenceIndex": 3,
+        "quote": "They then return some of the new seeds to the library, so that the collection keeps growing year after year."
+      }
+    },
+    {
+      "id": "MT2-R-03",
+      "skill": "reading",
+      "questionType": "tfng",
+      "stem": "Seed libraries are more common in small towns than in large cities.",
+      "correct": "NOT GIVEN",
+      "difficulty": 3,
+      "estimatedSeconds": 60,
+      "tags": [
+        "tfng",
+        "comparative"
+      ],
+      "explanation": {
+        "whyCorrect": "Bài không so sánh mức phổ biến giữa thị trấn nhỏ và thành phố lớn.",
+        "whyWrong": "",
+        "trap": "Câu so sánh hơn cần cả hai vế trong bài; ở đây thiếu cả hai."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "passageId": "P-N13",
+      "nearMiss": {
+        "paragraphId": "P-N13-p1",
+        "sentenceIndex": 4,
+        "quote": "Most seed libraries are kept in public libraries, where the packets are stored in old card catalogues.",
+        "whyNotEnough": "Bài chỉ nói phần lớn thư viện hạt đặt trong thư viện công cộng, không so sánh thị trấn với thành phố."
+      },
+      "notGivenProof": {
+        "keywordsScanned": [
+          "small towns",
+          "large cities",
+          "more common"
+        ],
+        "result": "Không câu nào so sánh số thư viện hạt giữa thị trấn nhỏ và thành phố lớn."
+      }
+    },
+    {
+      "id": "MT2-R-04",
+      "skill": "reading",
+      "questionType": "mcq",
+      "stem": "According to the passage, beans and tomatoes are suitable for seed libraries because they",
+      "correct": "b",
+      "difficulty": 3,
+      "estimatedSeconds": 60,
+      "tags": [
+        "mcq",
+        "specific-detail"
+      ],
+      "explanation": {
+        "whyCorrect": "Bài nói hoa của đậu và cà chua phần lớn tự thụ phấn nên hạt giữ đúng giống.",
+        "whyWrong": "Lựa chọn c mượn cụm 'distant suppliers' ở câu khác, không phải lý do hai cây này phù hợp.",
+        "trap": "Từ khóa trùng ở câu khác không có nghĩa là đáp án đúng."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "passageId": "P-N13",
+      "options": [
+        {
+          "id": "a",
+          "text": "need very little water",
+          "distractorType": "out-of-scope"
+        },
+        {
+          "id": "b",
+          "text": "mostly pollinate themselves"
+        },
+        {
+          "id": "c",
+          "text": "are bought from distant suppliers",
+          "distractorType": "keyword-lift"
+        },
+        {
+          "id": "d",
+          "text": "grow in any kind of soil",
+          "distractorType": "over-generalization"
+        }
+      ],
+      "evidence": {
+        "paragraphId": "P-N13-p1",
+        "sentenceIndex": 5,
+        "quote": "The idea works well for plants such as beans and tomatoes, because their flowers mostly pollinate themselves and the seeds stay true to type."
+      }
+    },
+    {
+      "id": "MT2-R-05",
+      "skill": "reading",
+      "questionType": "sentence",
+      "stem": "Seed packets in public libraries are often stored in old card {{1}}.",
+      "correct": null,
+      "difficulty": 2,
+      "estimatedSeconds": 40,
+      "tags": [
+        "sentence",
+        "specific-detail"
+      ],
+      "explanation": {
+        "whyCorrect": "Từ nguyên trong bài là 'catalogues' trong cụm 'old card catalogues'.",
+        "whyWrong": "",
+        "trap": ""
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "passageId": "P-N13",
+      "blanks": {
+        "1": {
+          "acceptedAnswers": [
+            "catalogues"
+          ],
+          "maxWords": 1,
+          "evidence": {
+            "paragraphId": "P-N13-p1",
+            "sentenceIndex": 4,
+            "quote": "Most seed libraries are kept in public libraries, where the packets are stored in old card catalogues."
+          },
+          "nearMissAnswers": [
+            {
+              "text": "drawers",
+              "tag": "wrong-word"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "MT2-R-06",
+      "skill": "reading",
+      "questionType": "mcq",
+      "stem": "Organisers believe local seeds often grow better than bought seeds because they",
+      "correct": "a",
+      "difficulty": 3,
+      "estimatedSeconds": 60,
+      "tags": [
+        "mcq",
+        "specific-detail"
+      ],
+      "explanation": {
+        "whyCorrect": "Bài nói hạt địa phương dần thích nghi với đất và thời tiết của vùng nên thường mọc tốt hơn.",
+        "whyWrong": "Lựa chọn b mượn từ 'volunteers' ở câu cuối, nói về ghi nhãn chứ không phải lý do mọc tốt.",
+        "trap": "Lý do đúng phải nối với kết quả 'grow better' trong cùng câu."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "passageId": "P-N13",
+      "options": [
+        {
+          "id": "a",
+          "text": "have adapted to local soil and weather"
+        },
+        {
+          "id": "b",
+          "text": "are labelled by volunteers",
+          "distractorType": "keyword-lift"
+        },
+        {
+          "id": "c",
+          "text": "can be borrowed for free",
+          "distractorType": "partial-truth"
+        },
+        {
+          "id": "d",
+          "text": "come from the oldest plants",
+          "distractorType": "out-of-scope"
+        }
+      ],
+      "evidence": {
+        "paragraphId": "P-N13-p1",
+        "sentenceIndex": 6,
+        "quote": "Organisers say that local seeds gradually adapt to the soil and weather of the area, so they often grow better than seeds bought from distant suppliers."
+      }
+    },
+    {
+      "id": "MT2-L-01",
+      "skill": "listening",
+      "questionType": "form",
+      "stem": "The Italian cookery course is held on {{1}} evenings.",
+      "correct": null,
+      "difficulty": 3,
+      "estimatedSeconds": 50,
+      "tags": [
+        "form",
+        "distractor-corrected"
+      ],
+      "explanation": {
+        "whyCorrect": "Người nói tự sửa: tối thứ Ba, xin lỗi, tối thứ Năm. Giá trị cuối cùng mới đúng.",
+        "whyWrong": "",
+        "trap": "Ngày được nhắc đầu tiên đã bị chính người nói hủy bỏ ngay sau đó."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "audioId": "A-N03",
+      "blanks": {
+        "1": {
+          "acceptedAnswers": [
+            "Thursday",
+            "Thursdays"
+          ],
+          "maxWords": 1
+        }
+      }
+    },
+    {
+      "id": "MT2-L-02",
+      "skill": "listening",
+      "questionType": "form",
+      "stem": "The course costs {{1}} pounds for six weeks.",
+      "correct": null,
+      "difficulty": 1,
+      "estimatedSeconds": 40,
+      "tags": [
+        "form",
+        "number"
+      ],
+      "explanation": {
+        "whyCorrect": "Giá khóa học là chín mươi bảng cho sáu tuần.",
+        "whyWrong": "",
+        "trap": ""
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "audioId": "A-N03",
+      "blanks": {
+        "1": {
+          "acceptedAnswers": [
+            "ninety",
+            "90"
+          ],
+          "maxWords": 1
+        }
+      }
+    },
+    {
+      "id": "MT2-L-03",
+      "skill": "listening",
+      "questionType": "mcq",
+      "stem": "What does the course fee include?",
+      "correct": "b",
+      "difficulty": 2,
+      "estimatedSeconds": 50,
+      "tags": [
+        "mcq",
+        "specific-detail"
+      ],
+      "explanation": {
+        "whyCorrect": "Lệ phí đã gồm toàn bộ nguyên liệu; tạp dề thì học viên phải tự mang theo.",
+        "whyWrong": "Lựa chọn a là thứ học viên tự mang, không nằm trong lệ phí.",
+        "trap": "Dao và dụng cụ do trường cung cấp riêng, không được nói là gồm trong phí."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "audioId": "A-N03",
+      "options": [
+        {
+          "id": "a",
+          "text": "an apron",
+          "distractorType": "keyword-lift"
+        },
+        {
+          "id": "b",
+          "text": "all the ingredients"
+        },
+        {
+          "id": "c",
+          "text": "a cookery book",
+          "distractorType": "out-of-scope"
+        },
+        {
+          "id": "d",
+          "text": "private lessons",
+          "distractorType": "out-of-scope"
+        }
+      ]
+    },
+    {
+      "id": "MT2-L-04",
+      "skill": "listening",
+      "questionType": "mcq",
+      "stem": "Where will the first class take place?",
+      "correct": "c",
+      "difficulty": 2,
+      "estimatedSeconds": 50,
+      "tags": [
+        "mcq",
+        "specific-detail"
+      ],
+      "explanation": {
+        "whyCorrect": "Buổi học đầu tiên diễn ra ở bếp chính trên tầng hai.",
+        "whyWrong": "Lựa chọn d đúng phòng bếp chính nhưng sai tầng; clip nói tầng hai.",
+        "trap": "Phải nghe cả hai chi tiết: tên phòng và số tầng."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "audioId": "A-N03",
+      "options": [
+        {
+          "id": "a",
+          "text": "in a classroom on the first floor",
+          "distractorType": "out-of-scope"
+        },
+        {
+          "id": "b",
+          "text": "in the school restaurant",
+          "distractorType": "out-of-scope"
+        },
+        {
+          "id": "c",
+          "text": "in the main kitchen on the second floor"
+        },
+        {
+          "id": "d",
+          "text": "in the main kitchen on the ground floor",
+          "distractorType": "partial-truth"
+        }
+      ]
+    }
+  ]
+}

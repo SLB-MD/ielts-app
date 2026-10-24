@@ -1,0 +1,2213 @@
+{
+ "schemaVersion": 1,
+ "kind": "full-test",
+ "id": "FT-R02",
+ "skill": "reading",
+ "title": "Full Reading test 2",
+ "minutes": 60,
+ "passages": [
+  {
+   "id": "FT-P04",
+   "title": "Houses That Heat Themselves",
+   "genre": "architecture",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "FT-P04-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "A passive house is a building that needs so little energy for heating that it can do without a conventional heating system altogether."
+      },
+      {
+       "index": 2,
+       "text": "The idea grew out of experiments in North America during the energy crisis of the 1970s, when architects began to test heavily insulated homes."
+      },
+      {
+       "index": 3,
+       "text": "It was in Germany, however, that the concept was given a precise scientific form by the physicist Wolfgang Feist and the Swedish engineer Bo Adamson."
+      },
+      {
+       "index": 4,
+       "text": "Working from Adamson's earlier research, the two men defined a standard that any building, in any climate, could in principle meet."
+      },
+      {
+       "index": 5,
+       "text": "The first house built to that standard was completed in the German city of Darmstadt in 1991, and it is still occupied today."
+      },
+      {
+       "index": 6,
+       "text": "The name, translated from the German word Passivhaus, refers to the fact that the building relies mainly on passive sources of heat, such as sunshine and the warmth given off by people and appliances."
+      },
+      {
+       "index": 7,
+       "text": "Since 1991 the concept has spread far beyond Germany, and tens of thousands of passive houses, schools and offices have now been built around the world."
+      }
+     ]
+    },
+    {
+     "id": "FT-P04-p2",
+     "label": "B",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The starting point is insulation: walls, roofs and floors are wrapped in a thick layer of insulating material, in some cases twice as thick as in an ordinary new building."
+      },
+      {
+       "index": 2,
+       "text": "Equally important is airtightness, because even small gaps through which warm air escapes can waste a large share of the heat inside."
+      },
+      {
+       "index": 3,
+       "text": "Builders therefore seal every joint and test the finished shell by pressurising the building to find leaks, a procedure known as a blower-door test."
+      },
+      {
+       "index": 4,
+       "text": "Windows are typically triple-glazed and their frames insulated, yet residents remain free to open them whenever they wish."
+      },
+      {
+       "index": 5,
+       "text": "Designers also eliminate 'thermal bridges', places such as balcony slabs where a structural element carries heat straight through the insulation to the outside."
+      },
+      {
+       "index": 6,
+       "text": "Finally, the building is oriented so that large windows face the midday sun in winter, while shading keeps the same rooms from overheating in summer."
+      }
+     ]
+    },
+    {
+     "id": "FT-P04-p3",
+     "label": "C",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "A perfectly sealed house still needs fresh air, so passive houses use a mechanical ventilation system that constantly exchanges stale indoor air for fresh air from outside."
+      },
+      {
+       "index": 2,
+       "text": "Before the outgoing air is expelled, it passes through a heat exchanger that transfers up to 90 per cent of its warmth to the incoming air."
+      },
+      {
+       "index": 3,
+       "text": "As a result, the fresh air arrives already close to room temperature, and very little additional heating is required."
+      },
+      {
+       "index": 4,
+       "text": "On the coldest days, the small amount of extra heat needed can be supplied through the ventilation air itself, which is why a separate system of radiators is unnecessary."
+      },
+      {
+       "index": 5,
+       "text": "Measurements of occupied passive houses suggest that they use around 90 per cent less heating energy than a typical existing building of similar size."
+      },
+      {
+       "index": 6,
+       "text": "The remaining demand is so low that it has been compared to the energy used by a household hair dryer."
+      },
+      {
+       "index": 7,
+       "text": "Because the indoor surfaces stay warm, occupants report few draughts and an unusually even temperature from room to room."
+      }
+     ]
+    },
+    {
+     "id": "FT-P04-p4",
+     "label": "D",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Building to the passive standard usually costs somewhat more than ordinary construction, mainly because of the better windows and the care needed to achieve airtightness."
+      },
+      {
+       "index": 2,
+       "text": "Supporters argue that the extra cost is repaid over the life of the building through far lower energy bills, though the exact payback period depends on local energy prices."
+      },
+      {
+       "index": 3,
+       "text": "The standard was designed for the cold winters of central Europe, and applying it in hot, humid climates raises different problems, notably the need to remove moisture from the air."
+      },
+      {
+       "index": 4,
+       "text": "Adapting existing buildings is harder still, because their walls and foundations were never designed to be wrapped in insulation, so a slightly relaxed standard exists for renovation projects."
+      },
+      {
+       "index": 5,
+       "text": "Even so, interest keeps growing, driven by rising energy prices and by regulations that push all new buildings towards very low energy use."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FT-P05",
+   "title": "Drawing the World",
+   "genre": "history",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "FT-P05-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The oldest known world map was made in Babylon around 2,600 years ago, pressed into a small clay tablet that shows the world as a flat disc ringed by ocean."
+      },
+      {
+       "index": 2,
+       "text": "Babylonian scholars placed their own city near the centre, a choice that mapmakers in many later cultures would imitate with their own homelands."
+      },
+      {
+       "index": 3,
+       "text": "Greek thinkers later gave mapmaking a mathematical basis, and Anaximander is credited with drawing one of the first Greek maps of the known world."
+      },
+      {
+       "index": 4,
+       "text": "In the third century BCE, Eratosthenes, the librarian of Alexandria, calculated the circumference of the Earth with impressive accuracy using only shadows and geometry."
+      },
+      {
+       "index": 5,
+       "text": "Four centuries later, the astronomer Ptolemy collected coordinates for thousands of places in his work Geography, giving mapmakers a framework that would be used for more than a thousand years."
+      }
+     ]
+    },
+    {
+     "id": "FT-P05-p2",
+     "label": "B",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "During the European Middle Ages, many maps were drawn to express religious ideas rather than to guide travellers, with Jerusalem placed at the centre of the world."
+      },
+      {
+       "index": 2,
+       "text": "Islamic scholars, by contrast, preserved and improved Greek geographical knowledge, translating Ptolemy's work and correcting it with travellers' reports."
+      },
+      {
+       "index": 3,
+       "text": "In 1154, the scholar al-Idrisi completed a celebrated world map for King Roger II of Sicily, engraved on a disc of silver and accompanied by a detailed book."
+      },
+      {
+       "index": 4,
+       "text": "Sailors of the same period relied on portolan charts, practical maps covered in crossing lines that linked ports around the Mediterranean and Black Seas."
+      },
+      {
+       "index": 5,
+       "text": "Unlike the symbolic maps of the monasteries, portolan charts were remarkably accurate about coastlines, because they were compiled from the day-to-day experience of seafarers."
+      }
+     ]
+    },
+    {
+     "id": "FT-P05-p3",
+     "label": "C",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The invention of printing in the fifteenth century transformed mapmaking, because maps could now be copied exactly and sold widely for the first time."
+      },
+      {
+       "index": 2,
+       "text": "In 1507, Martin Waldseemüller's printed world map was the first to apply the name 'America' to the newly reported lands across the Atlantic."
+      },
+      {
+       "index": 3,
+       "text": "The Flemish cartographer Gerardus Mercator published his famous projection in 1569, designing it specifically to help sailors navigate."
+      },
+      {
+       "index": 4,
+       "text": "On a Mercator map, a straight line follows a constant compass bearing, so a navigator can plot a course simply by drawing a line between two ports."
+      },
+      {
+       "index": 5,
+       "text": "The price of this convenience is distortion: areas near the poles are stretched enormously, so Greenland appears roughly as large as Africa, although Africa is in fact many times bigger."
+      }
+     ]
+    },
+    {
+     "id": "FT-P05-p4",
+     "label": "D",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "In the twentieth century, photographs taken from aircraft and later from satellites allowed mapmakers to record the Earth's surface with a completeness earlier generations could not imagine."
+      },
+      {
+       "index": 2,
+       "text": "Digital technology then changed not only how maps are made but also how often they change, with road maps now updated continuously rather than reprinted every few years."
+      },
+      {
+       "index": 3,
+       "text": "Volunteers in open mapping projects have charted remote villages and disaster zones that official surveys had missed, sometimes within hours of an earthquake or flood."
+      },
+      {
+       "index": 4,
+       "text": "Yet every map still involves choices about what to include and what to leave out, and critics note that even the choice of projection can quietly favour some regions over others."
+      },
+      {
+       "index": 5,
+       "text": "The history of the world map is therefore also a history of changing knowledge, technology and power."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FT-P06",
+   "title": "Why We Spend",
+   "genre": "economics",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "FT-P06-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Classical economics long assumed that people make financial decisions like careful accountants, weighing every cost and benefit before they choose."
+      },
+      {
+       "index": 2,
+       "text": "Behavioural economics, which grew rapidly in the second half of the twentieth century, tests that assumption against how people actually behave."
+      },
+      {
+       "index": 3,
+       "text": "In the 1970s, the psychologists Daniel Kahneman and Amos Tversky showed that the mind uses mental shortcuts, or heuristics, which usually work well but can lead to predictable errors."
+      },
+      {
+       "index": 4,
+       "text": "Their experiments demonstrated that even highly trained people, including statisticians, could be misled by the same shortcuts."
+      },
+      {
+       "index": 5,
+       "text": "Kahneman later received the Nobel Prize in Economic Sciences, an unusual honour for a psychologist, while Tversky had died before the prize was awarded."
+      }
+     ]
+    },
+    {
+     "id": "FT-P06-p2",
+     "label": "B",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "One of the field's central findings is loss aversion: losing a sum of money hurts most people roughly twice as much as gaining the same sum pleases them."
+      },
+      {
+       "index": 2,
+       "text": "Loss aversion helps explain why investors hold on to falling shares for too long, hoping to avoid turning a paper loss into a real one."
+      },
+      {
+       "index": 3,
+       "text": "A second powerful effect is framing, the way a choice is described changing what people decide, even when the underlying facts are identical."
+      },
+      {
+       "index": 4,
+       "text": "In one well-known study, patients preferred a treatment described as having a 90 per cent survival rate to the same treatment described as having a 10 per cent death rate."
+      },
+      {
+       "index": 5,
+       "text": "Doctors showed the same bias as their patients when the options were framed differently, which suggests the effect is not simply a result of poor education."
+      }
+     ]
+    },
+    {
+     "id": "FT-P06-p3",
+     "label": "C",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Richard Thaler extended these ideas into public policy with the concept of the 'nudge', developed with the legal scholar Cass Sunstein in their 2008 book."
+      },
+      {
+       "index": 2,
+       "text": "A nudge changes the way choices are presented without forbidding any option: putting fruit at eye level in a canteen is a nudge, while banning junk food is not."
+      },
+      {
+       "index": 3,
+       "text": "The most powerful nudges work through default options, the outcome that occurs if a person does nothing at all."
+      },
+      {
+       "index": 4,
+       "text": "When employees were automatically enrolled in a pension scheme, with the freedom to leave if they wished, participation rose from under half to more than nine in ten in some companies."
+      },
+      {
+       "index": 5,
+       "text": "Similar default effects appear in organ donation, where countries that presume consent unless a person opts out record far higher consent rates than countries that ask people to opt in."
+      },
+      {
+       "index": 6,
+       "text": "Critics object that nudges allow governments to steer behaviour without open debate, and some describe the approach as manipulation dressed up as help."
+      }
+     ]
+    },
+    {
+     "id": "FT-P06-p4",
+     "label": "D",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Governments have been quick to adopt the ideas: in 2010 the United Kingdom created a Behavioural Insights Team, quickly nicknamed the 'nudge unit', and similar teams followed in other countries."
+      },
+      {
+       "index": 2,
+       "text": "One of its best-known successes involved tax letters that told late payers most people in their area had already paid, a message that noticeably increased payment rates."
+      },
+      {
+       "index": 3,
+       "text": "Behavioural methods have also been applied to energy use, public health and charitable giving, often at very low cost."
+      },
+      {
+       "index": 4,
+       "text": "Enthusiasm should nevertheless be restrained, because the effects of many nudges are small, and some celebrated findings in the wider field have failed to be repeated by later researchers."
+      },
+      {
+       "index": 5,
+       "text": "Behavioural economics is therefore best seen as a correction to older theory, not a replacement for it, reminding economists that real people have limited time, attention and self-control."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "FT-R2-001",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "The first house built to the passive house standard was completed in 1991.",
+   "correct": "TRUE",
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết ngôi nhà đầu tiên theo tiêu chuẩn được hoàn thành tại Darmstadt vào năm 1991.",
+    "whyWrong": "FALSE sai vì bài khẳng định trực tiếp mốc thời gian này. NOT GIVEN sai vì bài nêu rõ năm hoàn thành.",
+    "trap": "Tên thành phố không xuất hiện trong câu hỏi, nhưng năm 1991 chỉ được nhắc một lần trong bài."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P04",
+   "evidence": {
+    "paragraphId": "FT-P04-p1",
+    "sentenceIndex": 5,
+    "quote": "The first house built to that standard was completed in the German city of Darmstadt in 1991, and it is still occupied today."
+   }
+  },
+  {
+   "id": "FT-R2-002",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "In a passive house, windows cannot be opened because the building must remain completely sealed.",
+   "correct": "FALSE",
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói cửa sổ tuy cách nhiệt cao nhưng người ở vẫn tự do mở bất cứ lúc nào.",
+    "whyWrong": "TRUE sai vì bài phủ định trực tiếp ý này. NOT GIVEN sai vì thông tin đã có sẵn trong bài.",
+    "trap": "Khái niệm kín khí khiến người đọc tưởng cửa sổ bị cố định hoàn toàn."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P04",
+   "evidence": {
+    "paragraphId": "FT-P04-p2",
+    "sentenceIndex": 4,
+    "quote": "Windows are typically triple-glazed and their frames insulated, yet residents remain free to open them whenever they wish."
+   }
+  },
+  {
+   "id": "FT-R2-003",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "The first passive house in Darmstadt now serves as a museum of energy-efficient building.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài chỉ nói ngôi nhà vẫn có người ở, hoàn toàn không nhắc chuyện bảo tàng.",
+    "whyWrong": "TRUE và FALSE đều không có căn cứ vì bài không nói ngôi nhà được chuyển đổi mục đích sử dụng.",
+    "trap": "Bài nhắc Darmstadt và năm 1991 rất rõ, khiến người đọc tưởng chi tiết bảo tàng cũng đã được cho."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P04",
+   "nearMiss": {
+    "paragraphId": "FT-P04-p1",
+    "sentenceIndex": 5,
+    "quote": "The first house built to that standard was completed in the German city of Darmstadt in 1991, and it is still occupied today.",
+    "whyNotEnough": "Câu này chỉ cho biết ngôi nhà hoàn thành năm 1991 và vẫn có người ở, không nói gì về bảo tàng hay khách tham quan."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "museum",
+     "converted",
+     "visitors"
+    ],
+    "result": "Không câu nào nêu việc ngôi nhà trở thành bảo tàng."
+   }
+  },
+  {
+   "id": "FT-R2-004",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Why do builders perform a blower-door test on a passive house?",
+   "correct": "a",
+   "difficulty": 2,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói người thợ tạo áp suất trong nhà để tìm các chỗ rò rỉ không khí.",
+    "whyWrong": "Các lựa chọn về độ dày cách nhiệt, hóa đơn năng lượng và độ bền cửa sổ đều không phải mục đích bài nêu.",
+    "trap": "Cụm 'blower-door test' nằm cạnh thông tin về độ kín khí nên dễ bị đọc lướt qua."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "To find gaps through which air escapes from the building"
+    },
+    {
+     "id": "b",
+     "text": "To check the thickness of the insulation in the walls",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "To measure how much residents will pay for energy each year",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "To test whether the windows are strong enough for storms",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P04",
+   "evidence": {
+    "paragraphId": "FT-P04-p2",
+    "sentenceIndex": 3,
+    "quote": "Builders therefore seal every joint and test the finished shell by pressurising the building to find leaks, a procedure known as a blower-door test."
+   }
+  },
+  {
+   "id": "FT-R2-005",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Designers try to eliminate 'thermal {{1}}', places where a structural element carries heat through the insulation to the outside.",
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Từ nguyên trong bài là 'thermal bridges', chỉ vị trí nhiệt thoát qua kết cấu ra ngoài.",
+    "whyWrong": "Các từ khác không tạo thành thuật ngữ mà bài sử dụng ở vị trí này.",
+    "trap": "Câu hỏi giữ nguyên phần sau của câu nguồn nên chỉ cần khớp đúng thuật ngữ."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "bridges"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P04-p2",
+      "sentenceIndex": 5,
+      "quote": "Designers also eliminate 'thermal bridges', places such as balcony slabs where a structural element carries heat straight through the insulation to the outside."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-006",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "The small amount of extra heat a passive house needs on cold days can be delivered through its ventilation air.",
+   "correct": "TRUE",
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói lượng nhiệt bổ sung ít ỏi có thể được cấp ngay qua không khí thông gió.",
+    "whyWrong": "FALSE sai vì bài khẳng định trực tiếp. NOT GIVEN sai vì thông tin có trong bài.",
+    "trap": "Cụm 'through the ventilation air itself' là chi tiết dễ bị bỏ qua khi đọc nhanh đoạn C."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P04",
+   "evidence": {
+    "paragraphId": "FT-P04-p3",
+    "sentenceIndex": 4,
+    "quote": "On the coldest days, the small amount of extra heat needed can be supplied through the ventilation air itself, which is why a separate system of radiators is unnecessary."
+   }
+  },
+  {
+   "id": "FT-R2-007",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "What happens inside the heat exchanger of a passive house?",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 65,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói không khí đi ra truyền tới 90 phần trăm hơi ấm cho không khí đi vào tại bộ trao đổi nhiệt.",
+    "whyWrong": "Không khí đi ra bị đẩy ra ngoài chứ không giữ lại; bài cũng không nhắc hóa chất hay việc tạo nhiệt mới.",
+    "trap": "Số 90 phần trăm gây chú ý khiến người đọc quên mất quá trình truyền nhiệt mới là ý chính."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "The outgoing air is kept inside instead of being expelled",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "Heat from the outgoing air is transferred to the incoming air"
+    },
+    {
+     "id": "c",
+     "text": "The two air streams are cleaned with chemicals",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "The system produces new heat to warm the fresh air",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "passageId": "FT-P04",
+   "evidence": {
+    "paragraphId": "FT-P04-p3",
+    "sentenceIndex": 2,
+    "quote": "Before the outgoing air is expelled, it passes through a heat exchanger that transfers up to 90 per cent of its warmth to the incoming air."
+   }
+  },
+  {
+   "id": "FT-R2-008",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "The heat exchanger transfers up to 90 per cent of the outgoing air's {{1}} to the incoming air.",
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Từ nguyên trong bài là 'warmth' trong cụm truyền hơi ấm của không khí đi ra.",
+    "whyWrong": "Từ 'heat' xuất hiện trong tên thiết bị nhưng không phải từ ở vị trí này.",
+    "trap": "Tên 'heat exchanger' là bẫy từ vựng, còn từ cần điền là 'warmth'."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "warmth"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P04-p3",
+      "sentenceIndex": 2,
+      "quote": "Before the outgoing air is expelled, it passes through a heat exchanger that transfers up to 90 per cent of its warmth to the incoming air."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-009",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Passive houses use about half as much heating energy as a typical existing building of similar size.",
+   "correct": "FALSE",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "tfng",
+    "quantifier"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói nhà thụ động dùng ít hơn khoảng 90 phần trăm năng lượng sưởi so với nhà thông thường.",
+    "whyWrong": "TRUE sai vì mức giảm là khoảng 90 phần trăm chứ không phải một nửa. NOT GIVEN sai vì bài cho số liệu rõ ràng.",
+    "trap": "Câu hỏi đổi mức giảm 90 phần trăm thành 'about half', một bẫy định lượng quen thuộc."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P04",
+   "evidence": {
+    "paragraphId": "FT-P04-p3",
+    "sentenceIndex": 5,
+    "quote": "Measurements of occupied passive houses suggest that they use around 90 per cent less heating energy than a typical existing building of similar size."
+   }
+  },
+  {
+   "id": "FT-R2-010",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Supporters of the passive house standard argue that its higher building cost is acceptable because",
+   "correct": "c",
+   "difficulty": 2,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói người ủng hộ cho rằng chi phí tăng thêm được bù đắp nhờ hóa đơn năng lượng thấp hơn nhiều trong suốt vòng đời tòa nhà.",
+    "whyWrong": "Bài không nói nhà nước chi trả, và thời gian hoàn vốn còn phụ thuộc giá năng lượng địa phương.",
+    "trap": "Cụm 'depends on local energy prices' cho thấy hoàn vốn không nhanh và cố định như lựa chọn b ngụ ý."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "governments pay the extra cost on behalf of builders",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "the cost is recovered within the first year in most cases",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "c",
+     "text": "energy savings repay it over the building's lifetime"
+    },
+    {
+     "id": "d",
+     "text": "passive houses never need repairs or maintenance",
+     "distractorType": "over-generalization"
+    }
+   ],
+   "passageId": "FT-P04",
+   "evidence": {
+    "paragraphId": "FT-P04-p4",
+    "sentenceIndex": 2,
+    "quote": "Supporters argue that the extra cost is repaid over the life of the building through far lower energy bills, though the exact payback period depends on local energy prices."
+   }
+  },
+  {
+   "id": "FT-R2-011",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "In hot, humid climates, applying the standard creates a particular need to remove {{1}} from the air.",
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói vấn đề chính ở khí hậu nóng ẩm là nhu cầu loại bỏ hơi ẩm khỏi không khí.",
+    "whyWrong": "Từ cần điền là danh từ chỉ thứ bị loại bỏ, và từ nguyên trong bài là 'moisture'.",
+    "trap": "Đoạn D chuyển chủ đề từ khí hậu lạnh sang nóng ẩm nên chi tiết này dễ bị lẫn với đoạn B."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "moisture"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P04-p4",
+      "sentenceIndex": 3,
+      "quote": "The standard was designed for the cold winters of central Europe, and applying it in hot, humid climates raises different problems, notably the need to remove moisture from the air."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-012",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "More passive houses have been built in China than in any other country.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài chỉ nói nhà thụ động đã được xây khắp thế giới, không xếp hạng quốc gia nào nhiều nhất.",
+    "whyWrong": "TRUE và FALSE đều sai vì bài không cho số liệu xây dựng theo từng quốc gia.",
+    "trap": "Cụm 'around the world' khiến người đọc tự suy ra phân bố theo nước mà bài không hề nêu."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P04",
+   "nearMiss": {
+    "paragraphId": "FT-P04-p1",
+    "sentenceIndex": 7,
+    "quote": "Since 1991 the concept has spread far beyond Germany, and tens of thousands of passive houses, schools and offices have now been built around the world.",
+    "whyNotEnough": "Câu này chỉ nói hàng chục nghìn công trình đã được xây trên khắp thế giới, không nhắc Trung Quốc hay thứ hạng quốc gia."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "China",
+     "most",
+     "country"
+    ],
+    "result": "Không câu nào so sánh số lượng nhà thụ động giữa các quốc gia."
+   }
+  },
+  {
+   "id": "FT-R2-013",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Why is it harder to bring existing buildings up to the passive house standard?",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói tường và móng của nhà cũ không được thiết kế để bọc cách nhiệt.",
+    "whyWrong": "Bài còn khẳng định có tiêu chuẩn nới lỏng riêng cho cải tạo, ngược với lựa chọn nói việc này bị cấm.",
+    "trap": "Chi tiết 'relaxed standard' ở phần sau của câu dễ khiến người đọc bỏ qua nguyên nhân chính ở phần trước."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "Owners of old buildings usually refuse any changes",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "Their walls and foundations were not designed to be wrapped in insulation"
+    },
+    {
+     "id": "c",
+     "text": "The standard forbids work on buildings that already exist",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "Insulating materials cannot be attached to older walls",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P04",
+   "evidence": {
+    "paragraphId": "FT-P04-p4",
+    "sentenceIndex": 4,
+    "quote": "Adapting existing buildings is harder still, because their walls and foundations were never designed to be wrapped in insulation, so a slightly relaxed standard exists for renovation projects."
+   }
+  },
+  {
+   "id": "FT-R2-014",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "For renovation projects, there is a slightly {{1}} version of the passive house standard.",
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Từ nguyên trong bài là 'relaxed' trong cụm tiêu chuẩn được nới lỏng cho dự án cải tạo.",
+    "whyWrong": "Các tính từ khác không xuất hiện ở vị trí này trong bài.",
+    "trap": "Từ 'slightly' được giữ nguyên từ câu nguồn để giúp định vị đáp án."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "relaxed"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P04-p4",
+      "sentenceIndex": 4,
+      "quote": "Adapting existing buildings is harder still, because their walls and foundations were never designed to be wrapped in insulation, so a slightly relaxed standard exists for renovation projects."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-015",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Following a pattern repeated in later cultures, Babylonian scholars placed their own {{1}} near the centre of their world map.",
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói các học giả Babylon đặt chính thành phố của họ gần trung tâm bản đồ.",
+    "whyWrong": "Từ cần điền là thứ được đặt gần trung tâm, và từ nguyên trong bài là 'city'.",
+    "trap": "Cụm 'later cultures' trong câu hỏi được trích từ chính câu nguồn để giúp định vị."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "city"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P05-p1",
+      "sentenceIndex": 2,
+      "quote": "Babylonian scholars placed their own city near the centre, a choice that mapmakers in many later cultures would imitate with their own homelands."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-016",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Al-Idrisi completed his celebrated world map for the king of Spain.",
+   "correct": "FALSE",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói al-Idrisi làm bản đồ cho vua Roger II của Sicily, không phải Tây Ban Nha.",
+    "whyWrong": "TRUE sai vì tên quốc vương và vùng đất đã rõ. NOT GIVEN sai vì bài cho thông tin đầy đủ.",
+    "trap": "Sicily và Tây Ban Nha đều là địa danh châu Âu thời trung cổ nên dễ gây nhầm nếu đọc lướt."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P05",
+   "evidence": {
+    "paragraphId": "FT-P05-p2",
+    "sentenceIndex": 3,
+    "quote": "In 1154, the scholar al-Idrisi completed a celebrated world map for King Roger II of Sicily, engraved on a disc of silver and accompanied by a detailed book."
+   }
+  },
+  {
+   "id": "FT-R2-017",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Portolan charts were remarkably accurate about coastlines mainly because they",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói hải đồ portolan chính xác về bờ biển vì được biên soạn từ kinh nghiệm thực tế hằng ngày của người đi biển.",
+    "whyWrong": "Bản đồ tu viện mới mang tính biểu tượng tôn giáo, còn tọa độ của Ptolemy thuộc về mạch thông tin khác.",
+    "trap": "Tên Ptolemy xuất hiện ở đoạn A và B nhưng không phải nguồn gốc của hải đồ portolan."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "were based on the coordinates collected by Ptolemy",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "were compiled from the everyday experience of sailors"
+    },
+    {
+     "id": "c",
+     "text": "were drawn to express religious ideas rather than to guide travellers",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "covered every coastline in the world in equal detail",
+     "distractorType": "over-generalization"
+    }
+   ],
+   "passageId": "FT-P05",
+   "evidence": {
+    "paragraphId": "FT-P05-p2",
+    "sentenceIndex": 5,
+    "quote": "Unlike the symbolic maps of the monasteries, portolan charts were remarkably accurate about coastlines, because they were compiled from the day-to-day experience of seafarers."
+   }
+  },
+  {
+   "id": "FT-R2-018",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Eratosthenes calculated the {{1}} of the Earth using only shadows and geometry.",
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói Eratosthenes tính chu vi Trái Đất chỉ bằng bóng nắng và hình học.",
+    "whyWrong": "Từ cần điền là đại lượng ông đã tính, và từ nguyên trong bài là 'circumference'.",
+    "trap": "Chi tiết thủ thư ở Alexandria có thể làm phân tâm khỏi đại lượng cần tìm."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "circumference"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P05-p1",
+      "sentenceIndex": 4,
+      "quote": "In the third century BCE, Eratosthenes, the librarian of Alexandria, calculated the circumference of the Earth with impressive accuracy using only shadows and geometry."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-019",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "The silver disc bearing al-Idrisi's map has survived and can be seen in a museum today.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài không hề nói đĩa bạc còn tồn tại đến ngày nay hay đã thất lạc.",
+    "whyWrong": "TRUE và FALSE đều không có căn cứ vì bài im lặng về số phận hiện tại của đĩa bạc.",
+    "trap": "Vật liệu bạc gây ấn tượng mạnh khiến người đọc tưởng bài đã nói về tình trạng hiện nay của nó."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P05",
+   "nearMiss": {
+    "paragraphId": "FT-P05-p2",
+    "sentenceIndex": 3,
+    "quote": "In 1154, the scholar al-Idrisi completed a celebrated world map for King Roger II of Sicily, engraved on a disc of silver and accompanied by a detailed book.",
+    "whyNotEnough": "Câu này chỉ cho biết bản đồ được khắc trên đĩa bạc năm 1154, không nói đĩa còn tồn tại hay đang ở đâu."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "survived",
+     "museum",
+     "today"
+    ],
+    "result": "Không câu nào nêu tình trạng hiện tại của đĩa bạc."
+   }
+  },
+  {
+   "id": "FT-R2-020",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Mercator designed his 1569 projection mainly in order to",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 65,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói Mercator thiết kế phép chiếu để giúp thủy thủ đi biển, với đường thẳng giữ hướng la bàn không đổi.",
+    "whyWrong": "Phép chiếu này làm sai lệch diện tích chứ không thể hiện đúng kích thước như lựa chọn b.",
+    "trap": "Chi tiết diện tích bị kéo giãn là nhược điểm của phép chiếu, không phải mục đích của nó."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "help sailors follow a constant compass bearing"
+    },
+    {
+     "id": "b",
+     "text": "show the true relative sizes of land masses",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "provide an accurate map for classroom walls",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "record the newly named continent of America",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "passageId": "FT-P05",
+   "evidence": {
+    "paragraphId": "FT-P05-p3",
+    "sentenceIndex": 4,
+    "quote": "On a Mercator map, a straight line follows a constant compass bearing, so a navigator can plot a course simply by drawing a line between two ports."
+   }
+  },
+  {
+   "id": "FT-R2-021",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "On Mercator's map, Greenland and Africa appear at roughly their correct relative sizes.",
+   "correct": "FALSE",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói Greenland trông to gần bằng châu Phi dù thực tế châu Phi lớn hơn nhiều lần.",
+    "whyWrong": "TRUE sai vì bài khẳng định kích thước tương đối trên bản đồ bị sai lệch. NOT GIVEN sai vì bài nói rõ.",
+    "trap": "Từ 'appears' trong bài phân biệt hình ảnh trên bản đồ với kích thước thật."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P05",
+   "evidence": {
+    "paragraphId": "FT-P05-p3",
+    "sentenceIndex": 5,
+    "quote": "The price of this convenience is distortion: areas near the poles are stretched enormously, so Greenland appears roughly as large as Africa, although Africa is in fact many times bigger."
+   }
+  },
+  {
+   "id": "FT-R2-022",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Waldseemüller's map of 1507 was the first to apply the name '{{1}}' to the lands across the Atlantic.",
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói bản đồ năm 1507 của Waldseemüller là bản đồ đầu tiên đặt tên 'America' cho vùng đất bên kia Đại Tây Dương.",
+    "whyWrong": "Từ cần điền chính là cái tên được áp dụng lần đầu, xuất hiện nguyên văn trong bài.",
+    "trap": "Tên tác giả dài và khó nhớ hơn nhiều so với đáp án ngắn gọn này."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "America"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P05-p3",
+      "sentenceIndex": 2,
+      "quote": "In 1507, Martin Waldseemüller's printed world map was the first to apply the name 'America' to the newly reported lands across the Atlantic."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-023",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "According to the passage, printing transformed mapmaking in the fifteenth century because",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói in ấn ở thế kỷ mười lăm giúp bản đồ được sao chép chính xác và bán rộng rãi lần đầu tiên.",
+    "whyWrong": "Việc đặt tên America thuộc thế kỷ mười sáu, còn khung của Ptolemy được dùng hơn một nghìn năm.",
+    "trap": "Đoạn C chứa nhiều mốc năm gần nhau nên phải gắn đúng sự kiện với đúng thế kỷ."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "it allowed the name America to be put on maps for the first time",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "maps could be copied exactly and sold widely for the first time"
+    },
+    {
+     "id": "c",
+     "text": "it made portolan charts unnecessary for sailors",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "it ended the influence of Ptolemy's Geography",
+     "distractorType": "partial-truth"
+    }
+   ],
+   "passageId": "FT-P05",
+   "evidence": {
+    "paragraphId": "FT-P05-p3",
+    "sentenceIndex": 1,
+    "quote": "The invention of printing in the fifteenth century transformed mapmaking, because maps could now be copied exactly and sold widely for the first time."
+   }
+  },
+  {
+   "id": "FT-R2-024",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Volunteers in open mapping projects have sometimes charted disaster zones within hours, including places official surveys had missed.",
+   "correct": "TRUE",
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói tình nguyện viên đã vẽ các vùng thảm họa trong vài giờ, ở nơi khảo sát chính thức bỏ sót.",
+    "whyWrong": "FALSE sai vì bài khẳng định trực tiếp. NOT GIVEN sai vì chi tiết có trong bài.",
+    "trap": "Cụm 'sometimes within hours' là chi tiết định lượng dễ bị đọc sót ở cuối đoạn."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P05",
+   "evidence": {
+    "paragraphId": "FT-P05-p4",
+    "sentenceIndex": 3,
+    "quote": "Volunteers in open mapping projects have charted remote villages and disaster zones that official surveys had missed, sometimes within hours of an earthquake or flood."
+   }
+  },
+  {
+   "id": "FT-R2-025",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Critics point out that even the choice of {{1}} can quietly favour some regions over others.",
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói giới phê bình cho rằng ngay cả lựa chọn phép chiếu cũng có thể âm thầm ưu ái một số khu vực.",
+    "whyWrong": "Từ cần điền là thứ được lựa chọn, và từ nguyên trong bài là 'projection'.",
+    "trap": "Câu này nằm gần cuối bài, sau nhiều thông tin công nghệ dễ gây mất tập trung."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "projection"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P05-p4",
+      "sentenceIndex": 4,
+      "quote": "Yet every map still involves choices about what to include and what to leave out, and critics note that even the choice of projection can quietly favour some regions over others."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-026",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "What is the writer's conclusion in the final paragraph?",
+   "correct": "c",
+   "difficulty": 4,
+   "estimatedSeconds": 70,
+   "tags": [
+    "mcq",
+    "main-idea"
+   ],
+   "explanation": {
+    "whyCorrect": "Câu kết của bài nói lịch sử bản đồ cũng là lịch sử của tri thức, công nghệ và quyền lực đang thay đổi.",
+    "whyWrong": "Bài khẳng định bản đồ luôn chứa lựa chọn chủ quan, ngược với lựa chọn nói khách quan hoàn toàn.",
+    "trap": "Lựa chọn về tình nguyện viên phóng đại một chi tiết của đoạn D thành kết luận toàn bài."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "Modern maps have finally become completely objective records of the world",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "Printed paper maps will soon disappear altogether",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "Maps are also a record of the knowledge, technology and power of their time"
+    },
+    {
+     "id": "d",
+     "text": "Volunteer mapping has replaced official surveys everywhere",
+     "distractorType": "over-generalization"
+    }
+   ],
+   "passageId": "FT-P05",
+   "evidence": {
+    "paragraphId": "FT-P05-p4",
+    "sentenceIndex": 5,
+    "quote": "The history of the world map is therefore also a history of changing knowledge, technology and power."
+   }
+  },
+  {
+   "id": "FT-R2-027",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Ptolemy's Geography was translated by Islamic scholars within a hundred years of its completion.",
+   "correct": "NOT GIVEN",
+   "difficulty": 5,
+   "estimatedSeconds": 65,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói học giả Hồi giáo đã dịch công trình của Ptolemy nhưng không hề cho mốc thời gian của việc dịch.",
+    "whyWrong": "TRUE và FALSE đều sai vì khoảng thời gian một thế kỷ không được bài xác nhận hay phủ định.",
+    "trap": "Chi tiết 'four centuries later' ở đoạn A nói về thời điểm Ptolemy viết sách, không phải thời điểm bản dịch."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P05",
+   "nearMiss": {
+    "paragraphId": "FT-P05-p2",
+    "sentenceIndex": 2,
+    "quote": "Islamic scholars, by contrast, preserved and improved Greek geographical knowledge, translating Ptolemy's work and correcting it with travellers' reports.",
+    "whyNotEnough": "Câu này chỉ nói học giả Hồi giáo dịch và hiệu đính công trình của Ptolemy, không gắn với bất kỳ mốc thời gian nào."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "translated",
+     "hundred years",
+     "within"
+    ],
+    "result": "Không câu nào nêu thời điểm bản dịch ra đời."
+   }
+  },
+  {
+   "id": "FT-R2-028",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Kahneman and Tversky showed that even statisticians could be misled by the mind's shortcuts.",
+   "correct": "TRUE",
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói cả chuyên gia như nhà thống kê cũng bị các lối tắt tư duy đánh lừa.",
+    "whyWrong": "FALSE sai vì bài khẳng định trực tiếp. NOT GIVEN sai vì thông tin có sẵn trong bài.",
+    "trap": "Từ 'even' nhấn mạnh nhóm chuyên gia cũng không ngoại lệ, chi tiết dễ bị bỏ qua."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P06",
+   "evidence": {
+    "paragraphId": "FT-P06-p1",
+    "sentenceIndex": 4,
+    "quote": "Their experiments demonstrated that even highly trained people, including statisticians, could be misled by the same shortcuts."
+   }
+  },
+  {
+   "id": "FT-R2-029",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "The term 'loss aversion' refers to the finding that",
+   "correct": "a",
+   "difficulty": 2,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài định nghĩa sợ mất mát là mất một khoản tiền gây đau đớn gấp khoảng hai lần niềm vui khi được cùng khoản đó.",
+    "whyWrong": "Ví dụ về cổ phiếu là hệ quả của hiện tượng, không phải định nghĩa; tỉ lệ ở lựa chọn c bị đảo ngược.",
+    "trap": "Ví dụ minh họa xuất hiện ngay sau định nghĩa nên dễ bị chọn nhầm thành định nghĩa."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "losing money hurts people more than gaining the same amount pleases them"
+    },
+    {
+     "id": "b",
+     "text": "investors hold on to shares that are falling in value",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "c",
+     "text": "gaining money pleases people about twice as much as losing it hurts",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "people avoid taking any financial risks at all",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P06",
+   "evidence": {
+    "paragraphId": "FT-P06-p2",
+    "sentenceIndex": 1,
+    "quote": "One of the field's central findings is loss aversion: losing a sum of money hurts most people roughly twice as much as gaining the same sum pleases them."
+   }
+  },
+  {
+   "id": "FT-R2-030",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Losing a sum of money hurts most people roughly {{1}} as much as gaining the same sum pleases them.",
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Từ nguyên trong bài là 'twice' trong so sánh mức đau đớn khi mất so với niềm vui khi được.",
+    "whyWrong": "Các từ chỉ số lần khác không khớp với so sánh gấp đôi mà bài nêu.",
+    "trap": "Từ 'roughly' cho thấy đây là tỉ lệ xấp xỉ, nhưng từ cần điền vẫn là 'twice'."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P06",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "twice"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P06-p2",
+      "sentenceIndex": 1,
+      "quote": "One of the field's central findings is loss aversion: losing a sum of money hurts most people roughly twice as much as gaining the same sum pleases them."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-031",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "In the study described in the passage, patients preferred the treatment described in terms of a 10 per cent death rate.",
+   "correct": "FALSE",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói bệnh nhân ưa chuộng phương án mô tả bằng tỉ lệ sống sót 90 phần trăm hơn hẳn.",
+    "whyWrong": "TRUE sai vì thứ tự ưa thích ngược lại. NOT GIVEN sai vì bài mô tả rõ kết quả nghiên cứu.",
+    "trap": "Hai con số 90 và 10 mô tả cùng một phương án, khiến người đọc dễ đảo ngược lựa chọn."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P06",
+   "evidence": {
+    "paragraphId": "FT-P06-p2",
+    "sentenceIndex": 4,
+    "quote": "In one well-known study, patients preferred a treatment described as having a 90 per cent survival rate to the same treatment described as having a 10 per cent death rate."
+   }
+  },
+  {
+   "id": "FT-R2-032",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "The fact that doctors showed the same bias as patients suggests that the framing effect",
+   "correct": "c",
+   "difficulty": 3,
+   "estimatedSeconds": 65,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói sự giống nhau giữa bác sĩ và bệnh nhân cho thấy hiệu ứng không chỉ do thiếu học vấn.",
+    "whyWrong": "Bài không nói bác sĩ quyết định tệ hơn bệnh nhân, cũng không nói học vấn xóa được hiệu ứng.",
+    "trap": "Cụm 'not simply a result of poor education' là kết luận suy luận, cần đọc trọn câu mới thấy."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "is stronger in experts than in ordinary people",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "disappears once people have studied statistics",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "is not simply the result of poor education"
+    },
+    {
+     "id": "d",
+     "text": "affects every decision that doctors make",
+     "distractorType": "over-generalization"
+    }
+   ],
+   "passageId": "FT-P06",
+   "evidence": {
+    "paragraphId": "FT-P06-p2",
+    "sentenceIndex": 5,
+    "quote": "Doctors showed the same bias as their patients when the options were framed differently, which suggests the effect is not simply a result of poor education."
+   }
+  },
+  {
+   "id": "FT-R2-033",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "A nudge changes the way choices are presented without {{1}} any option.",
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài định nghĩa cú hích là thay đổi cách trình bày lựa chọn mà không cấm bất kỳ phương án nào, và động từ nguyên văn là 'forbidding'.",
+    "whyWrong": "Các động từ khác không xuất hiện trong định nghĩa này của bài.",
+    "trap": "Ví dụ cấm đồ ăn vặt là trường hợp không phải cú hích, dễ gây nhầm chiều thông tin."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P06",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "forbidding"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P06-p3",
+      "sentenceIndex": 2,
+      "quote": "A nudge changes the way choices are presented without forbidding any option: putting fruit at eye level in a canteen is a nudge, while banning junk food is not."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-034",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "In some companies, automatic enrolment raised pension scheme participation to more than nine out of ten employees.",
+   "correct": "TRUE",
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "tfng",
+    "quantifier"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói tỉ lệ tham gia lương hưu tăng từ dưới một nửa lên hơn chín phần mười ở một số công ty.",
+    "whyWrong": "FALSE sai vì số liệu trong bài cao hơn hẳn. NOT GIVEN sai vì bài cho con số cụ thể.",
+    "trap": "Cụm 'more than nine in ten' phải được đổi thành hơn chín phần mười mới khớp câu hỏi."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P06",
+   "evidence": {
+    "paragraphId": "FT-P06-p3",
+    "sentenceIndex": 4,
+    "quote": "When employees were automatically enrolled in a pension scheme, with the freedom to leave if they wished, participation rose from under half to more than nine in ten in some companies."
+   }
+  },
+  {
+   "id": "FT-R2-035",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Critics of nudges object that they",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói giới phê bình cho rằng cú hích để chính phủ dẫn dắt hành vi mà không cần tranh luận công khai.",
+    "whyWrong": "Việc cấm đồ ăn vặt được bài nêu là không phải cú hích; chi phí thấp là ý thuộc đoạn sau.",
+    "trap": "Từ 'manipulation' là cách phe phê bình gọi, không phải quan điểm của tác giả bài viết."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "involve banning unhealthy products such as junk food",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "let governments steer behaviour without open debate"
+    },
+    {
+     "id": "c",
+     "text": "are too expensive for governments to use widely",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "have never changed anyone's behaviour",
+     "distractorType": "over-generalization"
+    }
+   ],
+   "passageId": "FT-P06",
+   "evidence": {
+    "paragraphId": "FT-P06-p3",
+    "sentenceIndex": 6,
+    "quote": "Critics object that nudges allow governments to steer behaviour without open debate, and some describe the approach as manipulation dressed up as help."
+   }
+  },
+  {
+   "id": "FT-R2-036",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Countries that presume consent to organ donation record far higher {{1}} rates than countries where people must opt in.",
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói các nước mặc định đồng ý ghi nhận tỉ lệ đồng ý hiến tạng cao hơn hẳn các nước đăng ký tự nguyện.",
+    "whyWrong": "Từ cần điền là thứ được đo bằng tỉ lệ, và bài dùng cụm 'consent rates' nguyên văn.",
+    "trap": "Cặp thuật ngữ 'opt out' và 'opt in' gây nhiễu nhưng đáp án nằm ở cụm 'consent rates'."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P06",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "consent"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P06-p3",
+      "sentenceIndex": 5,
+      "quote": "Similar default effects appear in organ donation, where countries that presume consent unless a person opts out record far higher consent rates than countries that ask people to opt in."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R2-037",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Before writing their book on nudges, Cass Sunstein worked for many years as a judge.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài chỉ giới thiệu Sunstein là học giả luật, hoàn toàn không nhắc ông từng làm thẩm phán.",
+    "whyWrong": "TRUE và FALSE đều không có căn cứ vì nghề nghiệp cụ thể này không được bài xác nhận hay phủ định.",
+    "trap": "Danh xưng 'legal scholar' khiến người đọc tự bổ sung nghề thẩm phán mà bài không hề nói."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P06",
+   "nearMiss": {
+    "paragraphId": "FT-P06-p3",
+    "sentenceIndex": 1,
+    "quote": "Richard Thaler extended these ideas into public policy with the concept of the 'nudge', developed with the legal scholar Cass Sunstein in their 2008 book.",
+    "whyNotEnough": "Câu này chỉ cho biết Sunstein là học giả luật và cùng Thaler phát triển khái niệm cú hích, không nói ông từng làm thẩm phán."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "judge",
+     "court",
+     "worked"
+    ],
+    "result": "Không câu nào nêu Sunstein từng làm thẩm phán."
+   }
+  },
+  {
+   "id": "FT-R2-038",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "The tax letters sent by the Behavioural Insights Team were effective because they",
+   "correct": "d",
+   "difficulty": 2,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói thư thuế cho người nộp chậm biết hầu hết người dân quanh họ đã nộp, và tỉ lệ nộp tăng rõ rệt.",
+    "whyWrong": "Bài không nhắc phạt tiền hay giảm giá; thông điệp của thư là đa số đã nộp chứ không phải sắp bị phạt.",
+    "trap": "Bối cảnh thư thuế khiến người đọc tự nghĩ tới hình phạt, chi tiết bài không hề đề cập."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "offered a discount to people who paid quickly",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "threatened late payers with heavy fines",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "warned that very few people in the area had paid on time",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "told late payers that most people in their area had already paid"
+    }
+   ],
+   "passageId": "FT-P06",
+   "evidence": {
+    "paragraphId": "FT-P06-p4",
+    "sentenceIndex": 2,
+    "quote": "One of its best-known successes involved tax letters that told late payers most people in their area had already paid, a message that noticeably increased payment rates."
+   }
+  },
+  {
+   "id": "FT-R2-039",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "The United Kingdom's Behavioural Insights Team employs more than two hundred specialists.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài không cho bất kỳ con số nhân sự nào của nhóm chuyên gia hành vi ở Anh.",
+    "whyWrong": "TRUE và FALSE đều sai vì quy mô nhân sự hoàn toàn không được bài đề cập.",
+    "trap": "Mốc năm 2010 và biệt danh 'nudge unit' rất cụ thể khiến người đọc tưởng quy mô nhóm cũng đã nêu."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P06",
+   "nearMiss": {
+    "paragraphId": "FT-P06-p4",
+    "sentenceIndex": 1,
+    "quote": "Governments have been quick to adopt the ideas: in 2010 the United Kingdom created a Behavioural Insights Team, quickly nicknamed the 'nudge unit', and similar teams followed in other countries.",
+    "whyNotEnough": "Câu này chỉ nói nhóm được thành lập năm 2010 và có biệt danh 'nudge unit', không nêu số nhân viên."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "employs",
+     "two hundred",
+     "specialists",
+     "staff"
+    ],
+    "result": "Không câu nào nêu quy mô nhân sự của nhóm."
+   }
+  },
+  {
+   "id": "FT-R2-040",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "The writer cautions that the effects of many nudges are {{1}}, despite the enthusiasm surrounding them.",
+   "difficulty": 4,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài cảnh báo hiệu quả của nhiều cú hích là nhỏ, dù giới làm chính sách rất hào hứng.",
+    "whyWrong": "Từ cần điền là tính từ mô tả độ lớn hiệu quả, và từ nguyên trong bài là 'small'.",
+    "trap": "Đoạn D mở đầu bằng các thành công nên tính từ tiêu cực ở gần cuối đoạn dễ bị bỏ sót."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "passageId": "FT-P06",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "small"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P06-p4",
+      "sentenceIndex": 4,
+      "quote": "Enthusiasm should nevertheless be restrained, because the effects of many nudges are small, and some celebrated findings in the wider field have failed to be repeated by later researchers."
+     }
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+/* Design tokens — Mục 21.2 dac ta v4.0.
+   tools/check-contrast.mjs la nguon su that cho tuong phan. */
+:root {
+  --bg: #FBF9F5;
+  --surface: #FFFFFF;
+  --ink: #1D1C1A;
+  --ink-2: #4B4843;
+  --ink-3: #6B675F;
+  --line: #D8D3C8;
+  --line-strong: #8A857A;
+  --accent: #1F4E8C;
+  --on-accent: #FFFFFF;
+  --ok: #0B6C9E;
+  --err: #A8480A;
+  --warn: #7A5C00;
+  --mode-practice: #1B5E8F;
+  --mode-test: #A8480A;
+  color-scheme: light;
+}
+[data-theme="dark"] {
+  --bg: #151412;
+  --surface: #1E1D1A;
+  --ink: #F2EFE8;
+  --ink-2: #C9C4B8;
+  --ink-3: #A29D91;
+  --line: #3A3832;
+  --line-strong: #7C776B;
+  --accent: #8FB8F0;
+  --on-accent: #0F1A2A;
+  --ok: #7FC1E8;
+  --err: #F2A366;
+  --warn: #E3C15C;
+  --mode-practice: #8CC4EA;
+  --mode-test: #F2A366;
+  color-scheme: dark;
+}

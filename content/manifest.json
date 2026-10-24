@@ -1,0 +1,157 @@
+{
+ "contentVersion": 1,
+ "schemaVersion": 1,
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md.",
+ "units": [
+  {
+   "file": "unit-r-u01.json",
+   "id": "R-U01",
+   "status": "published"
+  },
+  {
+   "file": "unit-r-u02.json",
+   "id": "R-U02",
+   "status": "published"
+  },
+  {
+   "file": "unit-r-u03.json",
+   "id": "R-U03",
+   "status": "published"
+  },
+  {
+   "file": "unit-r-u04.json",
+   "id": "R-U04",
+   "status": "published"
+  },
+  {
+   "file": "unit-r-u05.json",
+   "id": "R-U05",
+   "status": "published"
+  },
+  {
+   "file": "unit-r-u06.json",
+   "id": "R-U06",
+   "status": "published"
+  },
+  {
+   "id": "L-U01",
+   "file": "unit-l-u01.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U02",
+   "file": "unit-l-u02.json",
+   "status": "published"
+  },
+  {
+   "id": "G-U01",
+   "file": "unit-g-u01.json",
+   "status": "published"
+  },
+  {
+   "id": "G-U02",
+   "file": "unit-g-u02.json",
+   "status": "published"
+  },
+  {
+   "id": "R-U07",
+   "file": "unit-r-u07.json",
+   "status": "published"
+  },
+  {
+   "id": "R-U08",
+   "file": "unit-r-u08.json",
+   "status": "published"
+  },
+  {
+   "id": "R-U09",
+   "file": "unit-r-u09.json",
+   "status": "published"
+  },
+  {
+   "id": "R-U10",
+   "file": "unit-r-u10.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U03",
+   "file": "unit-l-u03.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U04",
+   "file": "unit-l-u04.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U05",
+   "file": "unit-l-u05.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U06",
+   "file": "unit-l-u06.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U07",
+   "file": "unit-l-u07.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U08",
+   "file": "unit-l-u08.json",
+   "status": "published"
+  },
+  {
+   "id": "R-U11",
+   "file": "unit-r-u11.json",
+   "status": "published"
+  },
+  {
+   "id": "R-U12",
+   "file": "unit-r-u12.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U13",
+   "file": "unit-l-u13.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U14",
+   "file": "unit-l-u14.json",
+   "status": "published"
+  },
+  {
+   "id": "R-U13",
+   "file": "unit-r-u13.json",
+   "status": "published"
+  },
+  {
+   "id": "R-U14",
+   "file": "unit-r-u14.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U11",
+   "file": "unit-l-u11.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U12",
+   "file": "unit-l-u12.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U09",
+   "file": "unit-l-u09.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U10",
+   "file": "unit-l-u10.json",
+   "status": "published"
+  }
+ ]
+}

@@ -1,0 +1,548 @@
+{
+ "schemaVersion": 1,
+ "id": "R-U10",
+ "skill": "reading",
+ "title": "Reading: hoàn thành câu và trắc nghiệm — thám hiểm hang động",
+ "objective": "Học xong bài này, bạn sẽ tìm được từ nguyên trong bài để điền vào chỗ trống và nêu được lý do cụ thể loại từng lựa chọn sai về chủ đề hang động.",
+ "minutes": 6,
+ "ruleCardId": "RC-MCQ",
+ "passage": {
+  "id": "P-N21",
+  "title": "Into the Dark: Exploring and Protecting Caves",
+  "genre": "science",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N21-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Caves are among the last unexplored places on Earth, and new passages are still being found in limestone hills that have been mapped for centuries."
+     },
+     {
+      "index": 2,
+      "text": "Modern explorers rely on laser scanners that build three-dimensional models of chambers too narrow or dangerous for people to enter."
+     },
+     {
+      "index": 3,
+      "text": "These models allow scientists to measure a cave's volume and follow changes in its shape over time."
+     }
+    ]
+   },
+   {
+    "id": "P-N21-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "What explorers find underground often matters far beyond the cave itself."
+     },
+     {
+      "index": 2,
+      "text": "Stalagmites grow layer by layer over thousands of years, and their chemical composition preserves a record of past rainfall and temperature."
+     },
+     {
+      "index": 3,
+      "text": "By analysing these formations, researchers have reconstructed droughts that ended centuries before written records began."
+     }
+    ]
+   },
+   {
+    "id": "P-N21-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Exploration, however, carries risks for the very places it reveals."
+     },
+     {
+      "index": 2,
+      "text": "A single visit by an inexperienced group can trample cave floors that took millennia to form, and lights brought in by tour operators encourage algae that discolour ancient rock art."
+     },
+     {
+      "index": 3,
+      "text": "Many cave systems are now protected by permit systems that limit the number of visitors each year."
+     },
+     {
+      "index": 4,
+      "text": "In the most fragile caves, only researchers are admitted, and even they must follow marked paths and clean their boots before entering."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "P-N22",
+  "title": "The Cave Divers of the Yucatán",
+  "genre": "science",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N22-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "In Mexico's Yucatán Peninsula, flooded caves known as cenotes stretch for hundreds of kilometres beneath the jungle."
+     },
+     {
+      "index": 2,
+      "text": "Divers exploring these systems carry two independent air supplies, because a single failure underground can be fatal."
+     },
+     {
+      "index": 3,
+      "text": "The divers also lay a continuous line from the entrance, which they follow back through water that is often cloudy with sediment."
+     },
+     {
+      "index": 4,
+      "text": "Archaeologists work alongside the divers, since the flooded caves contain pottery and tools left by the Maya more than a thousand years ago."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "skill": "reading",
+   "id": "R-SEN-1001",
+   "questionType": "sentence",
+   "unitId": "R-U10",
+   "passageId": "P-N21",
+   "stem": "Modern explorers use {{1}} scanners to build models of chambers that people cannot enter safely.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "laser"
+     ],
+     "maxWords": 1,
+     "wordClass": "adjective",
+     "evidence": {
+      "paragraphId": "P-N21-p1",
+      "sentenceIndex": 2,
+      "quote": "Modern explorers rely on laser scanners that build three-dimensional models of chambers too narrow or dangerous for people to enter."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "digital",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Câu nguồn nói nhà thám hiểm hiện nay dựa vào 'laser scanners' để dựng mô hình các khoang hang hẹp hoặc nguy hiểm.",
+    "whyWrong": "'Digital' hợp nghĩa chung nhưng bài không dùng từ này cho máy quét nên không được chấp nhận.",
+    "trap": "Tính chất 'three-dimensional' mô tả mô hình đầu ra, không phải loại máy quét cần điền vào chỗ trống."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1001",
+   "questionType": "mcq",
+   "unitId": "R-U10",
+   "passageId": "P-N21",
+   "stem": "Stalagmites are valuable to scientists mainly because they",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "preserve evidence of past climate conditions"
+    },
+    {
+     "id": "b",
+     "text": "contain written records of early droughts",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "can be dated by the layers of rock art on their surface",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "grow more quickly in warmer temperatures",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N21-p2",
+    "sentenceIndex": 2,
+    "quote": "Stalagmites grow layer by layer over thousands of years, and their chemical composition preserves a record of past rainfall and temperature."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn hai viết thành phần hóa học của măng đá 'preserves a record of past rainfall and temperature', tức lưu giữ bằng chứng khí hậu quá khứ.",
+    "whyWrong": "Lựa chọn b đảo ngược chi tiết hạn hán kết thúc trước khi có ghi chép. Lựa chọn c ghép 'layers' với 'rock art' ở đoạn khác. Lựa chọn d không có trong bài.",
+    "trap": "Bài nhắc 'written records' chỉ để mốc thời gian; măng đá chứa hồ sơ hóa học chứ không chứa ghi chép bằng chữ."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-SEN-1002",
+   "questionType": "sentence",
+   "unitId": "R-U10",
+   "passageId": "P-N21",
+   "stem": "Researchers have used cave formations to reconstruct {{1}} that ended before written records began.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "droughts"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N21-p2",
+      "sentenceIndex": 3,
+      "quote": "By analysing these formations, researchers have reconstructed droughts that ended centuries before written records began."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "floods",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Câu nguồn viết các nhà nghiên cứu đã tái dựng 'droughts' kết thúc hàng thế kỷ trước khi có ghi chép.",
+    "whyWrong": "'Floods' là hiện tượng nước đối ngược; bài chỉ nói về lượng mưa trong hồ sơ hóa học, không tái dựng lũ lụt.",
+    "trap": "Đoạn hai gắn với 'rainfall' nên dễ nghĩ tới lũ; danh từ được tái dựng trong bài là đợt hạn hán."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1002",
+   "questionType": "mcq",
+   "unitId": "R-U10",
+   "passageId": "P-N21",
+   "stem": "According to the passage, why do permit systems limit the number of visitors to many caves?",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-structural"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "Because visits can damage delicate cave floors and rock art"
+    },
+    {
+     "id": "b",
+     "text": "Because most caves are too narrow for groups to enter",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "So that algae can grow undisturbed on the rock art",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "Because permits provide income for tour operators",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N21-p3",
+    "sentenceIndex": 3,
+    "quote": "Many cave systems are now protected by permit systems that limit the number of visitors each year."
+   },
+   "explanation": {
+    "whyCorrect": "Câu trước đó nói một chuyến thăm thiếu kinh nghiệm có thể giẫm nát sàn hang và ánh đèn làm tảo đổi màu tranh đá; giấy phép giới hạn khách để tránh hại này.",
+    "whyWrong": "Lựa chọn b mượn chi tiết 'too narrow' thuộc về máy quét ở đoạn một. Lựa chọn c ngược ý vì tảo là tác hại. Lựa chọn d không xuất hiện trong bài.",
+    "trap": "Lý do của giấy phép nằm ở câu ngay trước câu về giấy phép, không nằm trong cùng một câu nguồn."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-SEN-1003",
+   "questionType": "sentence",
+   "unitId": "R-U10",
+   "passageId": "P-N21",
+   "stem": "In the most fragile caves, even researchers must clean their {{1}} before entering.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "boots"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N21-p3",
+      "sentenceIndex": 4,
+      "quote": "In the most fragile caves, only researchers are admitted, and even they must follow marked paths and clean their boots before entering."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "equipment",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Câu cuối viết ngay cả nhà nghiên cứu cũng phải 'clean their boots before entering' các hang mong manh nhất.",
+    "whyWrong": "'Equipment' là từ khái quát hợp lý nhưng bài nêu cụ thể vật phải làm sạch là ủng đi hang.",
+    "trap": "Câu nguồn có hai yêu cầu song song, đi theo lối mòn đánh dấu và làm sạch ủng; chỗ trống khớp yêu cầu thứ hai."
+   }
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "skill": "reading",
+   "id": "R-SEN-1051",
+   "questionType": "sentence",
+   "unitId": "R-U10",
+   "passageId": "P-N22",
+   "stem": "Cave divers carry two independent supplies of {{1}} for safety.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "air"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N22-p1",
+      "sentenceIndex": 2,
+      "quote": "Divers exploring these systems carry two independent air supplies, because a single failure underground can be fatal."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "oxygen",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Bài viết thợ lặn mang 'two independent air supplies' vì một sự cố dưới lòng đất có thể gây chết người.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "skill": "reading",
+   "id": "R-MCQ-1051",
+   "questionType": "mcq",
+   "unitId": "R-U10",
+   "passageId": "P-N22",
+   "stem": "Why do the divers lay a continuous line from the entrance?",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "options": [
+    {
+     "id": "a",
+     "text": "So they can find their way back through unclear water"
+    },
+    {
+     "id": "b",
+     "text": "To measure the total length of the cave system",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "To mark the places where Maya pottery was found",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "Because the line carries their air supply to them",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "correct": "a",
+   "explanation": {
+    "whyCorrect": "Bài viết thợ lặn lần theo sợi dây quay lại 'through water that is often cloudy with sediment', tức nước đục khó nhìn.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "evidence": {
+    "paragraphId": "P-N22-p1",
+    "sentenceIndex": 3,
+    "quote": "The divers also lay a continuous line from the entrance, which they follow back through water that is often cloudy with sediment."
+   }
+  },
+  {
+   "skill": "reading",
+   "id": "R-SEN-1052",
+   "questionType": "sentence",
+   "unitId": "R-U10",
+   "passageId": "P-N22",
+   "stem": "The flooded caves contain {{1}} and tools left by the Maya.",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "pottery"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N22-p1",
+      "sentenceIndex": 4,
+      "quote": "Archaeologists work alongside the divers, since the flooded caves contain pottery and tools left by the Maya more than a thousand years ago."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "weapons",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Câu cuối viết các hang ngập nước chứa 'pottery and tools' do người Maya để lại hơn một nghìn năm trước.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "Permit systems now protect many cave systems.",
+  "instruction": "Bắt đầu bằng: Many cave systems …",
+  "mustContain": [
+   "are now protected"
+  ],
+  "mustNotContain": [
+   "protect many"
+  ],
+  "samples": [
+   "Many cave systems are now protected by permit systems."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

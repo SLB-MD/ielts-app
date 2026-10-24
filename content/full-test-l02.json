@@ -1,0 +1,2295 @@
+{
+ "schemaVersion": 1,
+ "kind": "full-test",
+ "id": "FT-L02",
+ "skill": "listening",
+ "title": "Full Listening test 2",
+ "minutes": 40,
+ "clips": [
+  {
+   "id": "FT-A05",
+   "title": "Section 1: Registering a child for summer camp",
+   "lines": [
+    {
+     "speaker": "Officer",
+     "text": "Good morning, Greenfield Summer Camp. How can I help you?"
+    },
+    {
+     "speaker": "Mrs Doyle",
+     "text": "Hello, I would like to register my daughter for the summer camp, please."
+    },
+    {
+     "speaker": "Officer",
+     "text": "Of course. Could I take your surname first?"
+    },
+    {
+     "speaker": "Mrs Doyle",
+     "text": "It is Doyle, D-O-Y-L-E."
+    },
+    {
+     "speaker": "Officer",
+     "text": "Thank you, Mrs Doyle. And how old is your daughter?"
+    },
+    {
+     "speaker": "Mrs Doyle",
+     "text": "Her name is Sophie, and she has just turned nine."
+    },
+    {
+     "speaker": "Officer",
+     "text": "The camp runs two sessions each day: a morning session and an afternoon session."
+    },
+    {
+     "speaker": "Mrs Doyle",
+     "text": "We first thought about the morning session, but the afternoon session is better, because she has piano lessons at ten o'clock."
+    },
+    {
+     "speaker": "Officer",
+     "text": "Children also choose one main activity for the whole week: swimming, art classes or outdoor games."
+    },
+    {
+     "speaker": "Mrs Doyle",
+     "text": "Sophie said art classes at first, but she changed her mind this morning. She wants the outdoor games now."
+    },
+    {
+     "speaker": "Officer",
+     "text": "The fee is 120 pounds for each week, and there is a discount of ten per cent on the second week."
+    },
+    {
+     "speaker": "Mrs Doyle",
+     "text": "She will come for two weeks, starting on Monday the seventh of July."
+    },
+    {
+     "speaker": "Officer",
+     "text": "For lunch, children can bring a packed lunch, or buy a hot lunch at the camp kitchen for four pounds a day."
+    },
+    {
+     "speaker": "Mrs Doyle",
+     "text": "She will bring a packed lunch, except on Fridays, when she can have the hot lunch as a treat."
+    },
+    {
+     "speaker": "Officer",
+     "text": "Finally, could I have an emergency contact number?"
+    },
+    {
+     "speaker": "Mrs Doyle",
+     "text": "Yes, it is 0742, 555, 913."
+    },
+    {
+     "speaker": "Officer",
+     "text": "Thank you. We will send the confirmation letter by email this week."
+    }
+   ]
+  },
+  {
+   "id": "FT-A06",
+   "title": "Section 2: An introduction to Highmoor National Park",
+   "lines": [
+    {
+     "speaker": "Presenter",
+     "text": "Welcome to this short guide to Highmoor National Park, one of the largest protected areas in the north of the country."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "The park covers 850 square kilometres, and it welcomes around two million visitors every year."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Most visitors start at the main visitor centre in the village of Kirkby, where parking costs five pounds per day."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "From the centre, a shuttle bus takes visitors to the famous waterfall every hour, and the journey takes twenty minutes."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "The highest point in the park is Highmoor Peak, which rises to 724 metres above sea level."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Guided walks used to leave the centre at ten o'clock, but from this month they leave at nine thirty, so that walkers avoid the midday heat."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Dogs are welcome in most areas, but near the lake, where rare birds are nesting, they must be kept on a lead."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "The park is well known for its red deer, and the best place to see them is the valley below the old stone bridge."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "If you stay overnight, the campsite near the forest has space for sixty tents, and booking is essential in August."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Inside the visitor centre, a new exhibition about the park's wildlife has just opened, and entry is free for members."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Finally, always check the weather forecast before you set off, because conditions on the hills can change very quickly."
+    }
+   ]
+  },
+  {
+   "id": "FT-A07",
+   "title": "Section 3: Planning a group assignment on local transport",
+   "lines": [
+    {
+     "speaker": "Tutor",
+     "text": "Thanks for coming, both of you. Let us look at the plan for your group assignment on local transport."
+    },
+    {
+     "speaker": "Jake",
+     "text": "We have decided to compare bus services in two towns, Marlow and Henby."
+    },
+    {
+     "speaker": "Priya",
+     "text": "I will collect data on passenger numbers at the main stops."
+    },
+    {
+     "speaker": "Jake",
+     "text": "And I will interview some of the bus drivers about their routes."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Good. Remember that the assignment must be no longer than four thousand words."
+    },
+    {
+     "speaker": "Priya",
+     "text": "At first we hoped to interview ten drivers, but only six agreed to take part."
+    },
+    {
+     "speaker": "Jake",
+     "text": "We also planned five sections, but we have cut it down to four, to keep within the word limit."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "That sounds sensible. When will the first draft be ready?"
+    },
+    {
+     "speaker": "Jake",
+     "text": "We aimed for the fifteenth of May, but the library data arrives late, so the draft will be ready on the twenty-second of May."
+    },
+    {
+     "speaker": "Priya",
+     "text": "I am a bit worried about the statistics section, because the software is new to me."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "The university runs a free workshop on that software every Wednesday afternoon in the computer lab."
+    },
+    {
+     "speaker": "Jake",
+     "text": "We would also like to include photographs of the bus stations in the report."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "That is fine, but you must ask the transport company for permission before you use any photographs."
+    },
+    {
+     "speaker": "Priya",
+     "text": "We will meet again next Tuesday, and we will send you the outline by Friday."
+    }
+   ]
+  },
+  {
+   "id": "FT-A08",
+   "title": "Section 4: A lecture on the history of writing",
+   "lines": [
+    {
+     "speaker": "Lecturer",
+     "text": "In this lecture, I will follow the development of writing, from the first marks pressed into clay to the printed book."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "The earliest known system of writing is cuneiform, which appeared in Mesopotamia around 3400 BC."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Cuneiform was used mainly by officials to keep records of goods, such as grain and animals."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "The signs were pressed into wet clay tablets using a reed, and the tablets were then dried in the sun."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "At about the same time, the Egyptians developed hieroglyphs, which they carved into stone and painted on tomb walls."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Unlike cuneiform, hieroglyphs were also used for religious purposes in temples."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Many centuries later, the Phoenicians created an alphabet with only twenty-two signs."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Because the system was so small, ordinary traders could learn it, not just trained scribes."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "The Greeks took this alphabet and added separate signs for vowel sounds, which made texts easier to read aloud."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Paper reached Europe from China, where it had been invented many centuries before."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Before paper arrived, Europeans wrote on parchment, a material made from animal skin."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Making just one book took the skins of about fifty sheep, so books stayed rare and expensive for centuries."
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "FT-L2-001",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Parent's surname: {{1}}",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "spelling"
+   ],
+   "explanation": {
+    "whyCorrect": "Họ của phụ huynh được đánh vần rõ là Doyle.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Doyle"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A05",
+      "sentenceIndex": 4,
+      "quote": "It is Doyle, D-O-Y-L-E."
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A05",
+    "sentenceIndex": 4,
+    "quote": "It is Doyle, D-O-Y-L-E."
+   }
+  },
+  {
+   "id": "FT-L2-002",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Age of the child: {{1}}",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Bà Doyle nói con gái bà vừa tròn chín tuổi.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "9",
+      "nine"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A05",
+      "sentenceIndex": 6,
+      "quote": "she has just turned nine"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A05",
+    "sentenceIndex": 6,
+    "quote": "she has just turned nine"
+   }
+  },
+  {
+   "id": "FT-L2-003",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Which session will Sophie attend?",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Buổi chiều phù hợp hơn vì buổi sáng Sophie có giờ học piano lúc mười giờ.",
+    "whyWrong": "Buổi sáng là ý định ban đầu nhưng bị loại vì trùng giờ học piano; hai lựa chọn còn lại không được nhắc tới.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A05",
+   "options": [
+    {
+     "id": "a",
+     "text": "the morning session",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "b",
+     "text": "the afternoon session"
+    },
+    {
+     "id": "c",
+     "text": "both sessions",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "the evening session",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A05",
+    "sentenceIndex": 8,
+    "quote": "the afternoon session is better"
+   }
+  },
+  {
+   "id": "FT-L2-004",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What is Sophie's main activity for the week?",
+   "correct": "c",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "distractor-corrected"
+   ],
+   "explanation": {
+    "whyCorrect": "Sophie đổi ý vào buổi sáng và chọn trò chơi ngoài trời làm hoạt động chính.",
+    "whyWrong": "Lớp mỹ thuật là lựa chọn ban đầu đã bị đổi; piano chỉ là lý do chọn buổi học, không phải hoạt động của trại.",
+    "trap": "Phải nghe lựa chọn cuối cùng sau khi người nói đổi ý."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A05",
+   "options": [
+    {
+     "id": "a",
+     "text": "swimming",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "b",
+     "text": "art classes",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "c",
+     "text": "outdoor games"
+    },
+    {
+     "id": "d",
+     "text": "piano lessons",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A05",
+    "sentenceIndex": 10,
+    "quote": "She wants the outdoor games now"
+   }
+  },
+  {
+   "id": "FT-L2-005",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "First day of camp: Monday {{1}} July",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form"
+   ],
+   "explanation": {
+    "whyCorrect": "Trại bắt đầu vào thứ Hai ngày bảy tháng Bảy.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "7",
+      "seventh"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A05",
+      "sentenceIndex": 12,
+      "quote": "starting on Monday the seventh of July"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A05",
+    "sentenceIndex": 12,
+    "quote": "starting on Monday the seventh of July"
+   }
+  },
+  {
+   "id": "FT-L2-006",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Total fee for two weeks: £{{1}}",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "form",
+    "calculation",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Tuần đầu 120 bảng, tuần hai giảm mười phần trăm còn 108 bảng, cộng lại là 228 bảng.",
+    "whyWrong": "",
+    "trap": "Phải trừ mười phần trăm của tuần thứ hai trước khi cộng hai tuần."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "228"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A05",
+      "sentenceIndex": 11,
+      "quote": "The fee is 120 pounds for each week, and there is a discount of ten per cent on the second week."
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A05",
+    "sentenceIndex": 11,
+    "quote": "The fee is 120 pounds for each week, and there is a discount of ten per cent on the second week."
+   }
+  },
+  {
+   "id": "FT-L2-007",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "On Fridays, Sophie will have a {{1}} at the camp.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Vào thứ Sáu, Sophie được ăn trưa nóng tại trại thay vì mang cơm hộp.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "hot lunch"
+     ],
+     "maxWords": 2,
+     "evidence": {
+      "paragraphId": "FT-A05",
+      "sentenceIndex": 14,
+      "quote": "when she can have the hot lunch as a treat"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A05",
+    "sentenceIndex": 14,
+    "quote": "when she can have the hot lunch as a treat"
+   }
+  },
+  {
+   "id": "FT-L2-008",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Emergency contact number: {{1}}",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Số liên lạc khẩn cấp được đọc là 0742 555 913.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "0742 555 913"
+     ],
+     "maxWords": 3,
+     "evidence": {
+      "paragraphId": "FT-A05",
+      "sentenceIndex": 16,
+      "quote": "it is 0742, 555, 913"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A05",
+    "sentenceIndex": 16,
+    "quote": "it is 0742, 555, 913"
+   }
+  },
+  {
+   "id": "FT-L2-009",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How will the parent receive the confirmation letter?",
+   "correct": "a",
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Thư xác nhận sẽ được gửi qua email trong tuần này.",
+    "whyWrong": "Các cách còn lại không hề được nhắc tới trong cuộc gọi.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A05",
+   "options": [
+    {
+     "id": "a",
+     "text": "by email"
+    },
+    {
+     "id": "b",
+     "text": "by post",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "by phone",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "collect it at the camp office",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A05",
+    "sentenceIndex": 17,
+    "quote": "send the confirmation letter by email"
+   }
+  },
+  {
+   "id": "FT-L2-010",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Price of a hot lunch per day: £{{1}}",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Bữa trưa nóng tại bếp của trại giá bốn bảng một ngày.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A05",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A05",
+      "sentenceIndex": 13,
+      "quote": "buy a hot lunch at the camp kitchen for four pounds a day"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A05",
+    "sentenceIndex": 13,
+    "quote": "buy a hot lunch at the camp kitchen for four pounds a day"
+   }
+  },
+  {
+   "id": "FT-L2-011",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Area of the park: {{1}} square kilometres",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Công viên rộng 850 ki-lô-mét vuông.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A06",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "850"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A06",
+      "sentenceIndex": 2,
+      "quote": "The park covers 850 square kilometres"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A06",
+    "sentenceIndex": 2,
+    "quote": "The park covers 850 square kilometres"
+   }
+  },
+  {
+   "id": "FT-L2-012",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "The main visitor centre is in the village of {{1}}.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Trung tâm du khách chính nằm tại làng Kirkby.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A06",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Kirkby"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A06",
+      "sentenceIndex": 3,
+      "quote": "the main visitor centre in the village of Kirkby"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A06",
+    "sentenceIndex": 3,
+    "quote": "the main visitor centre in the village of Kirkby"
+   }
+  },
+  {
+   "id": "FT-L2-013",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How long does the shuttle bus journey to the waterfall take?",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Chuyến đi tới thác nước mất hai mươi phút.",
+    "whyWrong": "Một giờ là khoảng cách giữa các chuyến xe, không phải thời gian di chuyển.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A06",
+   "options": [
+    {
+     "id": "a",
+     "text": "ten minutes",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "twenty minutes"
+    },
+    {
+     "id": "c",
+     "text": "thirty minutes",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "one hour",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A06",
+    "sentenceIndex": 4,
+    "quote": "the journey takes twenty minutes"
+   }
+  },
+  {
+   "id": "FT-L2-014",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Height of Highmoor Peak: {{1}} metres",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Đỉnh Highmoor cao 724 mét so với mực nước biển.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A06",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "724"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A06",
+      "sentenceIndex": 5,
+      "quote": "rises to 724 metres above sea level"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A06",
+    "sentenceIndex": 5,
+    "quote": "rises to 724 metres above sea level"
+   }
+  },
+  {
+   "id": "FT-L2-015",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What time do guided walks leave the centre now?",
+   "correct": "c",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "distractor-corrected",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Từ tháng này, các chuyến đi bộ có hướng dẫn rời trung tâm lúc chín giờ rưỡi.",
+    "whyWrong": "Mười giờ là giờ khởi hành cũ đã bị thay đổi; các giờ còn lại không được nhắc tới.",
+    "trap": "Phải lấy giờ mới sau cụm từ this month, không lấy giờ cũ."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A06",
+   "options": [
+    {
+     "id": "a",
+     "text": "ten o'clock",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "b",
+     "text": "nine o'clock",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "nine thirty"
+    },
+    {
+     "id": "d",
+     "text": "ten thirty",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A06",
+    "sentenceIndex": 6,
+    "quote": "from this month they leave at nine thirty"
+   }
+  },
+  {
+   "id": "FT-L2-016",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Near the lake, dogs must be kept on a {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Gần hồ, chó phải được giữ bằng dây dắt vì chim hiếm đang làm tổ.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A06",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "lead"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A06",
+      "sentenceIndex": 7,
+      "quote": "they must be kept on a lead"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A06",
+    "sentenceIndex": 7,
+    "quote": "they must be kept on a lead"
+   }
+  },
+  {
+   "id": "FT-L2-017",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Where is the best place to see red deer?",
+   "correct": "a",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Nơi tốt nhất để xem hươu đỏ là thung lũng phía dưới cây cầu đá cũ.",
+    "whyWrong": "Hồ và trung tâm du khách được nhắc tới vì lý do khác; đỉnh núi không liên quan tới hươu đỏ.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A06",
+   "options": [
+    {
+     "id": "a",
+     "text": "the valley below the old stone bridge"
+    },
+    {
+     "id": "b",
+     "text": "near the visitor centre",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "c",
+     "text": "beside the lake",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "at the top of Highmoor Peak",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A06",
+    "sentenceIndex": 8,
+    "quote": "the best place to see them is the valley below the old stone bridge"
+   }
+  },
+  {
+   "id": "FT-L2-018",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Number of tents the campsite can hold: {{1}}",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Khu cắm trại có chỗ cho sáu mươi lều.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A06",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "60",
+      "sixty"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A06",
+      "sentenceIndex": 9,
+      "quote": "has space for sixty tents"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A06",
+    "sentenceIndex": 9,
+    "quote": "has space for sixty tents"
+   }
+  },
+  {
+   "id": "FT-L2-019",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Who can enter the wildlife exhibition free of charge?",
+   "correct": "d",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Triển lãm về động vật hoang dã miễn phí cho thành viên của công viên.",
+    "whyWrong": "Bài nói không miễn phí cho mọi du khách; trẻ em và trưởng đoàn không được nhắc tới.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A06",
+   "options": [
+    {
+     "id": "a",
+     "text": "children",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "guided walk leaders",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "all visitors",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "d",
+     "text": "park members"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A06",
+    "sentenceIndex": 10,
+    "quote": "entry is free for members"
+   }
+  },
+  {
+   "id": "FT-L2-020",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Walkers should check the forecast because conditions on the hills can change very {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Điều kiện trên các ngọn đồi có thể thay đổi rất nhanh nên phải xem dự báo trước.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A06",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "quickly"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A06",
+      "sentenceIndex": 11,
+      "quote": "conditions on the hills can change very quickly"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A06",
+    "sentenceIndex": 11,
+    "quote": "conditions on the hills can change very quickly"
+   }
+  },
+  {
+   "id": "FT-L2-021",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What data will Priya collect?",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Priya sẽ thu thập số liệu về lượng hành khách tại các trạm chính.",
+    "whyWrong": "Phỏng vấn tài xế là việc của Jake; giá vé và lịch trình không được giao cho ai.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A07",
+   "options": [
+    {
+     "id": "a",
+     "text": "ticket prices",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "passenger numbers"
+    },
+    {
+     "id": "c",
+     "text": "drivers' opinions",
+     "distractorType": "wrong-speaker"
+    },
+    {
+     "id": "d",
+     "text": "bus timetables",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A07",
+    "sentenceIndex": 3,
+    "quote": "I will collect data on passenger numbers"
+   }
+  },
+  {
+   "id": "FT-L2-022",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What will Jake do for the assignment?",
+   "correct": "a",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Jake sẽ phỏng vấn một số tài xế xe buýt về tuyến đường của họ.",
+    "whyWrong": "Số liệu hành khách là việc của Priya; ảnh chỉ là phần bổ sung cả nhóm muốn đưa vào.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A07",
+   "options": [
+    {
+     "id": "a",
+     "text": "interview bus drivers"
+    },
+    {
+     "id": "b",
+     "text": "collect passenger numbers",
+     "distractorType": "wrong-speaker"
+    },
+    {
+     "id": "c",
+     "text": "photograph the bus stations",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "write the statistics section",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A07",
+    "sentenceIndex": 4,
+    "quote": "I will interview some of the bus drivers"
+   }
+  },
+  {
+   "id": "FT-L2-023",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Maximum length of the assignment: {{1}} words",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Giảng viên nhắc bài tập không được dài quá bốn nghìn từ.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A07",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "4000",
+      "4,000",
+      "four thousand"
+     ],
+     "maxWords": 2,
+     "evidence": {
+      "paragraphId": "FT-A07",
+      "sentenceIndex": 5,
+      "quote": "no longer than four thousand words"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A07",
+    "sentenceIndex": 5,
+    "quote": "no longer than four thousand words"
+   }
+  },
+  {
+   "id": "FT-L2-024",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How many drivers agreed to be interviewed?",
+   "correct": "c",
+   "difficulty": 4,
+   "estimatedSeconds": 55,
+   "tags": [
+    "mcq",
+    "distractor-corrected",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Chỉ sáu tài xế đồng ý tham gia phỏng vấn.",
+    "whyWrong": "Mười là con số nhóm hy vọng ban đầu; bốn và năm là số phần của bài tập, không phải số tài xế.",
+    "trap": "Phải phân biệt con số dự định với con số thực tế sau từ but."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A07",
+   "options": [
+    {
+     "id": "a",
+     "text": "ten",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "b",
+     "text": "four",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "six"
+    },
+    {
+     "id": "d",
+     "text": "five",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A07",
+    "sentenceIndex": 6,
+    "quote": "only six agreed to take part"
+   }
+  },
+  {
+   "id": "FT-L2-025",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "When will the first draft be ready?",
+   "correct": "d",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "distractor-corrected"
+   ],
+   "explanation": {
+    "whyCorrect": "Bản nháp đầu tiên sẽ sẵn sàng vào ngày hai mươi hai tháng Năm.",
+    "whyWrong": "Ngày mười lăm là mốc dự định ban đầu nhưng dữ liệu thư viện đến muộn nên phải dời.",
+    "trap": "Phải lấy ngày sau phần sửa lại, không lấy mốc dự định cũ."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A07",
+   "options": [
+    {
+     "id": "a",
+     "text": "15 May",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "b",
+     "text": "5 May",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "12 May",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "22 May"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A07",
+    "sentenceIndex": 9,
+    "quote": "the draft will be ready on the twenty-second of May"
+   }
+  },
+  {
+   "id": "FT-L2-026",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "The workshop on the statistics software is held in the {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Buổi hướng dẫn về phần mềm thống kê diễn ra tại phòng máy tính.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A07",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "computer lab"
+     ],
+     "maxWords": 2,
+     "evidence": {
+      "paragraphId": "FT-A07",
+      "sentenceIndex": 11,
+      "quote": "every Wednesday afternoon in the computer lab"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A07",
+    "sentenceIndex": 11,
+    "quote": "every Wednesday afternoon in the computer lab"
+   }
+  },
+  {
+   "id": "FT-L2-027",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What must the students do before using photographs in the report?",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Sinh viên phải xin phép công ty vận tải trước khi dùng bất kỳ bức ảnh nào.",
+    "whyWrong": "Giảng viên là người nhắc điều kiện, nhưng phép phải xin từ công ty vận tải, không phải từ giảng viên.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A07",
+   "options": [
+    {
+     "id": "a",
+     "text": "pay the transport company",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "ask the transport company for permission"
+    },
+    {
+     "id": "c",
+     "text": "ask the tutor for permission",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "send the photographs to the library",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A07",
+    "sentenceIndex": 13,
+    "quote": "you must ask the transport company for permission"
+   }
+  },
+  {
+   "id": "FT-L2-028",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "The assignment compares bus services in Marlow and {{1}}.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "place"
+   ],
+   "explanation": {
+    "whyCorrect": "Nhóm so sánh dịch vụ xe buýt ở hai thị trấn Marlow và Henby.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A07",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Henby"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A07",
+      "sentenceIndex": 2,
+      "quote": "compare bus services in two towns, Marlow and Henby"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A07",
+    "sentenceIndex": 2,
+    "quote": "compare bus services in two towns, Marlow and Henby"
+   }
+  },
+  {
+   "id": "FT-L2-029",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "The students will send the tutor the {{1}} by Friday.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Nhóm sẽ gửi dàn ý cho giảng viên trước thứ Sáu.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A07",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "outline"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A07",
+      "sentenceIndex": 14,
+      "quote": "we will send you the outline by Friday"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A07",
+    "sentenceIndex": 14,
+    "quote": "we will send you the outline by Friday"
+   }
+  },
+  {
+   "id": "FT-L2-030",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "When will the group meet the tutor again?",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Nhóm sẽ gặp lại giảng viên vào thứ Ba tuần tới.",
+    "whyWrong": "Thứ Tư là ngày buổi hướng dẫn phần mềm; thứ Sáu là hạn gửi dàn ý, không phải ngày họp.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A07",
+   "options": [
+    {
+     "id": "a",
+     "text": "next Tuesday"
+    },
+    {
+     "id": "b",
+     "text": "next Wednesday",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "on Friday",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "in two weeks",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A07",
+    "sentenceIndex": 14,
+    "quote": "We will meet again next Tuesday"
+   }
+  },
+  {
+   "id": "FT-L2-031",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "The earliest known writing system is called {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form"
+   ],
+   "explanation": {
+    "whyCorrect": "Hệ chữ viết sớm nhất được biết đến là cuneiform, xuất hiện ở Mesopotamia.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A08",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "cuneiform"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A08",
+      "sentenceIndex": 2,
+      "quote": "The earliest known system of writing is cuneiform"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A08",
+    "sentenceIndex": 2,
+    "quote": "The earliest known system of writing is cuneiform"
+   }
+  },
+  {
+   "id": "FT-L2-032",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Cuneiform signs were pressed into wet clay tablets using a {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Các ký hiệu được ấn vào tấm đất sét ướt bằng một cây sậy.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A08",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "reed"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A08",
+      "sentenceIndex": 4,
+      "quote": "pressed into wet clay tablets using a reed"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A08",
+    "sentenceIndex": 4,
+    "quote": "pressed into wet clay tablets using a reed"
+   }
+  },
+  {
+   "id": "FT-L2-033",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What was cuneiform mainly used for?",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Cuneiform chủ yếu được quan chức dùng để ghi chép hàng hóa như ngũ cốc và vật nuôi.",
+    "whyWrong": "Mục đích tôn giáo thuộc về chữ tượng hình Ai Cập; dạy trẻ và ghi luật không được nhắc tới.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A08",
+   "options": [
+    {
+     "id": "a",
+     "text": "keeping records of goods"
+    },
+    {
+     "id": "b",
+     "text": "writing religious texts",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "c",
+     "text": "teaching children to write",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "recording the laws of the king",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A08",
+    "sentenceIndex": 3,
+    "quote": "used mainly by officials to keep records of goods"
+   }
+  },
+  {
+   "id": "FT-L2-034",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How were hieroglyphs different from cuneiform?",
+   "correct": "c",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Khác với cuneiform, chữ tượng hình còn được dùng cho mục đích tôn giáo trong đền thờ.",
+    "whyWrong": "Hai mươi hai ký hiệu là của bảng chữ cái Phoenicia; giấy chưa tồn tại ở thời kỳ này.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A08",
+   "options": [
+    {
+     "id": "a",
+     "text": "They were written on paper.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "They had only twenty-two signs.",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "They were also used for religious purposes."
+    },
+    {
+     "id": "d",
+     "text": "They were invented by the Greeks.",
+     "distractorType": "opposite"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A08",
+    "sentenceIndex": 6,
+    "quote": "hieroglyphs were also used for religious purposes in temples"
+   }
+  },
+  {
+   "id": "FT-L2-035",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Number of signs in the Phoenician alphabet: {{1}}",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Bảng chữ cái Phoenicia chỉ có hai mươi hai ký hiệu.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A08",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "22",
+      "twenty-two"
+     ],
+     "maxWords": 2,
+     "evidence": {
+      "paragraphId": "FT-A08",
+      "sentenceIndex": 7,
+      "quote": "an alphabet with only twenty-two signs"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A08",
+    "sentenceIndex": 7,
+    "quote": "an alphabet with only twenty-two signs"
+   }
+  },
+  {
+   "id": "FT-L2-036",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "The Phoenician alphabet was simple enough for ordinary {{1}} to learn.",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Vì hệ thống rất nhỏ, thương nhân bình thường cũng học được, không chỉ người chép sách.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A08",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "traders"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A08",
+      "sentenceIndex": 8,
+      "quote": "ordinary traders could learn it"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A08",
+    "sentenceIndex": 8,
+    "quote": "ordinary traders could learn it"
+   }
+  },
+  {
+   "id": "FT-L2-037",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What change did the Greeks make to the alphabet?",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Người Hy Lạp thêm các ký hiệu riêng cho nguyên âm, giúp văn bản dễ đọc to hơn.",
+    "whyWrong": "Đất sét thuộc về cuneiform; việc dùng chữ cho tôn giáo không phải thay đổi của người Hy Lạp.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A08",
+   "options": [
+    {
+     "id": "a",
+     "text": "They reduced the number of signs.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "They added signs for vowel sounds."
+    },
+    {
+     "id": "c",
+     "text": "They wrote it on clay tablets.",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "They used it only for religious texts.",
+     "distractorType": "opposite"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A08",
+    "sentenceIndex": 9,
+    "quote": "added separate signs for vowel sounds"
+   }
+  },
+  {
+   "id": "FT-L2-038",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Paper was invented in {{1}} many centuries before it reached Europe.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Giấy được phát minh ở Trung Quốc nhiều thế kỷ trước khi tới châu Âu.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A08",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "China"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A08",
+      "sentenceIndex": 10,
+      "quote": "Paper reached Europe from China, where it had been invented many centuries before"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A08",
+    "sentenceIndex": 10,
+    "quote": "Paper reached Europe from China, where it had been invented many centuries before"
+   }
+  },
+  {
+   "id": "FT-L2-039",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Before paper arrived, Europeans wrote on {{1}}, a material made from animal skin.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form"
+   ],
+   "explanation": {
+    "whyCorrect": "Trước khi có giấy, người châu Âu viết trên giấy da làm từ da động vật.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A08",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "parchment"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A08",
+      "sentenceIndex": 11,
+      "quote": "Europeans wrote on parchment, a material made from animal skin"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A08",
+    "sentenceIndex": 11,
+    "quote": "Europeans wrote on parchment, a material made from animal skin"
+   }
+  },
+  {
+   "id": "FT-L2-040",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "A rich family orders twelve books. About how many sheep skins are needed to make them?",
+   "correct": "c",
+   "difficulty": 5,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "calculation",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Một cuốn sách cần da của khoảng năm mươi con cừu, nên mười hai cuốn cần khoảng sáu trăm.",
+    "whyWrong": "Năm mươi là số da cho một cuốn sách duy nhất; các số còn lại không khớp phép nhân.",
+    "trap": "Phải nhân năm mươi da của một cuốn với mười hai cuốn, không lấy nguyên số năm mươi."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A08",
+   "options": [
+    {
+     "id": "a",
+     "text": "50",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "500",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "600"
+    },
+    {
+     "id": "d",
+     "text": "1200",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A08",
+    "sentenceIndex": 12,
+    "quote": "Making just one book took the skins of about fifty sheep"
+   }
+  }
+ ]
+}

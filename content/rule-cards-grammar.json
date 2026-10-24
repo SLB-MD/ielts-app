@@ -1,0 +1,39 @@
+{
+ "schemaVersion": 1,
+ "kind": "rule-cards",
+ "cards": [
+  {
+   "id": "RC-GRAM-01",
+   "title": "Present Perfect vs Past Simple",
+   "rule": "Có mốc thời gian đã kết thúc thì dùng quá khứ đơn; khoảng kéo dài tới hiện tại hoặc chưa rõ mốc thì dùng hiện tại hoàn thành.",
+   "steps": [
+    "Tìm mốc thời gian trong câu: năm cụ thể, last year, yesterday là mốc đã đóng.",
+    "Không có mốc đã đóng mà có since, for, already, recently thì nghĩ tới hiện tại hoàn thành.",
+    "Kiểm tra trợ động từ và phân từ hai: has hoặc have cộng V3; chủ ngữ số nhiều đi với have."
+   ],
+   "traps": [
+    "Dùng hiện tại hoàn thành với in 2005 hoặc last year",
+    "Quên trợ động từ, chỉ viết phân từ hai",
+    "Nhầm has cho chủ ngữ số nhiều",
+    "Thấy since vẫn chọn quá khứ đơn"
+   ]
+  },
+  {
+   "id": "RC-GRAM-02",
+   "title": "Conditionals: Type 1 vs Type 2",
+   "rule": "Loại 1: if cộng hiện tại đơn, mệnh đề chính will; loại 2: if cộng quá khứ đơn, mệnh đề chính would.",
+   "steps": [
+    "Xác định mệnh đề if và thì của động từ trong đó.",
+    "Hiện tại đơn sau if thì mệnh đề chính dùng will cộng động từ nguyên thể.",
+    "Quá khứ đơn sau if là giả định loại 2, mệnh đề chính dùng would cộng động từ nguyên thể."
+   ],
+   "traps": [
+    "Đặt will ngay sau if",
+    "Trộn loại: if quá khứ đơn nhưng mệnh đề chính will",
+    "Dịch quá khứ đơn trong loại 2 thành sự kiện quá khứ thật",
+    "Dùng would ở cả hai mệnh đề"
+   ]
+  }
+ ],
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); English Grammar Profile (Cambridge) for grammar scope. See docs/CONTENT_SOURCES.md."
+}

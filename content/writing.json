@@ -1,0 +1,90 @@
+{
+ "schemaVersion": 1,
+ "kind": "writing-prompts",
+ "prompts": [
+  {
+   "id": "W-T2-01",
+   "task": 2,
+   "type": "Opinion",
+   "prompt": "Some people believe that university education should be free for all students. To what extent do you agree or disagree?",
+   "sample": "Some people believe that university education should be free for all students. In my view, while free education would widen access, it would also place a heavy burden on public budgets, so students who can afford to pay should contribute to the cost.\n\nOn the one hand, charging no fees would remove a major barrier for talented students from low-income families. At present, many capable young people choose not to apply to university because they fear graduating with large debts. If education were free, admissions would depend only on ability, and society would benefit from a larger pool of skilled workers.\n\nOn the other hand, universities are expensive to run, and governments must pay for them through taxes. If students pay nothing, the money must come from other public services, such as hospitals and schools, which may be more urgent. Moreover, students who pay part of the cost may value their studies more and work harder to complete their degrees.\n\nA practical example shows how a mixed system can work. In some countries, students pay fees only after they graduate and begin earning above a certain salary. Under this model, nobody is refused a place because of money, yet graduates who benefit financially from their degrees repay part of the cost over time. Universities receive stable funding, and the state does not have to carry the whole expense at once. Such schemes are not perfect, since they require careful administration, but they prove that access and financial responsibility can exist together.\n\nIn conclusion, a completely free system is attractive but difficult to sustain. A fairer approach is to charge fees while providing generous support, through grants and low-interest loans, to students who genuinely cannot pay.",
+   "annotations": [
+    "Câu đầu của đoạn 1 nêu quan điểm rõ ràng ngay từ mở bài.",
+    "Mỗi đoạn thân bắt đầu bằng câu chủ đề, sau đó là giải thích và hệ quả.",
+    "Đoạn 2 thừa nhận mặt còn lại trước khi phản biện ở đoạn 3.",
+    "Kết bài không nhắc ý mới; đề xuất giải pháp cân bằng thay vì lặp lại nguyên văn."
+   ]
+  },
+  {
+   "id": "W-T1-01",
+   "task": 1,
+   "type": "Line chart (described in words)",
+   "prompt": "The chart below shows the percentage of households in a European country that owned three types of technology (television, computer and smartphone) between 1995 and 2020. The data: television rose from 70% in 1995 to 98% in 2020; computers rose from 12% to 88%; smartphones did not exist in 1995, appeared at 5% in 2005 and reached 92% in 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+   "sample": null,
+   "annotations": []
+  },
+  {
+   "id": "W-T2-02",
+   "task": 2,
+   "type": "Discussion",
+   "prompt": "Some people think that children should learn to compete, while others believe that cooperation is more valuable. Discuss both views and give your own opinion.",
+   "sample": null,
+   "annotations": []
+  },
+  {
+   "id": "W-T2-03",
+   "task": 2,
+   "type": "Opinion",
+   "prompt": "Some people argue that the government should pay the full cost of healthcare, so that all medical treatment is free for patients. To what extent do you agree or disagree?",
+   "sample": "Some people argue that medical care should be completely free, with the government paying the full cost of every treatment. In my view, essential healthcare should be funded by the state, although patients can reasonably contribute towards non-essential services.\n\nThe strongest argument for free care is that health is a basic need, not a luxury. When treatment costs nothing at the point of use, people seek help early, before a minor illness becomes serious and far more expensive to treat. A worker with a persistent cough will visit a doctor sooner if the consultation is free, and early diagnosis benefits both the patient and the public budget. Free access also protects the poorest citizens, who might otherwise choose between medicine and food.\n\nHowever, making every service free can place an impossible strain on public finances. If patients pay nothing at all, some will visit clinics for trivial problems or demand the newest medicines when cheaper ones would work equally well. This overuse lengthens waiting lists and leaves fewer resources for patients with life-threatening conditions. A modest charge reminds people that medical resources are limited and encourages them to use services responsibly.\n\nSeveral countries already apply this balance in practice. Emergency treatment, surgery and care for chronic diseases are fully covered by the state, while patients pay a small fixed fee for a routine appointment or a standard prescription. Because the fee is low and people on low incomes are exempt, nobody is denied necessary care, yet hospitals are protected from avoidable demand. This model shows that fairness and financial discipline can support each other.\n\nIn conclusion, the government should pay for essential medical care so that treatment depends on need rather than wealth. A small patient contribution for minor services is a sensible way to protect limited public funds.",
+   "annotations": [
+    "Hoàn thành yêu cầu: quan điểm nêu rõ ngay ở câu hai của mở bài, mọi đoạn thân bám sát quan điểm đó và kết bài không đổi ý.",
+    "Mạch lạc và liên kết: mỗi đoạn thân mở đầu bằng câu chủ đề, đoạn ba dùng However để chuyển sang mặt còn lại trước khi cân bằng ở đoạn bốn.",
+    "Từ vựng: collocation theo chủ đề y tế được dùng chính xác, như chronic diseases, waiting lists, a standard prescription và public finances.",
+    "Ngữ pháp: câu phức với mệnh đề điều kiện và mệnh đề nhượng bộ đặt xen câu đơn ngắn, thì động từ và mạo từ giữ nhất quán toàn bài."
+   ]
+  },
+  {
+   "id": "W-T1-02",
+   "task": 1,
+   "type": "Bar chart (described in words)",
+   "prompt": "The chart below shows the volume of freight, in million tonnes, transported by three methods (sea, rail and road) in a European country in 2000, 2010 and 2020. The data: sea freight rose steadily from 120 million tonnes in 2000 to 150 million tonnes in 2010 and 185 million tonnes in 2020; rail freight increased slightly from 60 million tonnes in 2000 to 75 million tonnes in 2010, then remained stable at 75 million tonnes in 2020; road freight grew rapidly from 200 million tonnes in 2000 to 260 million tonnes in 2010 and 310 million tonnes in 2020, and it was the largest method in all three years. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+   "sample": null,
+   "annotations": []
+  }
+ ],
+ "checklist": [
+  {
+   "group": "Hoàn thành yêu cầu",
+   "items": [
+    "Tôi đã trả lời mọi phần của đề?",
+    "Quan điểm hoặc mô tả tổng quan nêu rõ ngay từ đầu?",
+    "Mỗi ý chính có giải thích hoặc ví dụ cụ thể?"
+   ]
+  },
+  {
+   "group": "Mạch lạc và liên kết",
+   "items": [
+    "Mỗi đoạn có một ý chính ở câu đầu?",
+    "Từ nối đa dạng và không lặp quá 3 lần?",
+    "Người đọc theo dõi được mà không phải đọc lại?"
+   ]
+  },
+  {
+   "group": "Từ vựng",
+   "items": [
+    "Tôi dùng từ cụ thể thay vì từ chung chung như thing, good, bad?",
+    "Không lặp một từ nội dung quá 4 lần?",
+    "Collocation tự nhiên?"
+   ]
+  },
+  {
+   "group": "Ngữ pháp",
+   "items": [
+    "Có cả câu đơn lẫn câu phức?",
+    "Đã soát mạo từ, số ít số nhiều, thì động từ?",
+    "Đã đọc lại để soát dấu câu và chính tả?"
+   ]
+  }
+ ]
+}

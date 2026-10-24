@@ -1,0 +1,582 @@
+{
+ "schemaVersion": 1,
+ "id": "G-U02",
+ "skill": "grammar",
+ "title": "Grammar: câu điều kiện loại 1 và 2 trong văn học thuật",
+ "objective": "Học xong bài này, bạn sẽ phân biệt được câu điều kiện loại 1 và loại 2 và chọn đúng dạng động từ ở cả hai mệnh đề.",
+ "minutes": 6,
+ "ruleCardId": "RC-GRAM-02",
+ "passage": {
+  "id": "G-P03",
+  "title": "Planning for a Warmer City",
+  "genre": "academic planning",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "G-P03-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "City planners often ask what would happen if summer temperatures rose by two degrees."
+     },
+     {
+      "index": 2,
+      "text": "If temperatures rise steadily, demand for drinking water will increase across the region."
+     },
+     {
+      "index": 3,
+      "text": "Engineers have modelled both possibilities so that the council can compare real plans with imagined ones."
+     }
+    ]
+   },
+   {
+    "id": "G-P03-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "If the city planted more trees, its streets would be cooler in the summer."
+     },
+     {
+      "index": 2,
+      "text": "However, trees take many years to grow, so the council has also considered quicker measures."
+     },
+     {
+      "index": 3,
+      "text": "If residents install white roofs, their houses will stay cooler without air conditioning."
+     },
+     {
+      "index": 4,
+      "text": "A recent report noted that if the council had more money, it would repair the oldest water pipes first."
+     }
+    ]
+   },
+   {
+    "id": "G-P03-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "If a heatwave arrives next month, hospitals will open extra wards for elderly patients."
+     },
+     {
+      "index": 2,
+      "text": "Doctors say that if people drank more water during hot weather, fewer patients would need treatment."
+     },
+     {
+      "index": 3,
+      "text": "The council will publish its final plan if the public consultation ends on schedule."
+     },
+     {
+      "index": 4,
+      "text": "Whether the measures succeed will depend on how seriously residents take the warnings."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "G-P04",
+  "title": "Saving Water on a University Campus",
+  "genre": "academic planning",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "G-P04-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "If students report a leaking tap, the maintenance team will repair it within two days."
+     },
+     {
+      "index": 2,
+      "text": "If the campus installed larger tanks, it would store enough rainwater for the gardens."
+     },
+     {
+      "index": 3,
+      "text": "Managers say that if every building used smart meters, bills would fall by ten per cent."
+     },
+     {
+      "index": 4,
+      "text": "The university will expand the scheme if the first year saves enough money."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "G-MCQ-0004",
+   "skill": "grammar",
+   "questionType": "mcq",
+   "unitId": "G-U02",
+   "passageId": "G-P03",
+   "stem": "Complete the sentence with the correct form: If temperatures rise steadily, demand for water ___ increase.",
+   "options": [
+    {
+     "id": "a",
+     "text": "would",
+     "distractorType": "type-mismatch"
+    },
+    {
+     "id": "b",
+     "text": "will"
+    },
+    {
+     "id": "c",
+     "text": "increases",
+     "distractorType": "wrong-form"
+    },
+    {
+     "id": "d",
+     "text": "would increases",
+     "distractorType": "wrong-form"
+    }
+   ],
+   "correct": "b",
+   "evidence": {
+    "paragraphId": "G-P03-p1",
+    "sentenceIndex": 2,
+    "quote": "If temperatures rise steadily, demand for drinking water will increase across the region."
+   },
+   "explanation": {
+    "whyCorrect": "Mệnh đề if dùng hiện tại đơn rise nên đây là điều kiện loại 1, mệnh đề chính dùng will.",
+    "whyWrong": "Would thuộc loại 2, dùng khi mệnh đề if ở quá khứ đơn. Increases và would increases đều sai dạng sau động từ khiếm khuyết còn thiếu.",
+    "trap": "Nhìn thì của mệnh đề if trước: hiện tại đơn kéo will, quá khứ đơn kéo would."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "grammar",
+    "conditional-1"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-SEN-0003",
+   "skill": "grammar",
+   "questionType": "sentence",
+   "unitId": "G-U02",
+   "passageId": "G-P03",
+   "stem": "If the city planted more trees, its streets {{1}} cooler in the summer.",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "would be"
+     ],
+     "maxWords": 2,
+     "wordClass": "verb phrase",
+     "evidence": {
+      "paragraphId": "G-P03-p2",
+      "sentenceIndex": 1,
+      "quote": "If the city planted more trees, its streets would be cooler in the summer."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "will be",
+       "tag": "type-mismatch"
+      },
+      {
+       "text": "are",
+       "tag": "tense-mismatch"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Mệnh đề if ở quá khứ đơn planted nên đây là loại 2, mệnh đề chính dùng would be.",
+    "whyWrong": "Will be thuộc loại 1 nên không khớp với planted. Are là hiện tại đơn, không diễn đạt giả định trái hiện tại.",
+    "trap": "Quá khứ đơn trong mệnh đề if thường là giả định, không phải sự kiện quá khứ."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "grammar",
+    "conditional-2"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-MCQ-0005",
+   "skill": "grammar",
+   "questionType": "mcq",
+   "unitId": "G-U02",
+   "passageId": "G-P03",
+   "stem": "Complete the sentence with the correct form: If a heatwave ___ next month, hospitals will open extra wards.",
+   "options": [
+    {
+     "id": "a",
+     "text": "will arrive",
+     "distractorType": "form-error"
+    },
+    {
+     "id": "b",
+     "text": "arrived",
+     "distractorType": "type-mismatch"
+    },
+    {
+     "id": "c",
+     "text": "arrives"
+    },
+    {
+     "id": "d",
+     "text": "would arrive",
+     "distractorType": "form-error"
+    }
+   ],
+   "correct": "c",
+   "evidence": {
+    "paragraphId": "G-P03-p3",
+    "sentenceIndex": 1,
+    "quote": "If a heatwave arrives next month, hospitals will open extra wards for elderly patients."
+   },
+   "explanation": {
+    "whyCorrect": "Điều kiện loại 1 dùng hiện tại đơn sau if: arrives, dù ý nghĩa nói về tương lai.",
+    "whyWrong": "Sau if không dùng will hay would trong điều kiện loại 1. Arrived là quá khứ đơn, sẽ biến câu thành loại 2 và lệch với will open.",
+    "trap": "Không bao giờ đặt will ngay sau if trong câu điều kiện loại 1."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "grammar",
+    "conditional-1",
+    "if-clause"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-SEN-0004",
+   "skill": "grammar",
+   "questionType": "sentence",
+   "unitId": "G-U02",
+   "passageId": "G-P03",
+   "stem": "If people {{1}} more water during hot weather, fewer patients would need treatment.",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "drank"
+     ],
+     "maxWords": 1,
+     "wordClass": "verb",
+     "evidence": {
+      "paragraphId": "G-P03-p3",
+      "sentenceIndex": 2,
+      "quote": "Doctors say that if people drank more water during hot weather, fewer patients would need treatment."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "drink",
+       "tag": "type-mismatch"
+      },
+      {
+       "text": "will drink",
+       "tag": "form-error"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Mệnh đề chính có would need nên đây là loại 2, mệnh đề if phải dùng quá khứ đơn drank.",
+    "whyWrong": "Drink là hiện tại đơn, hợp loại 1 chứ không hợp would. Will drink sai vì sau if không dùng will.",
+    "trap": "Thấy would ở mệnh đề chính thì quay lại kiểm tra mệnh đề if phải lùi một thì."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "grammar",
+    "conditional-2",
+    "if-clause"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-MCQ-0006",
+   "skill": "grammar",
+   "questionType": "mcq",
+   "unitId": "G-U02",
+   "passageId": "G-P03",
+   "stem": "Complete the sentence with the correct form: If the council ___ more money, it would repair the oldest pipes first.",
+   "options": [
+    {
+     "id": "a",
+     "text": "has",
+     "distractorType": "type-mismatch"
+    },
+    {
+     "id": "b",
+     "text": "had"
+    },
+    {
+     "id": "c",
+     "text": "will have",
+     "distractorType": "form-error"
+    },
+    {
+     "id": "d",
+     "text": "would have",
+     "distractorType": "form-error"
+    }
+   ],
+   "correct": "b",
+   "evidence": {
+    "paragraphId": "G-P03-p2",
+    "sentenceIndex": 4,
+    "quote": "A recent report noted that if the council had more money, it would repair the oldest water pipes first."
+   },
+   "explanation": {
+    "whyCorrect": "Mệnh đề chính dùng would repair nên mệnh đề if của loại 2 cần quá khứ đơn had.",
+    "whyWrong": "Has là hiện tại đơn, chỉ hợp loại 1. Will have và would have đều không đứng sau if trong cấu trúc này.",
+    "trap": "Cặp đôi cố định của loại 2: if cộng quá khứ đơn, mệnh đề chính would cộng động từ nguyên thể."
+   },
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "grammar",
+    "conditional-2"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "id": "G-MCQ-0103",
+   "skill": "grammar",
+   "questionType": "mcq",
+   "unitId": "G-U02",
+   "passageId": "G-P04",
+   "stem": "Complete the sentence with the correct form: If students ___ a leaking tap, the team will repair it within two days.",
+   "options": [
+    {
+     "id": "a",
+     "text": "will report",
+     "distractorType": "form-error"
+    },
+    {
+     "id": "b",
+     "text": "reported",
+     "distractorType": "type-mismatch"
+    },
+    {
+     "id": "c",
+     "text": "report"
+    },
+    {
+     "id": "d",
+     "text": "would report",
+     "distractorType": "form-error"
+    }
+   ],
+   "correct": "c",
+   "evidence": {
+    "paragraphId": "G-P04-p1",
+    "sentenceIndex": 1,
+    "quote": "If students report a leaking tap, the maintenance team will repair it within two days."
+   },
+   "explanation": {
+    "whyCorrect": "Loại 1 dùng hiện tại đơn sau if: report.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "grammar",
+    "conditional-1",
+    "if-clause"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-SEN-0102",
+   "skill": "grammar",
+   "questionType": "sentence",
+   "unitId": "G-U02",
+   "passageId": "G-P04",
+   "stem": "If the campus installed larger tanks, it {{1}} enough rainwater for the gardens.",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "would store"
+     ],
+     "maxWords": 2,
+     "wordClass": "verb phrase",
+     "evidence": {
+      "paragraphId": "G-P04-p1",
+      "sentenceIndex": 2,
+      "quote": "If the campus installed larger tanks, it would store enough rainwater for the gardens."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "will store",
+       "tag": "type-mismatch"
+      },
+      {
+       "text": "stores",
+       "tag": "wrong-form"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Installed là quá khứ đơn trong mệnh đề if nên mệnh đề chính dùng would store.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "grammar",
+    "conditional-2"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "G-MCQ-0104",
+   "skill": "grammar",
+   "questionType": "mcq",
+   "unitId": "G-U02",
+   "passageId": "G-P04",
+   "stem": "Complete the sentence with the correct form: Bills would fall if every building ___ smart meters.",
+   "options": [
+    {
+     "id": "a",
+     "text": "uses",
+     "distractorType": "type-mismatch"
+    },
+    {
+     "id": "b",
+     "text": "used"
+    },
+    {
+     "id": "c",
+     "text": "will use",
+     "distractorType": "form-error"
+    },
+    {
+     "id": "d",
+     "text": "would use",
+     "distractorType": "form-error"
+    }
+   ],
+   "correct": "b",
+   "evidence": {
+    "paragraphId": "G-P04-p1",
+    "sentenceIndex": 3,
+    "quote": "Managers say that if every building used smart meters, bills would fall by ten per cent."
+   },
+   "explanation": {
+    "whyCorrect": "Would fall ở mệnh đề chính cho thấy loại 2 nên mệnh đề if dùng quá khứ đơn used.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "grammar",
+    "conditional-2",
+    "if-clause"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "If the city plants more trees, its streets will be cooler.",
+  "instruction": "Viết lại thành câu điều kiện loại 2, bắt đầu bằng: If the city planted …",
+  "mustContain": [
+   "would be"
+  ],
+  "mustNotContain": [
+   "will be"
+  ],
+  "samples": [
+   "If the city planted more trees, its streets would be cooler."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); English Grammar Profile (Cambridge) for grammar scope; NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

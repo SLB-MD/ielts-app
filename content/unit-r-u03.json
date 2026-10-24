@@ -1,0 +1,555 @@
+{
+ "schemaVersion": 1,
+ "id": "R-U03",
+ "skill": "reading",
+ "title": "Reading: trả lời MCQ chi tiết theo bằng chứng",
+ "objective": "Học xong bài này, bạn sẽ chọn được đáp án MCQ chi tiết đúng bằng cách đối chiếu từng lựa chọn với bằng chứng trong bài.",
+ "minutes": 6,
+ "ruleCardId": "RC-MCQ",
+ "passage": {
+  "id": "P-N05",
+  "title": "How Street Trees Protect Public Health",
+  "genre": "environment",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N05-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "In many cities, rows of trees along busy streets are treated as decoration, planted mainly to make roads look pleasant."
+     },
+     {
+      "index": 2,
+      "text": "Research, however, suggests that street trees do far more than improve appearances."
+     },
+     {
+      "index": 3,
+      "text": "By shading pavements and cooling the air around them, mature trees can lower street temperatures by several degrees on hot days."
+     }
+    ]
+   },
+   {
+    "id": "P-N05-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Cooler streets matter for health, especially for older residents and people who work outdoors."
+     },
+     {
+      "index": 2,
+      "text": "During heatwaves, shaded neighbourhoods record fewer cases of heat exhaustion than districts with little tree cover."
+     },
+     {
+      "index": 3,
+      "text": "Trees also filter dust and traffic fumes, although they cannot remove pollution completely."
+     }
+    ]
+   },
+   {
+    "id": "P-N05-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "The mental health effects are equally striking."
+     },
+     {
+      "index": 2,
+      "text": "In one study, hospital patients whose windows faced trees needed less pain relief than patients facing brick walls."
+     },
+     {
+      "index": 3,
+      "text": "City budgets, however, often treat tree care as an easy saving, and young trees planted without watering plans frequently die within a few years."
+     },
+     {
+      "index": 4,
+      "text": "Experts argue that planting should be planned together with long-term maintenance, not treated as a one-day event."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "P-N06",
+  "title": "Green Roofs on City Buildings",
+  "genre": "environment",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N06-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Rooftops covered with soil and low plants, known as green roofs, are becoming common on public buildings in some cities."
+     },
+     {
+      "index": 2,
+      "text": "A green roof slows rainwater as it runs off a building, which reduces pressure on city drains during storms."
+     },
+     {
+      "index": 3,
+      "text": "The layer of soil also insulates the rooms below, so less energy is needed for heating and cooling."
+     },
+     {
+      "index": 4,
+      "text": "Building owners, however, must check that the structure is strong enough, because a wet green roof can weigh several tonnes."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "R-MCQ-0003",
+   "skill": "reading",
+   "questionType": "mcq",
+   "unitId": "R-U03",
+   "passageId": "P-N05",
+   "stem": "According to the passage, street trees lower street temperatures mainly by",
+   "options": [
+    {
+     "id": "a",
+     "text": "shading pavements and cooling the air around them"
+    },
+    {
+     "id": "b",
+     "text": "forcing traffic to slow down on busy streets",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "removing all dust and traffic fumes from the air",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "d",
+     "text": "making roads look more pleasant for drivers",
+     "distractorType": "partial-truth"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N05-p1",
+    "sentenceIndex": 3,
+    "quote": "By shading pavements and cooling the air around them, mature trees can lower street temperatures by several degrees on hot days."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn một nói cây trưởng thành che bóng vỉa hè và làm mát không khí xung quanh, giúp nhiệt độ đường phố giảm vài độ vào ngày nắng nóng.",
+    "whyWrong": "Lựa chọn b không có trong bài. Lựa chọn c nói quá mức lọc ô nhiễm của cây. Lựa chọn d là ấn tượng về vẻ đẹp, không phải cơ chế làm mát.",
+    "trap": "Lựa chọn đúng diễn đạt lại nguyên cơ chế ở câu cuối đoạn một; các lựa chọn sai thêm chi tiết ngoài bài hoặc nói quá một ý thật."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-MCQ-0004",
+   "skill": "reading",
+   "questionType": "mcq",
+   "unitId": "R-U03",
+   "passageId": "P-N05",
+   "stem": "During heatwaves, districts with little tree cover",
+   "options": [
+    {
+     "id": "a",
+     "text": "record more cases of heat exhaustion than shaded districts"
+    },
+    {
+     "id": "b",
+     "text": "receive extra funding for tree planting",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "have cooler streets than shaded districts",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "are home to fewer older residents",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N05-p2",
+    "sentenceIndex": 2,
+    "quote": "During heatwaves, shaded neighbourhoods record fewer cases of heat exhaustion than districts with little tree cover."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn hai nói khu có bóng cây ghi nhận ít ca kiệt sức vì nóng hơn khu ít cây, nên khu ít cây phải ghi nhận nhiều ca hơn.",
+    "whyWrong": "Lựa chọn b không có trong bài. Lựa chọn c ngược ý. Lựa chọn d mượn chi tiết người cao tuổi ở câu trước nhưng gán cho khu ít cây mà bài không hề nói.",
+    "trap": "Câu nguồn so sánh theo chiều khu có cây ít ca bệnh hơn; câu hỏi lật đối tượng so sánh nên phải tự suy chiều ngược lại."
+   },
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-structural"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-MCQ-0005",
+   "skill": "reading",
+   "questionType": "mcq",
+   "unitId": "R-U03",
+   "passageId": "P-N05",
+   "stem": "In the study mentioned in the passage, patients whose windows faced trees",
+   "options": [
+    {
+     "id": "a",
+     "text": "needed less pain relief than patients facing brick walls"
+    },
+    {
+     "id": "b",
+     "text": "recovered from their operations more quickly",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "c",
+     "text": "were the patients whose windows faced brick walls",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "asked nurses for less pain relief before surgery",
+     "distractorType": "partial-truth"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N05-p3",
+    "sentenceIndex": 2,
+    "quote": "In one study, hospital patients whose windows faced trees needed less pain relief than patients facing brick walls."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn ba nói bệnh nhân có cửa sổ hướng ra cây cần ít thuốc giảm đau hơn bệnh nhân hướng ra tường gạch.",
+    "whyWrong": "Lựa chọn b mở rộng thành tốc độ hồi phục, bài không nêu. Lựa chọn c gán nhầm nhóm bệnh nhân hướng ra tường gạch. Lựa chọn d thêm thời điểm trước phẫu thuật không có trong bài.",
+    "trap": "Bài chỉ đo nhu cầu thuốc giảm đau; mở rộng thành tốc độ hồi phục là suy ra quá mức bằng chứng."
+   },
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-TFNG-0004",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U03",
+   "passageId": "P-N05",
+   "stem": "Street trees can remove all air pollution from city streets.",
+   "correct": "FALSE",
+   "evidence": {
+    "paragraphId": "P-N05-p2",
+    "sentenceIndex": 3,
+    "quote": "Trees also filter dust and traffic fumes, although they cannot remove pollution completely."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn hai nói cây lọc bụi và khí thải nhưng không thể loại bỏ ô nhiễm hoàn toàn, nên khẳng định cây loại bỏ toàn bộ ô nhiễm là sai.",
+    "whyWrong": "Không phải TRUE vì bài phủ định trực tiếp bằng 'cannot'. Không phải NOT GIVEN vì bài bàn thẳng về mức độ loại bỏ ô nhiễm.",
+    "trap": "Từ 'all' trong câu hỏi là điểm quyết định; bài dùng 'filter' kèm giới hạn 'not completely' để chặn cách hiểu toàn bộ."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "quantifier"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-SEN-0003",
+   "skill": "reading",
+   "questionType": "sentence",
+   "unitId": "R-U03",
+   "passageId": "P-N05",
+   "stem": "Young trees planted without watering plans often die within a few {{1}}.",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "years"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N05-p3",
+      "sentenceIndex": 3,
+      "quote": "City budgets, however, often treat tree care as an easy saving, and young trees planted without watering plans frequently die within a few years."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "months",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Từ cần điền nằm nguyên trong đoạn ba: cây non thiếu kế hoạch tưới thường chết 'within a few years'.",
+    "whyWrong": "Đáp án phải là từ nguyên trong bài và đúng ngữ pháp khi điền vào câu; 'months' không xuất hiện trong câu nguồn.",
+    "trap": "Cụm 'a few' đi với đơn vị thời gian ở cuối câu; chọn đơn vị khác sẽ sai dù ý gần đúng."
+   },
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "id": "R-MCQ-0101",
+   "skill": "reading",
+   "questionType": "mcq",
+   "unitId": "R-U03",
+   "passageId": "P-N06",
+   "stem": "According to the passage, green roofs reduce pressure on city drains by",
+   "options": [
+    {
+     "id": "a",
+     "text": "slowing rainwater as it runs off buildings"
+    },
+    {
+     "id": "b",
+     "text": "keeping all rainwater on the roof permanently",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "c",
+     "text": "increasing the speed of water during storms",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "cooling the streets below the buildings",
+     "distractorType": "partial-truth"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N06-p1",
+    "sentenceIndex": 2,
+    "quote": "A green roof slows rainwater as it runs off a building, which reduces pressure on city drains during storms."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn văn nói mái xanh làm chậm nước mưa chảy xuống khỏi tòa nhà, nhờ đó giảm áp lực lên cống thoát nước khi có bão.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-MCQ-0102",
+   "skill": "reading",
+   "questionType": "mcq",
+   "unitId": "R-U03",
+   "passageId": "P-N06",
+   "stem": "The layer of soil on a green roof",
+   "options": [
+    {
+     "id": "a",
+     "text": "insulates the rooms below the roof"
+    },
+    {
+     "id": "b",
+     "text": "must be replaced after heavy storms",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "increases the energy needed for heating",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "protects the building from extra weight",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N06-p1",
+    "sentenceIndex": 3,
+    "quote": "The layer of soil also insulates the rooms below, so less energy is needed for heating and cooling."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn văn nói lớp đất cách nhiệt cho các phòng bên dưới, nên cần ít năng lượng sưởi và làm mát hơn.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-MCQ-0103",
+   "skill": "reading",
+   "questionType": "mcq",
+   "unitId": "R-U03",
+   "passageId": "P-N06",
+   "stem": "Before adding a green roof, building owners should check",
+   "options": [
+    {
+     "id": "a",
+     "text": "whether the structure can support the extra weight"
+    },
+    {
+     "id": "b",
+     "text": "whether city drains are strong enough for storms",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "whether neighbours prefer plants to bare roofs",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "that every public building in the city has one",
+     "distractorType": "over-generalization"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N06-p1",
+    "sentenceIndex": 4,
+    "quote": "Building owners, however, must check that the structure is strong enough, because a wet green roof can weigh several tonnes."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn văn nói chủ nhà phải kiểm tra kết cấu có đủ chắc hay không, vì mái xanh khi ướt có thể nặng vài tấn.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "Trees can lower street temperatures by several degrees.",
+  "instruction": "Bắt đầu bằng: Street temperatures can …",
+  "mustContain": [
+   "lowered"
+  ],
+  "mustNotContain": [
+   "can lower"
+  ],
+  "samples": [
+   "Street temperatures can be lowered by several degrees by trees."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

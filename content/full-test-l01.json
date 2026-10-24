@@ -1,0 +1,2285 @@
+{
+ "schemaVersion": 1,
+ "kind": "full-test",
+ "id": "FT-L01",
+ "skill": "listening",
+ "title": "Full Listening test 1",
+ "minutes": 40,
+ "clips": [
+  {
+   "id": "FT-A01",
+   "title": "Section 1: Booking a hotel room",
+   "lines": [
+    {
+     "speaker": "Receptionist",
+     "text": "Good morning, welcome to the Harbour View Hotel. How can I help you?"
+    },
+    {
+     "speaker": "Guest",
+     "text": "I would like a double room for two nights from Friday 12 June."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "We have one double room left on the third floor, and it overlooks the garden."
+    },
+    {
+     "speaker": "Guest",
+     "text": "That sounds suitable. My surname is Marston, M-A-R-S-T-O-N."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Thank you, Ms Marston. The room is eighty-four pounds a night, including breakfast."
+    },
+    {
+     "speaker": "Guest",
+     "text": "Could we check in at eleven? Our train arrives at ten thirty."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Normal check-in is from two, but early check-in is available for an extra ten pounds."
+    },
+    {
+     "speaker": "Guest",
+     "text": "We will pay for early check-in. Could we also book dinner for seven, sorry, make that eight, as our train may be delayed."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Certainly. Dinner at eight is booked, and I have noted that you need a quiet room away from the lift."
+    },
+    {
+     "speaker": "Guest",
+     "text": "Do you provide towels for the swimming pool?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Yes, pool towels are free at reception, but guests pay a five-pound deposit for a locker key."
+    },
+    {
+     "speaker": "Guest",
+     "text": "Perfect. Could you send the confirmation to my email address, please?"
+    }
+   ]
+  },
+  {
+   "id": "FT-A02",
+   "title": "Section 2: Introduction to the Milltown Summer Festival",
+   "lines": [
+    {
+     "speaker": "Presenter",
+     "text": "Welcome to this introduction to the Milltown Summer Festival, which takes place from Friday 18 July to Sunday 20 July."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "This year the festival has moved from the market square to Riverside Park because we expect more visitors."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "The main stage will be beside the lake, and local bands will perform from midday until ten in the evening."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "On Saturday morning, there will be a farmers' market with more than forty stalls selling bread, cheese and flowers."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Visitors who enjoy cooking should not miss the demonstration by chef Ana Ruiz at three on Saturday afternoon."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "For children, the story tent opens at ten each morning, and each session lasts forty-five minutes."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "A free bus will run every twenty minutes from the railway station to the main entrance."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "If you drive, the car park on Mill Road has space for 300 cars, but it usually fills before noon."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "The festival's information office is in a green cabin near the main entrance, where visitors can collect a map."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "On Sunday, the parade begins at eleven, sorry, at twelve, because the fun run uses the High Street until late morning."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "Most events are free, although tickets for the evening concert cost twelve pounds for adults and six pounds for children."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "In case of heavy rain, outdoor performances will move to the community hall on Bridge Street."
+    },
+    {
+     "speaker": "Presenter",
+     "text": "We are still looking for volunteers to help at the information office on Sunday afternoon."
+    }
+   ]
+  },
+  {
+   "id": "FT-A03",
+   "title": "Section 3: Planning a presentation on urban bees",
+   "lines": [
+    {
+     "speaker": "Mia",
+     "text": "For our presentation, we agreed to focus on how city gardens help urban bees."
+    },
+    {
+     "speaker": "Leo",
+     "text": "Yes, and Professor Carter asked us to include data from at least three recent studies."
+    },
+    {
+     "speaker": "Mia",
+     "text": "I found a study from 2022 that surveyed 150 gardens across the city."
+    },
+    {
+     "speaker": "Leo",
+     "text": "I can summarise the methods, and you could explain the results."
+    },
+    {
+     "speaker": "Mia",
+     "text": "Good idea. We also need one clear chart, so I will prepare a bar chart showing flower types."
+    },
+    {
+     "speaker": "Leo",
+     "text": "Our presentation is on Wednesday, no, Thursday, because the seminar room is unavailable on Wednesday."
+    },
+    {
+     "speaker": "Mia",
+     "text": "It lasts twenty minutes, including five minutes for questions."
+    },
+    {
+     "speaker": "Leo",
+     "text": "We should mention that bees preferred gardens with native plants."
+    },
+    {
+     "speaker": "Mia",
+     "text": "The strongest result was a 30 per cent increase in bee visits where native flowers were planted."
+    },
+    {
+     "speaker": "Leo",
+     "text": "I will bring the handouts, but we should upload the slides by Tuesday evening."
+    },
+    {
+     "speaker": "Mia",
+     "text": "Let us practise in the library tomorrow at four."
+    },
+    {
+     "speaker": "Leo",
+     "text": "I cannot do four; I have a lab session until five, so shall we meet at half past five?"
+    },
+    {
+     "speaker": "Mia",
+     "text": "That works. Please bring the printed references."
+    },
+    {
+     "speaker": "Leo",
+     "text": "And I will email Professor Carter tonight to confirm the title."
+    }
+   ]
+  },
+  {
+   "id": "FT-A04",
+   "title": "Section 4: Lecture on sustainable architecture",
+   "lines": [
+    {
+     "speaker": "Lecturer",
+     "text": "Today I will discuss how sustainable buildings reduce energy use without sacrificing comfort."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "A key principle is passive design, which uses the position of a building to capture sunlight and natural breezes."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "In warm climates, wide roof overhangs shade windows and keep indoor temperatures lower."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "In colder regions, thick insulation in the walls and roof prevents heat from escaping."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Many new buildings collect rainwater from the roof and use it to flush toilets."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Solar panels are now common, but in the case study, geothermal heating supplied most of the winter heating."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "The case study is a library in Denmark, completed in 2019, with space for 2,000 visitors."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Its windows face south, allowing winter sunlight to warm the reading rooms."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Sensors adjust the blinds automatically when the sunlight becomes too strong."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Recycled steel was used for the frame, while local timber formed the interior panels."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "The building uses 40 per cent less energy than a conventional library, which uses 250 units per square metre each year."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "At the end of its life, many parts can be taken apart and reused, a principle known as design for disassembly."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Next week, we will compare this library with a school in Australia."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Students should read chapter seven before the seminar and note one feature they would change."
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "FT-L-001",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Guest's surname: {{1}}",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "spelling"
+   ],
+   "explanation": {
+    "whyCorrect": "Tên họ được đánh vần rõ là Marston.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Marston"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A01",
+      "sentenceIndex": 4,
+      "quote": "My surname is Marston, M-A-R-S-T-O-N."
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A01",
+    "sentenceIndex": 4,
+    "quote": "My surname is Marston, M-A-R-S-T-O-N."
+   }
+  },
+  {
+   "id": "FT-L-002",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Number of nights: {{1}}",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Khách đặt phòng trong hai đêm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "2",
+      "two"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A01",
+      "sentenceIndex": 2,
+      "quote": "for two nights"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A01",
+    "sentenceIndex": 2,
+    "quote": "for two nights"
+   }
+  },
+  {
+   "id": "FT-L-003",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "The available double room is on the",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Phòng đôi còn trống nằm ở tầng ba.",
+    "whyWrong": "Các tầng còn lại không được nói là nơi có phòng đôi còn trống.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A01",
+   "options": [
+    {
+     "id": "a",
+     "text": "fifth floor",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "third floor"
+    },
+    {
+     "id": "c",
+     "text": "ground floor",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "seventh floor",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A01",
+    "sentenceIndex": 3,
+    "quote": "one double room left on the third floor"
+   }
+  },
+  {
+   "id": "FT-L-004",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Price per night: £{{1}}",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Giá phòng là tám mươi bốn bảng một đêm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "84",
+      "eighty-four"
+     ],
+     "maxWords": 2,
+     "evidence": {
+      "paragraphId": "FT-A01",
+      "sentenceIndex": 5,
+      "quote": "eighty-four pounds a night"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A01",
+    "sentenceIndex": 5,
+    "quote": "eighty-four pounds a night"
+   }
+  },
+  {
+   "id": "FT-L-005",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Early check-in fee: £{{1}}",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Nhận phòng sớm tốn thêm mười bảng.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "10",
+      "ten"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A01",
+      "sentenceIndex": 7,
+      "quote": "early check-in is available for an extra ten pounds"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A01",
+    "sentenceIndex": 7,
+    "quote": "early check-in is available for an extra ten pounds"
+   }
+  },
+  {
+   "id": "FT-L-006",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "At what time is dinner booked?",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "distractor-corrected",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Khách đổi giờ ăn tối từ bảy giờ thành tám giờ.",
+    "whyWrong": "Bảy giờ là giờ ban đầu đã bị sửa, không phải giờ cuối cùng.",
+    "trap": "Phải nghe phần sửa lại sau từ sorry."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A01",
+   "options": [
+    {
+     "id": "a",
+     "text": "seven",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "b",
+     "text": "eight"
+    },
+    {
+     "id": "c",
+     "text": "six",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "nine",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A01",
+    "sentenceIndex": 8,
+    "quote": "book dinner for seven, sorry, make that eight"
+   }
+  },
+  {
+   "id": "FT-L-007",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "The guest wants a quiet room away from the {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form"
+   ],
+   "explanation": {
+    "whyCorrect": "Khách yêu cầu phòng yên tĩnh, xa thang máy.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "lift"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A01",
+      "sentenceIndex": 9,
+      "quote": "quiet room away from the lift"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A01",
+    "sentenceIndex": 9,
+    "quote": "quiet room away from the lift"
+   }
+  },
+  {
+   "id": "FT-L-008",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "The double room overlooks the",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nghe nói phòng nhìn ra khu vườn.",
+    "whyWrong": "Tên khách sạn gợi biển nhưng không phải hướng nhìn của phòng.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A01",
+   "options": [
+    {
+     "id": "a",
+     "text": "sea",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "garden"
+    },
+    {
+     "id": "c",
+     "text": "car park",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "street",
+     "distractorType": "opposite"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A01",
+    "sentenceIndex": 3,
+    "quote": "it overlooks the garden"
+   }
+  },
+  {
+   "id": "FT-L-009",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Deposit for a locker key: £{{1}}",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Tiền đặt cọc chìa khóa tủ là năm bảng.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "5",
+      "five"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A01",
+      "sentenceIndex": 11,
+      "quote": "five-pound deposit for a locker key"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A01",
+    "sentenceIndex": 11,
+    "quote": "five-pound deposit for a locker key"
+   }
+  },
+  {
+   "id": "FT-L-010",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Pool towels are free at {{1}}.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Khăn bể bơi được phát miễn phí tại quầy lễ tân.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A01",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "reception"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A01",
+      "sentenceIndex": 11,
+      "quote": "pool towels are free at reception"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A01",
+    "sentenceIndex": 11,
+    "quote": "pool towels are free at reception"
+   }
+  },
+  {
+   "id": "FT-L-011",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Festival location this year: {{1}}",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "place"
+   ],
+   "explanation": {
+    "whyCorrect": "Lễ hội đã chuyển tới Riverside Park.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Riverside Park"
+     ],
+     "maxWords": 2,
+     "evidence": {
+      "paragraphId": "FT-A02",
+      "sentenceIndex": 2,
+      "quote": "moved from the market square to Riverside Park"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A02",
+    "sentenceIndex": 2,
+    "quote": "moved from the market square to Riverside Park"
+   }
+  },
+  {
+   "id": "FT-L-012",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "The main stage will be beside the {{1}}.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Sân khấu chính nằm cạnh hồ.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "lake"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A02",
+      "sentenceIndex": 3,
+      "quote": "main stage will be beside the lake"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A02",
+    "sentenceIndex": 3,
+    "quote": "main stage will be beside the lake"
+   }
+  },
+  {
+   "id": "FT-L-013",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Local bands will perform until",
+   "correct": "c",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Các ban nhạc biểu diễn đến mười giờ tối.",
+    "whyWrong": "Giữa trưa là giờ bắt đầu, không phải giờ kết thúc.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A02",
+   "options": [
+    {
+     "id": "a",
+     "text": "midday",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "nine in the evening",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "ten in the evening"
+    },
+    {
+     "id": "d",
+     "text": "eleven in the evening",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A02",
+    "sentenceIndex": 3,
+    "quote": "perform from midday until ten in the evening"
+   }
+  },
+  {
+   "id": "FT-L-014",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Number of farmers' market stalls: more than {{1}}",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Chợ có hơn bốn mươi gian hàng.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "40",
+      "forty"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A02",
+      "sentenceIndex": 4,
+      "quote": "more than forty stalls"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A02",
+    "sentenceIndex": 4,
+    "quote": "more than forty stalls"
+   }
+  },
+  {
+   "id": "FT-L-015",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "The cooking demonstration takes place at",
+   "correct": "c",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Buổi trình diễn nấu ăn diễn ra lúc ba giờ chiều thứ Bảy.",
+    "whyWrong": "Mười giờ là giờ lều kể chuyện mở cửa, không phải giờ trình diễn.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A02",
+   "options": [
+    {
+     "id": "a",
+     "text": "three on Friday afternoon",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "ten on Saturday morning",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "three on Saturday afternoon"
+    },
+    {
+     "id": "d",
+     "text": "three on Sunday afternoon",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A02",
+    "sentenceIndex": 5,
+    "quote": "at three on Saturday afternoon"
+   }
+  },
+  {
+   "id": "FT-L-016",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Each story-tent session lasts {{1}} minutes.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Mỗi buổi trong lều kể chuyện kéo dài bốn mươi lăm phút.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "forty-five",
+      "45"
+     ],
+     "maxWords": 2,
+     "evidence": {
+      "paragraphId": "FT-A02",
+      "sentenceIndex": 6,
+      "quote": "each session lasts forty-five minutes"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A02",
+    "sentenceIndex": 6,
+    "quote": "each session lasts forty-five minutes"
+   }
+  },
+  {
+   "id": "FT-L-017",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "The free bus runs every {{1}} minutes.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Xe buýt miễn phí chạy mỗi hai mươi phút.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "20",
+      "twenty"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A02",
+      "sentenceIndex": 7,
+      "quote": "bus will run every twenty minutes"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A02",
+    "sentenceIndex": 7,
+    "quote": "bus will run every twenty minutes"
+   }
+  },
+  {
+   "id": "FT-L-018",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "The Mill Road car park can hold",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Bãi xe chứa được ba trăm ô tô.",
+    "whyWrong": "Các số còn lại không phải sức chứa được nêu.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A02",
+   "options": [
+    {
+     "id": "a",
+     "text": "200 cars",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "300 cars"
+    },
+    {
+     "id": "c",
+     "text": "400 cars",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "d",
+     "text": "30 cars",
+     "distractorType": "partial-truth"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A02",
+    "sentenceIndex": 8,
+    "quote": "space for 300 cars"
+   }
+  },
+  {
+   "id": "FT-L-019",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "The Sunday parade begins at",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "distractor-corrected",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Người nói sửa giờ diễu hành thành mười hai giờ.",
+    "whyWrong": "Mười một giờ là thông tin vừa bị sửa.",
+    "trap": "Cần lấy giờ sau từ sorry."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A02",
+   "options": [
+    {
+     "id": "a",
+     "text": "eleven",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "b",
+     "text": "twelve"
+    },
+    {
+     "id": "c",
+     "text": "ten",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "one",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A02",
+    "sentenceIndex": 10,
+    "quote": "begins at eleven, sorry, at twelve"
+   }
+  },
+  {
+   "id": "FT-L-020",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Rain venue for outdoor performances: the {{1}} on Bridge Street.",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "form",
+    "place"
+   ],
+   "explanation": {
+    "whyCorrect": "Khi mưa lớn, các buổi diễn ngoài trời chuyển vào hội trường cộng đồng.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A02",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "community hall"
+     ],
+     "maxWords": 2,
+     "evidence": {
+      "paragraphId": "FT-A02",
+      "sentenceIndex": 12,
+      "quote": "move to the community hall on Bridge Street"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A02",
+    "sentenceIndex": 12,
+    "quote": "move to the community hall on Bridge Street"
+   }
+  },
+  {
+   "id": "FT-L-021",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Presentation focus: how city gardens help {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "form"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài thuyết trình tập trung vào lợi ích của vườn đô thị đối với ong ở thành phố.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "urban bees"
+     ],
+     "maxWords": 2,
+     "evidence": {
+      "paragraphId": "FT-A03",
+      "sentenceIndex": 1,
+      "quote": "how city gardens help urban bees"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A03",
+    "sentenceIndex": 1,
+    "quote": "how city gardens help urban bees"
+   }
+  },
+  {
+   "id": "FT-L-022",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Minimum number of recent studies to include: {{1}}",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Giáo sư yêu cầu ít nhất ba nghiên cứu gần đây.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "3",
+      "three"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A03",
+      "sentenceIndex": 2,
+      "quote": "at least three recent studies"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A03",
+    "sentenceIndex": 2,
+    "quote": "at least three recent studies"
+   }
+  },
+  {
+   "id": "FT-L-023",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How many gardens were surveyed in the 2022 study?",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Nghiên cứu đã khảo sát một trăm năm mươi khu vườn.",
+    "whyWrong": "Các số còn lại không phải số vườn được khảo sát.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A03",
+   "options": [
+    {
+     "id": "a",
+     "text": "50",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "b",
+     "text": "150"
+    },
+    {
+     "id": "c",
+     "text": "250",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "15",
+     "distractorType": "partial-truth"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A03",
+    "sentenceIndex": 3,
+    "quote": "surveyed 150 gardens"
+   }
+  },
+  {
+   "id": "FT-L-024",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Mia's task is to explain the {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Mia được giao giải thích kết quả.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "results"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A03",
+      "sentenceIndex": 4,
+      "quote": "you could explain the results"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A03",
+    "sentenceIndex": 4,
+    "quote": "you could explain the results"
+   }
+  },
+  {
+   "id": "FT-L-025",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Mia will prepare a",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Mia sẽ chuẩn bị biểu đồ cột.",
+    "whyWrong": "Các dạng trình bày còn lại không được nhắc tới.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A03",
+   "options": [
+    {
+     "id": "a",
+     "text": "pie chart",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "bar chart"
+    },
+    {
+     "id": "c",
+     "text": "table",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "line graph",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A03",
+    "sentenceIndex": 5,
+    "quote": "prepare a bar chart"
+   }
+  },
+  {
+   "id": "FT-L-026",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "On which day is the presentation?",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "distractor-corrected"
+   ],
+   "explanation": {
+    "whyCorrect": "Leo sửa ngày thuyết trình thành thứ Năm.",
+    "whyWrong": "Thứ Tư là ngày ban đầu nhưng phòng không trống; thứ Ba là hạn nộp slides.",
+    "trap": "Phải chọn ngày sau phần phủ định và sửa lại."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A03",
+   "options": [
+    {
+     "id": "a",
+     "text": "Wednesday",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "b",
+     "text": "Thursday"
+    },
+    {
+     "id": "c",
+     "text": "Tuesday",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "Friday",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A03",
+    "sentenceIndex": 6,
+    "quote": "on Wednesday, no, Thursday"
+   }
+  },
+  {
+   "id": "FT-L-027",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Total presentation length: {{1}} minutes.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài thuyết trình dài hai mươi phút.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "20",
+      "twenty"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A03",
+      "sentenceIndex": 7,
+      "quote": "lasts twenty minutes"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A03",
+    "sentenceIndex": 7,
+    "quote": "lasts twenty minutes"
+   }
+  },
+  {
+   "id": "FT-L-028",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Bees preferred gardens with {{1}} plants.",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Ong ưa các khu vườn có cây bản địa.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "native"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A03",
+      "sentenceIndex": 8,
+      "quote": "bees preferred gardens with native plants"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A03",
+    "sentenceIndex": 8,
+    "quote": "bees preferred gardens with native plants"
+   }
+  },
+  {
+   "id": "FT-L-029",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Bee visits increased by",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Lượt ong ghé thăm tăng ba mươi phần trăm.",
+    "whyWrong": "Các tỉ lệ còn lại không xuất hiện trong bài nghe.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A03",
+   "options": [
+    {
+     "id": "a",
+     "text": "13 per cent",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "b",
+     "text": "30 per cent"
+    },
+    {
+     "id": "c",
+     "text": "23 per cent",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "3 per cent",
+     "distractorType": "partial-truth"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A03",
+    "sentenceIndex": 9,
+    "quote": "30 per cent increase in bee visits"
+   }
+  },
+  {
+   "id": "FT-L-030",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Practice meeting time tomorrow: {{1}}",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Hai sinh viên hẹn luyện tập lúc năm giờ rưỡi.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A03",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "half past five",
+      "5.30",
+      "5:30"
+     ],
+     "maxWords": 3,
+     "evidence": {
+      "paragraphId": "FT-A03",
+      "sentenceIndex": 12,
+      "quote": "meet at half past five"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A03",
+    "sentenceIndex": 12,
+    "quote": "meet at half past five"
+   }
+  },
+  {
+   "id": "FT-L-031",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Key principle discussed first: {{1}} design.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "form"
+   ],
+   "explanation": {
+    "whyCorrect": "Nguyên lý đầu tiên được nêu là thiết kế thụ động.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "passive"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A04",
+      "sentenceIndex": 2,
+      "quote": "A key principle is passive design"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A04",
+    "sentenceIndex": 2,
+    "quote": "A key principle is passive design"
+   }
+  },
+  {
+   "id": "FT-L-032",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Wide roof overhangs shade the {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Phần mái nhô rộng che nắng cho cửa sổ.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "windows"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A04",
+      "sentenceIndex": 3,
+      "quote": "wide roof overhangs shade windows"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A04",
+    "sentenceIndex": 3,
+    "quote": "wide roof overhangs shade windows"
+   }
+  },
+  {
+   "id": "FT-L-033",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "In colder regions, heat is kept inside by",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Lớp cách nhiệt dày trong tường và mái ngăn nhiệt thoát ra ngoài.",
+    "whyWrong": "Tấm pin mặt trời được nêu ở phần khác và không phải đáp án cho vùng lạnh.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A04",
+   "options": [
+    {
+     "id": "a",
+     "text": "thin windows",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "thick insulation"
+    },
+    {
+     "id": "c",
+     "text": "open doors",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "solar panels",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A04",
+    "sentenceIndex": 4,
+    "quote": "thick insulation in the walls and roof prevents heat from escaping"
+   }
+  },
+  {
+   "id": "FT-L-034",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Collected rainwater is used to flush {{1}}.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Nước mưa thu được dùng để xả bồn cầu.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "toilets"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A04",
+      "sentenceIndex": 5,
+      "quote": "use it to flush toilets"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A04",
+    "sentenceIndex": 5,
+    "quote": "use it to flush toilets"
+   }
+  },
+  {
+   "id": "FT-L-035",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Most of the case-study building's winter heating came from",
+   "correct": "b",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Hệ thống sưởi địa nhiệt cung cấp phần lớn nhiệt sưởi mùa đông.",
+    "whyWrong": "Bài nghe nói tấm pin mặt trời phổ biến nhưng nguồn chính trong trường hợp này là địa nhiệt.",
+    "trap": "Cần phân biệt chi tiết phổ biến với nguồn chính của công trình mẫu."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A04",
+   "options": [
+    {
+     "id": "a",
+     "text": "solar panels",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "geothermal heating"
+    },
+    {
+     "id": "c",
+     "text": "rainwater",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "natural breezes",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A04",
+    "sentenceIndex": 6,
+    "quote": "geothermal heating supplied most of the winter heating"
+   }
+  },
+  {
+   "id": "FT-L-036",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Country of the case-study library: {{1}}",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "form",
+    "place"
+   ],
+   "explanation": {
+    "whyCorrect": "Thư viện mẫu nằm ở Đan Mạch.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Denmark"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A04",
+      "sentenceIndex": 7,
+      "quote": "library in Denmark, completed in 2019"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A04",
+    "sentenceIndex": 7,
+    "quote": "library in Denmark, completed in 2019"
+   }
+  },
+  {
+   "id": "FT-L-037",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "The case-study library's windows face",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Cửa sổ của thư viện hướng về phía nam.",
+    "whyWrong": "Các hướng còn lại không được nêu.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A04",
+   "options": [
+    {
+     "id": "a",
+     "text": "north",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "south"
+    },
+    {
+     "id": "c",
+     "text": "east",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "west",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A04",
+    "sentenceIndex": 8,
+    "quote": "windows face south"
+   }
+  },
+  {
+   "id": "FT-L-038",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Sensors adjust the {{1}} automatically.",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Cảm biến tự động điều chỉnh rèm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "blinds"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A04",
+      "sentenceIndex": 9,
+      "quote": "Sensors adjust the blinds automatically"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A04",
+    "sentenceIndex": 9,
+    "quote": "Sensors adjust the blinds automatically"
+   }
+  },
+  {
+   "id": "FT-L-039",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How much energy does the case-study building use per square metre each year?",
+   "correct": "b",
+   "difficulty": 5,
+   "estimatedSeconds": 70,
+   "tags": [
+    "mcq",
+    "calculation",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Tòa nhà dùng ít hơn bốn mươi phần trăm so với mức hai trăm năm mươi đơn vị, nên kết quả là một trăm năm mươi đơn vị.",
+    "whyWrong": "Hai trăm năm mươi là mức của thư viện thông thường; một trăm là phần giảm, không phải mức sử dụng cuối cùng.",
+    "trap": "Phải tính hai trăm năm mươi nhân với sáu mươi phần trăm còn lại."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A04",
+   "options": [
+    {
+     "id": "a",
+     "text": "250 units",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "150 units"
+    },
+    {
+     "id": "c",
+     "text": "100 units",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "210 units",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A04",
+    "sentenceIndex": 11,
+    "quote": "uses 40 per cent less energy than a conventional library, which uses 250 units per square metre each year"
+   }
+  },
+  {
+   "id": "FT-L-040",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Taking parts apart for reuse is called design for {{1}}.",
+   "correct": null,
+   "difficulty": 4,
+   "estimatedSeconds": 55,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Nguyên lý tháo rời để tái sử dụng được gọi là design for disassembly.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published",
+   "audioId": "FT-A04",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "disassembly"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A04",
+      "sentenceIndex": 12,
+      "quote": "principle known as design for disassembly"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A04",
+    "sentenceIndex": 12,
+    "quote": "principle known as design for disassembly"
+   }
+  }
+ ]
+}

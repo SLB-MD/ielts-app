@@ -1,0 +1,469 @@
+{
+ "schemaVersion": 1,
+ "id": "R-U04",
+ "skill": "reading",
+ "title": "Reading: TFNG và hoàn thành câu trong bài khoa học",
+ "objective": "Học xong bài này, bạn sẽ phân biệt được FALSE và NOT GIVEN trong bài khoa học và điền đúng từ nguyên của bài vào câu hoàn thành.",
+ "minutes": 6,
+ "ruleCardId": "RC-TFNG",
+ "passage": {
+  "id": "P-N07",
+  "title": "Sleep, Memory and the Learning Brain",
+  "genre": "science",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N07-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Most people know that a good night's sleep leaves them feeling rested, but sleep also plays a central part in learning."
+     },
+     {
+      "index": 2,
+      "text": "While we sleep, the brain replays the events of the day and moves important information from short-term to long-term storage."
+     },
+     {
+      "index": 3,
+      "text": "This process, called consolidation, is one reason why students often remember a lesson better after sleeping on it."
+     }
+    ]
+   },
+   {
+    "id": "P-N07-p2",
+    "label": "B",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Not all sleep is equal, however."
+     },
+     {
+      "index": 2,
+      "text": "Deep sleep, which occurs mostly in the first half of the night, is especially important for remembering facts and words."
+     },
+     {
+      "index": 3,
+      "text": "Later in the night, the brain spends more time in dreaming sleep, which seems to support skills such as playing an instrument."
+     },
+     {
+      "index": 4,
+      "text": "Cutting the night short therefore removes the dreaming sleep at the end, even if total rest still seems adequate."
+     }
+    ]
+   },
+   {
+    "id": "P-N07-p3",
+    "label": "C",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "Research also warns against relying on caffeine late in the day."
+     },
+     {
+      "index": 2,
+      "text": "Volunteers who drank coffee six hours before bedtime still showed disturbed sleep, even when they believed they had slept normally."
+     },
+     {
+      "index": 3,
+      "text": "For students, the practical message is simple: regular sleep before an exam protects memory better than a final night of revision without sleep."
+     }
+    ]
+   }
+  ]
+ },
+ "retrievePassage": {
+  "id": "P-N08",
+  "title": "The Short Nap at Work",
+  "genre": "science",
+  "source": "original",
+  "license": "project-original",
+  "paragraphs": [
+   {
+    "id": "P-N08-p1",
+    "label": "A",
+    "sentences": [
+     {
+      "index": 1,
+      "text": "A short nap in the early afternoon can restore alertness without the heavy feeling that follows a long sleep."
+     },
+     {
+      "index": 2,
+      "text": "In one workplace trial, staff who napped for twenty minutes made fewer mistakes afterwards than colleagues who took only a coffee break."
+     },
+     {
+      "index": 3,
+      "text": "The benefit disappeared, however, when naps lasted longer than thirty minutes."
+     },
+     {
+      "index": 4,
+      "text": "Researchers therefore suggest keeping naps brief and setting an alarm."
+     }
+    ]
+   }
+  ]
+ },
+ "questions": [
+  {
+   "id": "R-TFNG-0005",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U04",
+   "passageId": "P-N07",
+   "stem": "The brain transfers important information into long-term storage during sleep.",
+   "correct": "TRUE",
+   "evidence": {
+    "paragraphId": "P-N07-p1",
+    "sentenceIndex": 2,
+    "quote": "While we sleep, the brain replays the events of the day and moves important information from short-term to long-term storage."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn một nói khi ngủ, não chuyển thông tin quan trọng từ lưu trữ ngắn hạn sang dài hạn, đúng ý câu hỏi.",
+    "whyWrong": "Không phải NOT GIVEN vì bài nêu thẳng quá trình chuyển thông tin trong lúc ngủ.",
+    "trap": "Câu hỏi đổi 'moves' thành 'transfers' và lược bỏ vế ngắn hạn; ý cốt lõi không đổi nên vẫn là TRUE."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-TFNG-0006",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U04",
+   "passageId": "P-N07",
+   "stem": "Dreaming sleep is most common in the first half of the night.",
+   "correct": "FALSE",
+   "evidence": {
+    "paragraphId": "P-N07-p2",
+    "sentenceIndex": 3,
+    "quote": "Later in the night, the brain spends more time in dreaming sleep, which seems to support skills such as playing an instrument."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn hai nói giấc mơ chiếm nhiều thời gian hơn ở phần sau của đêm, ngược với khẳng định nửa đầu trong câu hỏi.",
+    "whyWrong": "Không phải TRUE vì thời điểm bị đảo. Không phải NOT GIVEN vì bài nêu rõ thời điểm giấc mơ chiếm nhiều thời gian hơn.",
+    "trap": "Bài gắn cụm 'first half' cho giấc ngủ sâu; câu hỏi lấy cụm đó gán cho giấc mơ, hoán đổi hai khái niệm."
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-TFNG-0007",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U04",
+   "passageId": "P-N07",
+   "stem": "Students who sleep eight hours remember more than students who sleep nine hours.",
+   "correct": "NOT GIVEN",
+   "nearMiss": {
+    "paragraphId": "P-N07-p1",
+    "sentenceIndex": 3,
+    "quote": "This process, called consolidation, is one reason why students often remember a lesson better after sleeping on it.",
+    "whyNotEnough": "Bài nói ngủ giúp học sinh nhớ bài tốt hơn, nhưng không so sánh thời lượng ngủ 8 giờ với 9 giờ."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "eight hours",
+     "nine hours",
+     "remember more"
+    ],
+    "result": "Không câu nào so sánh thời lượng ngủ 8 giờ với 9 giờ."
+   },
+   "explanation": {
+    "whyCorrect": "Bài không so sánh thời lượng ngủ 8 giờ và 9 giờ; không có cơ sở khẳng định hay phủ định nên đáp án là NOT GIVEN.",
+    "whyWrong": "Không phải TRUE vì không câu nào xếp hạng hai thời lượng ngủ. Không phải FALSE vì bài cũng không nói ngủ 9 giờ tốt hơn.",
+    "trap": "Câu gần nhất nói ngủ giúp nhớ bài hơn, nhưng không có con số giờ nào; thêm số cụ thể là bẫy quen thuộc của NOT GIVEN."
+   },
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-MCQ-0006",
+   "skill": "reading",
+   "questionType": "mcq",
+   "unitId": "R-U04",
+   "passageId": "P-N07",
+   "stem": "According to the passage, volunteers who drank coffee six hours before bedtime",
+   "options": [
+    {
+     "id": "a",
+     "text": "had disturbed sleep even if they felt they had slept normally"
+    },
+    {
+     "id": "b",
+     "text": "slept better than volunteers who drank no coffee",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "were unable to fall asleep at all",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "d",
+     "text": "showed stronger memory for facts and words",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "correct": "a",
+   "evidence": {
+    "paragraphId": "P-N07-p3",
+    "sentenceIndex": 2,
+    "quote": "Volunteers who drank coffee six hours before bedtime still showed disturbed sleep, even when they believed they had slept normally."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn ba nói tình nguyện viên uống cà phê trước giờ ngủ sáu tiếng vẫn bị rối loạn giấc ngủ dù tưởng mình ngủ bình thường.",
+    "whyWrong": "Lựa chọn b ngược kết quả nghiên cứu. Lựa chọn c nói quá thành mất ngủ hoàn toàn. Lựa chọn d mượn chi tiết trí nhớ ở đoạn hai, không liên quan đến cà phê.",
+    "trap": "Cụm 'even when they believed they had slept normally' là chi tiết quyết định; bỏ qua nó dễ chọn đáp án nói quá."
+   },
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-SEN-0004",
+   "skill": "reading",
+   "questionType": "sentence",
+   "unitId": "R-U04",
+   "passageId": "P-N07",
+   "stem": "The process of moving information into long-term storage during sleep is called {{1}}.",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "consolidation"
+     ],
+     "maxWords": 1,
+     "wordClass": "noun",
+     "evidence": {
+      "paragraphId": "P-N07-p1",
+      "sentenceIndex": 3,
+      "quote": "This process, called consolidation, is one reason why students often remember a lesson better after sleeping on it."
+     },
+     "nearMissAnswers": [
+      {
+       "text": "replay",
+       "tag": "wrong-word"
+      }
+     ]
+    }
+   },
+   "explanation": {
+    "whyCorrect": "Từ cần điền nằm nguyên trong đoạn một: quá trình chuyển thông tin này được gọi là 'consolidation'.",
+    "whyWrong": "Đáp án phải là thuật ngữ bài dùng để gọi tên quá trình; 'replay' là một hoạt động khác của não trong lúc ngủ.",
+    "trap": "Câu nguồn có cấu trúc 'This process, called X'; thuật ngữ đứng ngay sau 'called' chính là đáp án."
+   },
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence",
+    "specific-detail"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "retrieveQuestions": [
+  {
+   "id": "R-TFNG-0104",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U04",
+   "passageId": "P-N08",
+   "stem": "A twenty-minute nap helped workers make fewer mistakes in one trial.",
+   "correct": "TRUE",
+   "evidence": {
+    "paragraphId": "P-N08-p1",
+    "sentenceIndex": 2,
+    "quote": "In one workplace trial, staff who napped for twenty minutes made fewer mistakes afterwards than colleagues who took only a coffee break."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn văn nói nhân viên ngủ trưa 20 phút mắc ít lỗi hơn sau đó trong một thử nghiệm tại nơi làm việc.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "tfng",
+    "paraphrase-lexical"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-TFNG-0105",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U04",
+   "passageId": "P-N08",
+   "stem": "The benefits of napping increased when naps lasted over thirty minutes.",
+   "correct": "FALSE",
+   "evidence": {
+    "paragraphId": "P-N08-p1",
+    "sentenceIndex": 3,
+    "quote": "The benefit disappeared, however, when naps lasted longer than thirty minutes."
+   },
+   "explanation": {
+    "whyCorrect": "Đoạn văn nói lợi ích biến mất khi giấc ngủ trưa kéo dài hơn 30 phút, ngược với khẳng định trong câu hỏi.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 1,
+   "estimatedSeconds": 40,
+   "tags": [
+    "tfng",
+    "contradiction",
+    "number"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  },
+  {
+   "id": "R-TFNG-0106",
+   "skill": "reading",
+   "questionType": "tfng",
+   "unitId": "R-U04",
+   "passageId": "P-N08",
+   "stem": "Most companies now allow staff to nap during the working day.",
+   "correct": "NOT GIVEN",
+   "nearMiss": {
+    "paragraphId": "P-N08-p1",
+    "sentenceIndex": 2,
+    "quote": "In one workplace trial, staff who napped for twenty minutes made fewer mistakes afterwards than colleagues who took only a coffee break.",
+    "whyNotEnough": "Bài chỉ nhắc một thử nghiệm tại nơi làm việc, không nói đa số công ty cho phép nhân viên ngủ trưa."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "most companies",
+     "allow",
+     "nap"
+    ],
+    "result": "Không câu nào nói đa số công ty cho phép ngủ trưa trong giờ làm."
+   },
+   "explanation": {
+    "whyCorrect": "Bài chỉ nhắc một thử nghiệm tại nơi làm việc, không cho biết đa số công ty có cho phép ngủ trưa hay không.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng",
+    "quantifier"
+   ],
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-24",
+   "status": "published"
+  }
+ ],
+ "produce": {
+  "type": "transform",
+  "prompt": "Viết lại câu này bằng cấu trúc vừa học.",
+  "sourceSentence": "Sleep moves important information into long-term storage.",
+  "instruction": "Bắt đầu bằng: Important information is …",
+  "mustContain": [
+   "moved"
+  ],
+  "mustNotContain": [
+   "moves"
+  ],
+  "samples": [
+   "Important information is moved into long-term storage during sleep."
+  ]
+ },
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering. See docs/CONTENT_SOURCES.md."
+}

@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 1,
+  "kind": "mini-test",
+  "id": "MT-03",
+  "title": "Mini test 3",
+  "minutes": 9,
+  "passages": [
+    {
+      "id": "P-N14",
+      "title": "A Short History of the Bicycle",
+      "genre": "history",
+      "source": "original",
+      "license": "project-original",
+      "paragraphs": [
+        {
+          "id": "P-N14-p1",
+          "label": "A",
+          "sentences": [
+            {
+              "index": 1,
+              "text": "The first machine that can be called a bicycle appeared in Germany in 1817 and was made almost entirely of wood."
+            },
+            {
+              "index": 2,
+              "text": "It had two wheels of the same size but no pedals, so the rider pushed it along with their feet."
+            },
+            {
+              "index": 3,
+              "text": "Pedals were added in the 1860s, attached directly to the front wheel, which grew larger and larger over the following years."
+            },
+            {
+              "index": 4,
+              "text": "The famous penny-farthing, with its huge front wheel, could travel fast but was difficult to mount and dangerous to fall from."
+            },
+            {
+              "index": 5,
+              "text": "The modern design arrived in 1885, with a chain driving the back wheel and two wheels of equal size."
+            },
+            {
+              "index": 6,
+              "text": "Within a few years, the new bicycle had become cheap enough for ordinary workers, and by the 1890s cycling was one of the most popular pastimes in Britain and America."
+            },
+            {
+              "index": 7,
+              "text": "Historians note that the bicycle also changed what women wore, because long skirts were impractical on the new machines."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "clips": [
+    {
+      "id": "A-N04",
+      "title": "Booking museum tickets",
+      "lines": [
+        {
+          "speaker": "Clerk",
+          "text": "Good afternoon, City Museum. How can I help you?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "I would like to book tickets for the special exhibition on Saturday, please."
+        },
+        {
+          "speaker": "Clerk",
+          "text": "Certainly. Adult tickets are fifteen pounds each. How many would you like?"
+        },
+        {
+          "speaker": "Woman",
+          "text": "Two adults and one child, please."
+        },
+        {
+          "speaker": "Clerk",
+          "text": "Children under sixteen pay half price, so the child ticket is seven pounds fifty."
+        },
+        {
+          "speaker": "Woman",
+          "text": "I am a member of the museum. Is there a discount for members?"
+        },
+        {
+          "speaker": "Clerk",
+          "text": "Yes, members get twenty per cent off the total. Your total before the discount is thirty-seven pounds fifty."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Thank you. What time does the exhibition open on Saturday?"
+        },
+        {
+          "speaker": "Clerk",
+          "text": "It opens at nine thirty, and the last entry is at four thirty."
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "MT3-R-01",
+      "skill": "reading",
+      "questionType": "tfng",
+      "stem": "The earliest bicycle was made mostly of wood.",
+      "correct": "TRUE",
+      "difficulty": 1,
+      "estimatedSeconds": 45,
+      "tags": [
+        "tfng",
+        "paraphrase-lexical"
+      ],
+      "explanation": {
+        "whyCorrect": "Bài nói chiếc xe đầu tiên xuất hiện ở Đức năm 1817, làm gần như hoàn toàn bằng gỗ.",
+        "whyWrong": "Không phải NOT GIVEN vì chất liệu của xe được nói rõ ở câu đầu.",
+        "trap": "Cụm 'almost entirely' tương đương 'mostly' trong câu hỏi."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "passageId": "P-N14",
+      "evidence": {
+        "paragraphId": "P-N14-p1",
+        "sentenceIndex": 1,
+        "quote": "The first machine that can be called a bicycle appeared in Germany in 1817 and was made almost entirely of wood."
+      }
+    },
+    {
+      "id": "MT3-R-02",
+      "skill": "reading",
+      "questionType": "tfng",
+      "stem": "Riders of the first bicycle used pedals to move it forward.",
+      "correct": "FALSE",
+      "difficulty": 2,
+      "estimatedSeconds": 45,
+      "tags": [
+        "tfng",
+        "contradiction"
+      ],
+      "explanation": {
+        "whyCorrect": "Bài nói xe đầu tiên không có bàn đạp; người lái dùng chân đẩy xe đi.",
+        "whyWrong": "Bàn đạp chỉ xuất hiện vào thập niên 1860, không thuộc chiếc xe đầu tiên.",
+        "trap": "Chi tiết bàn đạp ở câu sau dễ bị gán nhầm cho chiếc xe đầu tiên."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "passageId": "P-N14",
+      "evidence": {
+        "paragraphId": "P-N14-p1",
+        "sentenceIndex": 2,
+        "quote": "It had two wheels of the same size but no pedals, so the rider pushed it along with their feet."
+      }
+    },
+    {
+      "id": "MT3-R-03",
+      "skill": "reading",
+      "questionType": "tfng",
+      "stem": "The penny-farthing was more popular in Britain than in America.",
+      "correct": "NOT GIVEN",
+      "difficulty": 3,
+      "estimatedSeconds": 60,
+      "tags": [
+        "tfng",
+        "comparative"
+      ],
+      "explanation": {
+        "whyCorrect": "Bài không so sánh độ phổ biến của penny-farthing giữa Anh và Mỹ.",
+        "whyWrong": "",
+        "trap": "Câu 6 nói về đạp xe nói chung, không riêng loại xe bánh lớn này."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "passageId": "P-N14",
+      "nearMiss": {
+        "paragraphId": "P-N14-p1",
+        "sentenceIndex": 6,
+        "quote": "Within a few years, the new bicycle had become cheap enough for ordinary workers, and by the 1890s cycling was one of the most popular pastimes in Britain and America.",
+        "whyNotEnough": "Bài nói đạp xe nói chung rất phổ biến ở Anh và Mỹ, không so sánh riêng penny-farthing giữa hai nước."
+      },
+      "notGivenProof": {
+        "keywordsScanned": [
+          "penny-farthing",
+          "more popular",
+          "Britain than"
+        ],
+        "result": "Không câu nào so sánh độ phổ biến của penny-farthing giữa Anh và Mỹ."
+      }
+    },
+    {
+      "id": "MT3-R-04",
+      "skill": "reading",
+      "questionType": "mcq",
+      "stem": "What problem did the penny-farthing have?",
+      "correct": "b",
+      "difficulty": 3,
+      "estimatedSeconds": 60,
+      "tags": [
+        "mcq",
+        "specific-detail"
+      ],
+      "explanation": {
+        "whyCorrect": "Bài nói xe bánh lớn chạy nhanh nhưng khó leo lên và nguy hiểm khi ngã.",
+        "whyWrong": "Lựa chọn a ngược bài vì xe chạy nhanh. Lựa chọn d nói về mẫu xe đời sau, rẻ cho công nhân.",
+        "trap": "Mỗi lựa chọn sai mượn chi tiết của một mẫu xe khác trong bài."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "passageId": "P-N14",
+      "options": [
+        {
+          "id": "a",
+          "text": "It could not travel fast.",
+          "distractorType": "opposite"
+        },
+        {
+          "id": "b",
+          "text": "It was difficult to mount."
+        },
+        {
+          "id": "c",
+          "text": "Its two wheels were the same size.",
+          "distractorType": "out-of-scope"
+        },
+        {
+          "id": "d",
+          "text": "It was too expensive for ordinary workers.",
+          "distractorType": "keyword-lift"
+        }
+      ],
+      "evidence": {
+        "paragraphId": "P-N14-p1",
+        "sentenceIndex": 4,
+        "quote": "The famous penny-farthing, with its huge front wheel, could travel fast but was difficult to mount and dangerous to fall from."
+      }
+    },
+    {
+      "id": "MT3-R-05",
+      "skill": "reading",
+      "questionType": "sentence",
+      "stem": "In the modern design of 1885, a {{1}} drove the back wheel.",
+      "correct": null,
+      "difficulty": 2,
+      "estimatedSeconds": 40,
+      "tags": [
+        "sentence",
+        "specific-detail"
+      ],
+      "explanation": {
+        "whyCorrect": "Từ nguyên trong bài là 'chain' trong cụm 'a chain driving the back wheel'.",
+        "whyWrong": "",
+        "trap": ""
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "passageId": "P-N14",
+      "blanks": {
+        "1": {
+          "acceptedAnswers": [
+            "chain"
+          ],
+          "maxWords": 1,
+          "evidence": {
+            "paragraphId": "P-N14-p1",
+            "sentenceIndex": 5,
+            "quote": "The modern design arrived in 1885, with a chain driving the back wheel and two wheels of equal size."
+          },
+          "nearMissAnswers": [
+            {
+              "text": "pedal",
+              "tag": "wrong-word"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "MT3-R-06",
+      "skill": "reading",
+      "questionType": "mcq",
+      "stem": "By the 1890s, cycling in Britain and America was",
+      "correct": "a",
+      "difficulty": 2,
+      "estimatedSeconds": 60,
+      "tags": [
+        "mcq",
+        "specific-detail"
+      ],
+      "explanation": {
+        "whyCorrect": "Bài nói đến thập niên 1890, đạp xe là một trong những thú tiêu khiển phổ biến nhất ở Anh và Mỹ.",
+        "whyWrong": "Lựa chọn b thu hẹp sai đối tượng; bài chỉ nói xe đạp thay đổi trang phục của phụ nữ.",
+        "trap": "Cụm 'one of the most popular' là khẳng định về mức phổ biến chung."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "passageId": "P-N14",
+      "options": [
+        {
+          "id": "a",
+          "text": "one of the most popular pastimes"
+        },
+        {
+          "id": "b",
+          "text": "practised only by women",
+          "distractorType": "over-generalization"
+        },
+        {
+          "id": "c",
+          "text": "already becoming less popular",
+          "distractorType": "opposite"
+        },
+        {
+          "id": "d",
+          "text": "taught in most schools",
+          "distractorType": "out-of-scope"
+        }
+      ],
+      "evidence": {
+        "paragraphId": "P-N14-p1",
+        "sentenceIndex": 6,
+        "quote": "Within a few years, the new bicycle had become cheap enough for ordinary workers, and by the 1890s cycling was one of the most popular pastimes in Britain and America."
+      }
+    },
+    {
+      "id": "MT3-L-01",
+      "skill": "listening",
+      "questionType": "form",
+      "stem": "The woman books tickets for the special exhibition on {{1}}.",
+      "correct": null,
+      "difficulty": 1,
+      "estimatedSeconds": 40,
+      "tags": [
+        "form"
+      ],
+      "explanation": {
+        "whyCorrect": "Ngày xem triển lãm là thứ Bảy.",
+        "whyWrong": "",
+        "trap": ""
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "audioId": "A-N04",
+      "blanks": {
+        "1": {
+          "acceptedAnswers": [
+            "Saturday"
+          ],
+          "maxWords": 1
+        }
+      }
+    },
+    {
+      "id": "MT3-L-02",
+      "skill": "listening",
+      "questionType": "form",
+      "stem": "The child ticket costs {{1}}.",
+      "correct": null,
+      "difficulty": 2,
+      "estimatedSeconds": 45,
+      "tags": [
+        "form",
+        "number"
+      ],
+      "explanation": {
+        "whyCorrect": "Trẻ dưới mười sáu tuổi trả nửa giá nên vé trẻ em là bảy bảng rưỡi.",
+        "whyWrong": "",
+        "trap": "Mười lăm bảng là giá vé người lớn, dễ nghe nhầm sang vé trẻ em."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "audioId": "A-N04",
+      "blanks": {
+        "1": {
+          "acceptedAnswers": [
+            "seven pounds fifty",
+            "7.50",
+            "seven fifty",
+            "£7.50"
+          ],
+          "maxWords": 3
+        }
+      }
+    },
+    {
+      "id": "MT3-L-03",
+      "skill": "listening",
+      "questionType": "mcq",
+      "stem": "How much will the woman pay in total as a member?",
+      "correct": "b",
+      "difficulty": 4,
+      "estimatedSeconds": 60,
+      "tags": [
+        "mcq",
+        "number"
+      ],
+      "explanation": {
+        "whyCorrect": "Tổng trước giảm là 37,50 bảng; hội viên giảm 20 phần trăm nên cô trả 30 bảng.",
+        "whyWrong": "Lựa chọn a là tổng chưa giảm. Lựa chọn c là riêng giá vé trẻ em, không phải tổng.",
+        "trap": "Câu này cần tính một bước từ tổng tiền và tỉ lệ giảm giá."
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "audioId": "A-N04",
+      "options": [
+        {
+          "id": "a",
+          "text": "37 pounds fifty",
+          "distractorType": "keyword-lift"
+        },
+        {
+          "id": "b",
+          "text": "30 pounds"
+        },
+        {
+          "id": "c",
+          "text": "7 pounds fifty",
+          "distractorType": "partial-truth"
+        },
+        {
+          "id": "d",
+          "text": "20 pounds",
+          "distractorType": "partial-truth"
+        }
+      ]
+    },
+    {
+      "id": "MT3-L-04",
+      "skill": "listening",
+      "questionType": "form",
+      "stem": "The last entry to the exhibition is at {{1}}.",
+      "correct": null,
+      "difficulty": 2,
+      "estimatedSeconds": 45,
+      "tags": [
+        "form",
+        "number"
+      ],
+      "explanation": {
+        "whyCorrect": "Giờ vào cửa cuối cùng là bốn rưỡi chiều.",
+        "whyWrong": "",
+        "trap": ""
+      },
+      "source": "original",
+      "license": "project-original",
+      "reviewedBy": [
+        "content-review"
+      ],
+      "blindSolve": {
+        "solvers": 1,
+        "matched": 1
+      },
+      "lastReviewed": "2026-10-24",
+      "status": "published",
+      "audioId": "A-N04",
+      "blanks": {
+        "1": {
+          "acceptedAnswers": [
+            "four thirty",
+            "4.30",
+            "4:30"
+          ],
+          "maxWords": 2
+        }
+      }
+    }
+  ]
+}
