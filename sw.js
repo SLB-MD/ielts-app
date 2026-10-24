@@ -2,7 +2,7 @@
 // Vo ung dung: precache theo phien ban. JSON noi dung: stale-while-revalidate.
 // Audio: cache-first sau lan dau, ho tro Range 206 cho Safari.
 // Khong cache yeu cau co Authorization. Yeu cau Talk Gateway luon network-only.
-const VERSION = "p0-v1";
+const VERSION = "p0-v2";
 const SHELL = [
   "./",
   "index.html",
