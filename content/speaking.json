@@ -5,19 +5,25 @@
   {"topic": "Work and study", "questions": ["Do you work or are you a student?", "What subject are you studying?", "Why did you choose that subject?", "What do you like most about your work or studies?"]},
   {"topic": "Hometown", "questions": ["Where is your hometown?", "What do you like about living there?", "Has your hometown changed much in recent years?", "Would you like to live there in the future?"]},
   {"topic": "Health and daily routine", "questions": ["What do you usually do to stay healthy?", "Do you have a regular daily routine?", "How often do you visit a doctor or a clinic?", "Do you think you get enough sleep and exercise?"]},
-  {"topic": "Work and transport", "questions": ["How do you usually travel to work or to your place of study?", "How long does that journey take?", "Do you prefer public transport or travelling by motorbike or car?", "What delivery services do you often use in daily life?"]}
+  {"topic": "Work and transport", "questions": ["How do you usually travel to work or to your place of study?", "How long does that journey take?", "Do you prefer public transport or travelling by motorbike or car?", "What delivery services do you often use in daily life?"]},
+  {"topic": "Health", "questions": ["How often do you have a health check-up?", "What kind of exercise do you do regularly?", "Do you try to eat a healthy diet in your daily life?", "What do you usually do when you feel unwell?"]},
+  {"topic": "Shopping and deliveries", "questions": ["Do you often buy things online?", "What was the last item you ordered for delivery?", "How long are you willing to wait for a parcel to arrive?", "Do you prefer home delivery or collecting a parcel yourself?"]}
  ],
  "part2": [
   {"cue": "Describe a skill you learned as a child.", "points": ["say what the skill is", "say who taught you", "say how you learned it", "and explain how useful the skill is today"]},
   {"cue": "Describe a place you visited that you particularly enjoyed.", "points": ["say where the place is", "say when you went there", "say what you did there", "and explain why you enjoyed it"]},
   {"cue": "Describe a person working in healthcare whom you admire.", "points": ["say who the person is", "say what their job involves", "say when you first met them or heard about them", "and explain why you admire them"]},
-  {"cue": "Describe a delivery or a transport journey that you remember well.", "points": ["say what was being delivered or where the journey was", "say who organised it or travelled", "say what happened during the delivery or journey", "and explain why you remember it"]}
+  {"cue": "Describe a delivery or a transport journey that you remember well.", "points": ["say what was being delivered or where the journey was", "say who organised it or travelled", "say what happened during the delivery or journey", "and explain why you remember it"]},
+  {"cue": "Describe a time when a delivery or a package was important to you.", "points": ["say what the package contained", "say who sent it or ordered it for you", "say why it was important", "and explain how you felt when it arrived"]},
+  {"cue": "Describe a new medical treatment or health service you have heard about.", "points": ["say what the treatment or service is", "say how you heard about it", "say who it is designed to help", "and explain why you think it is useful"]}
  ],
  "part3": [
   {"topic": "Learning skills", "questions": ["What skills are most useful for adults in daily life?", "Should schools teach practical skills such as cooking and managing money?", "Can adults learn new skills as easily as children?"]},
   {"topic": "Travel", "questions": ["Why do so many people enjoy travelling to other countries?", "What are the disadvantages of mass tourism?", "Will people travel more or less in the future, in your opinion?"]},
   {"topic": "Healthcare work", "questions": ["What qualities does a good doctor or nurse need?", "Why do some countries find it difficult to train enough medical staff?", "How can technology change the work of people in healthcare?"]},
-  {"topic": "Transport and deliveries", "questions": ["How has online shopping changed the delivery industry in your country?", "What problems can large delivery networks cause for cities?", "Will drones and driverless vehicles replace delivery workers in the future, in your opinion?"]}
+  {"topic": "Transport and deliveries", "questions": ["How has online shopping changed the delivery industry in your country?", "What problems can large delivery networks cause for cities?", "Will drones and driverless vehicles replace delivery workers in the future, in your opinion?"]},
+  {"topic": "Public health", "questions": ["Should governments spend more on preventing illness than on treating people who are already ill?", "How can public campaigns encourage people to eat better and exercise more?", "Do you think regular health check-ups should be free for everyone?"]},
+  {"topic": "Online shopping and delivery services", "questions": ["How has online shopping changed the way people in your country buy everyday goods?", "What problems can very fast delivery services create for workers and for cities?", "Will local shops survive as delivery services continue to grow, in your opinion?"]}
  ],
  "checklist": ["Tôi đã nói đủ thời lượng của phần này?", "Tôi có dùng từ cụ thể thay vì từ chung chung?", "Tôi có cả câu đơn lẫn câu phức?", "Tôi đã nghe lại và nhận ra chỗ mình dừng lâu?"]
 }

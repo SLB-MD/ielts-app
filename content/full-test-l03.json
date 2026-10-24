@@ -1,0 +1,2513 @@
+{
+ "schemaVersion": 1,
+ "kind": "full-test",
+ "id": "FT-L03",
+ "skill": "listening",
+ "title": "Full Listening test 3",
+ "minutes": 40,
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering; difficulty classified per docs/CONTENT_SOURCES_2.md. See docs/CONTENT_SOURCES.md.",
+ "clips": [
+  {
+   "id": "FT-A09",
+   "title": "Section 1: Registering at a health clinic",
+   "audioNote": "transcript",
+   "lines": [
+    {
+     "speaker": "Receptionist",
+     "text": "Good morning, Northfield Health Clinic. How can I help you?"
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "Good morning. I have just moved to this area, and I would like to register with the clinic and see a doctor about my knee."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Of course. Could I take your full name first, please?"
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "It is Daniel Mercer. Mercer is spelled M-E-R-C-E-R."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Thank you, Mr Mercer. And your date of birth?"
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "The fourteenth of March, nineteen eighty-eight."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "And a contact phone number, please?"
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "It is 0774, 221, 908. Oh, sorry, I said that wrong. The last three digits are 980, not 908."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "No problem, I have changed that. Now, what is the problem with your knee?"
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "I have had a pain in my left knee for about three weeks, and it gets worse when I climb stairs."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Dr Patel has a free appointment on Tuesday at twenty past nine."
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "Tuesday morning is difficult, because I take my daughter to school and then go straight to work."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Let me check Thursday instead. There is a free slot at ten forty on Thursday morning with Dr Patel."
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "Thursday at ten forty is perfect, thank you."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Before that appointment, Dr Patel would like you to have a blood test, to check for inflammation."
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "Do I need to prepare for the blood test in any way?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Yes. You must not eat anything for eight hours before the test, although you can drink water."
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "And when will the blood test be?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "The laboratory opens at half past eight, and your test is booked for nine o'clock on Wednesday morning."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "The test normally costs twelve pounds, but patients who register today receive a discount of twenty-five per cent."
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "That is fine. How will I get the results?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "We will send the results by text message within three working days, and Dr Patel will discuss them with you on Thursday."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Please arrive ten minutes before your appointment, and bring some photo identification with you on the first visit."
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "Is there parking at the clinic? I usually drive to appointments."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "There is a small car park behind the building, and the first hour is free for patients."
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "And if my knee gets worse before Thursday, what should I do?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Call us straight away, and a nurse will phone you back to decide whether you need to come in earlier."
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "That is very helpful. One last thing: can I choose to see the same doctor each time?"
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "We try to book you with the same doctor whenever possible, so that your care stays consistent."
+    },
+    {
+     "speaker": "Mr Mercer",
+     "text": "Thank you very much for your help."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "You are welcome, Mr Mercer. We look forward to seeing you on Wednesday for the blood test."
+    }
+   ]
+  },
+  {
+   "id": "FT-A10",
+   "title": "Section 2: An open day at a distribution centre",
+   "audioNote": "transcript",
+   "lines": [
+    {
+     "speaker": "Guide",
+     "text": "Welcome to the Northgate Distribution Centre, and thank you for joining one of our public open days."
+    },
+    {
+     "speaker": "Guide",
+     "text": "This is the largest of the company's five distribution centres, and it opened in twenty nineteen."
+    },
+    {
+     "speaker": "Guide",
+     "text": "The warehouse covers forty-five thousand square metres, roughly the size of six football pitches."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Around three hundred and twenty people work here, in shifts that cover twenty-four hours a day."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Every day, about sixty lorries arrive at the loading bays, bringing goods from ports and factories across the country."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Inside the warehouse, thirty-two robots move shelves to the packing stations, so staff no longer walk long distances."
+    },
+    {
+     "speaker": "Guide",
+     "text": "During the busiest periods, these robots can sort up to nine hundred parcels an hour."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Until last year, the centre handled about twelve thousand parcels a day, but that figure has now risen to fifteen thousand."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Before the tour begins, please put on the yellow jacket we give you, and stay with your guide at all times."
+    },
+    {
+     "speaker": "Guide",
+     "text": "For safety reasons, visitors are not allowed to take photographs in the robot zone."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Tours used to start at the main gate, but from this month, all tours start here at the visitor reception."
+    },
+    {
+     "speaker": "Guide",
+     "text": "The guided tour lasts ninety minutes, and it ends with a short film of twenty-five minutes about the history of the company."
+    },
+    {
+     "speaker": "Guide",
+     "text": "The normal price of the tour is ten pounds, but today, for the open day, every visitor receives a discount of twenty per cent."
+    },
+    {
+     "speaker": "Guide",
+     "text": "On the roof, you can see one thousand, two hundred solar panels, which provide a third of the centre's electricity."
+    },
+    {
+     "speaker": "Guide",
+     "text": "At the end of the tour, the cafe serves hot drinks and light meals, and it closes at half past five."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Finally, if you are interested in working here, application forms are available at the reception desk."
+    },
+    {
+     "speaker": "Guide",
+     "text": "The centre is open for public tours every Saturday, and school groups are welcome on weekdays by arrangement."
+    },
+    {
+     "speaker": "Guide",
+     "text": "A family ticket for two adults and two children costs twenty-five pounds on normal days, which is cheaper than buying separate tickets."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Visitors who arrive by train can take the free shuttle bus from Mill Road station, which leaves every thirty minutes."
+    },
+    {
+     "speaker": "Guide",
+     "text": "In the delivery yard, you can watch the lorries being loaded through the glass wall of the viewing platform."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Each lorry is checked by computer before it leaves, so the driver always takes the fastest route for that day."
+    },
+    {
+     "speaker": "Guide",
+     "text": "The centre also runs a training programme, and last year it trained forty new lorry drivers for the company."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Before you leave, please return your yellow jacket to the desk, and collect a printed visitor badge as a souvenir."
+    },
+    {
+     "speaker": "Guide",
+     "text": "Tours for the afternoon begin at two o'clock, and booking online is strongly recommended at weekends."
+    }
+   ]
+  },
+  {
+   "id": "FT-A11",
+   "title": "Section 3: Planning a research project on sleep and memory",
+   "audioNote": "transcript",
+   "lines": [
+    {
+     "speaker": "Tutor",
+     "text": "Come in, Mia and Tom. Let us talk about your research project on sleep and learning."
+    },
+    {
+     "speaker": "Mia",
+     "text": "We have decided to study how sleep affects students' memory before examinations."
+    },
+    {
+     "speaker": "Tom",
+     "text": "At first, we wanted to include all the students at the university, but that group is far too large for one project."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "I agree with you. You should narrow the group down. Why not focus on students who also have part-time jobs?"
+    },
+    {
+     "speaker": "Mia",
+     "text": "That is a good suggestion, because those students often sleep fewer hours than other students."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Our first plan was to send a questionnaire to two hundred students, but in the end only one hundred and twenty returned it."
+    },
+    {
+     "speaker": "Mia",
+     "text": "So instead, we will ask thirty volunteers to keep a sleep diary for fourteen nights, spending about five minutes on each entry."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Thirty diaries will give us detailed daily information, which the questionnaire could not provide."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "That sounds workable. But how will you measure memory itself?"
+    },
+    {
+     "speaker": "Mia",
+     "text": "Each morning, the volunteers will learn a list of twenty words, and in the evening they will try to recall as many as possible."
+    },
+    {
+     "speaker": "Tom",
+     "text": "I am not sure interviews are a good idea, because they would take far too long to analyse."
+    },
+    {
+     "speaker": "Mia",
+     "text": "I partly agree with you, Tom, but a few short interviews would help us explain the diary results."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Then do both. Use the diaries as your main source of data, and add just four short interviews."
+    },
+    {
+     "speaker": "Tom",
+     "text": "I will collect the diaries and the word-test scores every Friday."
+    },
+    {
+     "speaker": "Mia",
+     "text": "And I will present the results in charts, because I am quicker than Tom with the statistics software."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "One more thing. Your presentation was planned for the tenth of June, but the department has moved it to the seventeenth of June."
+    },
+    {
+     "speaker": "Mia",
+     "text": "That is good news. The change gives us an extra week to finish the analysis."
+    },
+    {
+     "speaker": "Tom",
+     "text": "We also need to get permission from the ethics committee before we can start."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Yes, that is essential. Submit the application form by Monday, and you can begin the following week."
+    },
+    {
+     "speaker": "Mia",
+     "text": "Thank you, Dr Shah. We will send you the final plan by email tomorrow."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Before you go, decide who will write each section of the report."
+    },
+    {
+     "speaker": "Mia",
+     "text": "I will write the introduction and the results section, if that is all right with Tom."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Yes, and I will describe the method and keep a record of every meeting we have."
+    },
+    {
+     "speaker": "Tutor",
+     "text": "Good. You can also book one of the small study rooms in the library for your Friday meetings."
+    },
+    {
+     "speaker": "Mia",
+     "text": "How long should the final report be?"
+    },
+    {
+     "speaker": "Tutor",
+     "text": "About three thousand words, not counting the charts or the diary extracts in the appendix."
+    },
+    {
+     "speaker": "Tom",
+     "text": "We will book the room for Friday and start designing the diary page this week."
+    }
+   ]
+  },
+  {
+   "id": "FT-A12",
+   "title": "Section 4: A lecture on the history of food preservation",
+   "audioNote": "transcript",
+   "lines": [
+    {
+     "speaker": "Lecturer",
+     "text": "In this lecture, I will trace the development of food preservation, from the earliest drying racks to the freezers of today."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "The oldest method of all is drying. In hot, dry regions, people spread meat, fish and fruit in the sun, removing the water that bacteria need in order to grow."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Salting was equally important in the ancient world, because salt draws water out of food and creates conditions in which most bacteria cannot survive."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Salted fish could be traded over long distances, so reliable supplies of salt became extremely valuable to ancient markets."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "A third ancient technique is fermentation, in which useful bacteria or yeasts change the food itself and protect it from harmful organisms."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "For centuries, wealthy households also stored ice, cut from frozen lakes in winter, in deep pits lined with straw."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "A major change came in eighteen hundred and nine, when a French cook, Nicolas Appert, won a government prize for preserving food in sealed glass bottles heated in water."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Only a year later, in England, Peter Durand patented the tin can, which was stronger than glass but far more difficult to open."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "At that time, nobody understood why heating preserved food, because the role of bacteria in spoiling food was still unknown."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "The explanation came in the eighteen sixties, when Louis Pasteur showed that gentle heating killed the bacteria that spoiled wine."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "His method, now known as pasteurisation, was soon applied to milk, and it greatly reduced the spread of disease through milk."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Mechanical refrigeration spread during the late nineteenth century, and it allowed ships to carry frozen meat between continents."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "In the nineteen twenties, Clarence Birdseye developed quick freezing, which preserved the texture of fish and vegetables far better than slow freezing had done."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Finally, freeze-drying, which removes water from already frozen food, became common in the middle of the twentieth century, first for medicines and later for instant coffee."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Each method, then, rests on the same simple principle: bacteria must be stopped from growing, whether by removing water, adding salt, heating or cooling the food."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "The nineteenth century also saw a huge international trade in natural ice, which was cut in North America and shipped as far as India."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "The ice was packed in sawdust to slow the melting, and a surprising share of each cargo still arrived in usable condition."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Today, of course, most preserved food relies on a combination of methods rather than a single one."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "A ready meal, for example, may be cooked, sealed without air, and then kept at a low temperature throughout its journey to the shop."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Understanding these older techniques is still useful, because they show how each generation solved the same problem with the materials it had."
+    },
+    {
+     "speaker": "Lecturer",
+     "text": "Next week, we will turn to the modern cold chain, and to the energy costs of keeping food cold from factory to table."
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "FT-L3-001",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Patient's surname: {{1}}",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "spelling"
+   ],
+   "explanation": {
+    "whyCorrect": "Họ của bệnh nhân được đánh vần rõ ràng là M-E-R-C-E-R.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A09",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "Mercer"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A09",
+      "sentenceIndex": 4,
+      "quote": "Mercer is spelled M-E-R-C-E-R"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A09",
+    "sentenceIndex": 4,
+    "quote": "Mercer is spelled M-E-R-C-E-R"
+   }
+  },
+  {
+   "id": "FT-L3-002",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Date of birth: {{1}} March 1988",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Bệnh nhân sinh ngày mười bốn tháng Ba năm một nghìn chín trăm tám mươi tám.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A09",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "14",
+      "fourteenth"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A09",
+      "sentenceIndex": 6,
+      "quote": "The fourteenth of March, nineteen eighty-eight"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A09",
+    "sentenceIndex": 6,
+    "quote": "The fourteenth of March, nineteen eighty-eight"
+   }
+  },
+  {
+   "id": "FT-L3-003",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Contact phone number: {{1}}",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Số điện thoại đúng là 0774 221 980 sau khi bệnh nhân sửa lại ba chữ số cuối.",
+    "whyWrong": "",
+    "trap": "Người nói đọc sai ba số cuối rồi tự sửa ngay; phải ghi số đã sửa là 980."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A09",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "0774 221 980"
+     ],
+     "maxWords": 3,
+     "evidence": {
+      "paragraphId": "FT-A09",
+      "sentenceIndex": 8,
+      "quote": "The last three digits are 980, not 908"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A09",
+    "sentenceIndex": 8,
+    "quote": "The last three digits are 980, not 908"
+   }
+  },
+  {
+   "id": "FT-L3-004",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Why does Mr Mercer want to see a doctor?",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Ông Mercer bị đau đầu gối trái khoảng ba tuần và muốn khám về vấn đề này.",
+    "whyWrong": "Bài nói chỉ nhắc tới đầu gối trái; lưng không xuất hiện và công việc chỉ là lý do ông bận buổi sáng.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A09",
+   "options": [
+    {
+     "id": "a",
+     "text": "a pain in his right knee",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "b",
+     "text": "a pain in his left knee"
+    },
+    {
+     "id": "c",
+     "text": "a pain in his back",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "an injury he got at work",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A09",
+    "sentenceIndex": 10,
+    "quote": "I have had a pain in my left knee"
+   }
+  },
+  {
+   "id": "FT-L3-005",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "When is the appointment with Dr Patel?",
+   "correct": "b",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "distractor-corrected",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Lịch hẹn cuối cùng được chốt vào mười giờ bốn mươi sáng thứ Năm với bác sĩ Patel.",
+    "whyWrong": "Giờ thứ Ba bị bệnh nhân từ chối; chín giờ thứ Tư là giờ xét nghiệm máu, không phải giờ khám.",
+    "trap": "Giờ thứ Ba được đưa ra trước nhưng bị từ chối; phải lấy lịch hẹn cuối cùng vào thứ Năm."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A09",
+   "options": [
+    {
+     "id": "a",
+     "text": "Tuesday at 9.20",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "b",
+     "text": "Thursday at 10.40"
+    },
+    {
+     "id": "c",
+     "text": "Wednesday at 9.00",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "Thursday at 9.20",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A09",
+    "sentenceIndex": 13,
+    "quote": "a free slot at ten forty on Thursday morning"
+   }
+  },
+  {
+   "id": "FT-L3-006",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Before the blood test, Mr Mercer must not {{1}} anything for eight hours.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Trước xét nghiệm máu, bệnh nhân không được ăn gì trong tám giờ, nhưng được uống nước.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A09",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "eat"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A09",
+      "sentenceIndex": 17,
+      "quote": "You must not eat anything for eight hours"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A09",
+    "sentenceIndex": 17,
+    "quote": "You must not eat anything for eight hours"
+   }
+  },
+  {
+   "id": "FT-L3-007",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Cost of the blood test after today's discount: £{{1}}",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "form",
+    "calculation",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Giá gốc của xét nghiệm là 12 bảng, giảm 25 phần trăm tức 3 bảng, nên bệnh nhân trả 9 bảng.",
+    "whyWrong": "",
+    "trap": "Phải trừ 25 phần trăm của 12 bảng trước khi ghi đáp án, không ghi nguyên giá gốc."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A09",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "9"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A09",
+      "sentenceIndex": 20,
+      "quote": "The test normally costs twelve pounds, but patients who register today receive a discount of twenty-five per cent"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A09",
+    "sentenceIndex": 20,
+    "quote": "The test normally costs twelve pounds, but patients who register today receive a discount of twenty-five per cent"
+   }
+  },
+  {
+   "id": "FT-L3-008",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "When is the blood test?",
+   "correct": "c",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Xét nghiệm máu được đặt lúc chín giờ sáng thứ Tư tại phòng xét nghiệm.",
+    "whyWrong": "Tám giờ rưỡi là giờ phòng xét nghiệm mở cửa; mười giờ bốn mươi thứ Năm là giờ khám bệnh.",
+    "trap": "Phải phân biệt giờ mở cửa của phòng xét nghiệm với giờ lấy máu của bệnh nhân."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A09",
+   "options": [
+    {
+     "id": "a",
+     "text": "Wednesday at 8.30",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "b",
+     "text": "Thursday at 10.40",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "Wednesday at 9.00"
+    },
+    {
+     "id": "d",
+     "text": "Tuesday at 9.20",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A09",
+    "sentenceIndex": 19,
+    "quote": "your test is booked for nine o'clock on Wednesday morning"
+   }
+  },
+  {
+   "id": "FT-L3-009",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "The knee pain gets worse when Mr Mercer climbs {{1}}.",
+   "correct": null,
+   "difficulty": 1,
+   "estimatedSeconds": 35,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Cơn đau đầu gối nặng hơn mỗi khi bệnh nhân leo cầu thang.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A09",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "stairs"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A09",
+      "sentenceIndex": 10,
+      "quote": "it gets worse when I climb stairs"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A09",
+    "sentenceIndex": 10,
+    "quote": "it gets worse when I climb stairs"
+   }
+  },
+  {
+   "id": "FT-L3-010",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How will Mr Mercer receive the blood test results?",
+   "correct": "a",
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Kết quả xét nghiệm sẽ được phòng khám gửi bằng tin nhắn văn bản trong ba ngày làm việc.",
+    "whyWrong": "Email, thư bưu điện và cuộc gọi điện thoại đều không được nhắc tới trong cuộc nói chuyện.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A09",
+   "options": [
+    {
+     "id": "a",
+     "text": "by text message"
+    },
+    {
+     "id": "b",
+     "text": "by email",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "by post",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "by phone call",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A09",
+    "sentenceIndex": 22,
+    "quote": "We will send the results by text message"
+   }
+  },
+  {
+   "id": "FT-L3-011",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "The warehouse covers {{1}} square metres.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Nhà kho rộng bốn mươi lăm nghìn mét vuông, tương đương khoảng sáu sân bóng đá.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A10",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "45,000",
+      "45000"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A10",
+      "sentenceIndex": 3,
+      "quote": "covers forty-five thousand square metres"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A10",
+    "sentenceIndex": 3,
+    "quote": "covers forty-five thousand square metres"
+   }
+  },
+  {
+   "id": "FT-L3-012",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Number of people working at the centre: {{1}}",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 35,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Khoảng ba trăm hai mươi người làm việc tại trung tâm theo ca suốt ngày đêm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A10",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "320"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A10",
+      "sentenceIndex": 4,
+      "quote": "three hundred and twenty people work here"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A10",
+    "sentenceIndex": 4,
+    "quote": "three hundred and twenty people work here"
+   }
+  },
+  {
+   "id": "FT-L3-013",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How many lorries arrive at the centre each day?",
+   "correct": "a",
+   "difficulty": 2,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Mỗi ngày có khoảng sáu mươi xe tải đến các bến bốc hàng của trung tâm.",
+    "whyWrong": "Ba mươi hai là số robot trong kho; các con số còn lại không xuất hiện trong bài nói.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A10",
+   "options": [
+    {
+     "id": "a",
+     "text": "about sixty"
+    },
+    {
+     "id": "b",
+     "text": "about sixteen",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "thirty-two",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "one hundred and twenty",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A10",
+    "sentenceIndex": 5,
+    "quote": "about sixty lorries arrive at the loading bays"
+   }
+  },
+  {
+   "id": "FT-L3-014",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "The robots move {{1}} to the packing stations.",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Robot di chuyển các kệ hàng tới trạm đóng gói để nhân viên không phải đi bộ xa.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A10",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "shelves"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A10",
+      "sentenceIndex": 6,
+      "quote": "robots move shelves to the packing stations"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A10",
+    "sentenceIndex": 6,
+    "quote": "robots move shelves to the packing stations"
+   }
+  },
+  {
+   "id": "FT-L3-015",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Maximum number of parcels the robots can sort in one hour: {{1}}",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Vào giờ cao điểm, robot phân loại được tối đa chín trăm bưu kiện mỗi giờ.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A10",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "900"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A10",
+      "sentenceIndex": 7,
+      "quote": "sort up to nine hundred parcels an hour"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A10",
+    "sentenceIndex": 7,
+    "quote": "sort up to nine hundred parcels an hour"
+   }
+  },
+  {
+   "id": "FT-L3-016",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How many parcels does the centre handle each day now?",
+   "correct": "c",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "distractor-corrected",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Số bưu kiện mỗi ngày hiện đã tăng lên mười lăm nghìn.",
+    "whyWrong": "Mười hai nghìn là số liệu của năm trước; chín trăm là năng suất theo giờ của robot.",
+    "trap": "Người nói nêu con số cũ trước rồi mới cập nhật; phải lấy con số hiện tại sau từ now."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A10",
+   "options": [
+    {
+     "id": "a",
+     "text": "nine hundred",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "twelve thousand",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "c",
+     "text": "fifteen thousand"
+    },
+    {
+     "id": "d",
+     "text": "forty-five thousand",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A10",
+    "sentenceIndex": 8,
+    "quote": "that figure has now risen to fifteen thousand"
+   }
+  },
+  {
+   "id": "FT-L3-017",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Where do the tours start now?",
+   "correct": "b",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "distractor-corrected"
+   ],
+   "explanation": {
+    "whyCorrect": "Từ tháng này, mọi chuyến tham quan bắt đầu tại khu tiếp tân dành cho khách.",
+    "whyWrong": "Cổng chính là điểm bắt đầu cũ đã bị thay đổi; quán cà phê và bến bốc hàng chỉ là các điểm dừng khác.",
+    "trap": "Điểm bắt đầu đã đổi từ cổng chính sang khu tiếp tân; phải nghe thông tin sau cụm from this month."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A10",
+   "options": [
+    {
+     "id": "a",
+     "text": "at the main gate",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "b",
+     "text": "at the visitor reception"
+    },
+    {
+     "id": "c",
+     "text": "at the cafe",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "at the loading bays",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A10",
+    "sentenceIndex": 11,
+    "quote": "from this month, all tours start here at the visitor reception"
+   }
+  },
+  {
+   "id": "FT-L3-018",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Visitors are not allowed to take photographs in the {{1}} zone.",
+   "correct": null,
+   "difficulty": 2,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Vì lý do an toàn, khách không được chụp ảnh trong khu vực robot hoạt động.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A10",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "robot"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A10",
+      "sentenceIndex": 10,
+      "quote": "not allowed to take photographs in the robot zone"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A10",
+    "sentenceIndex": 10,
+    "quote": "not allowed to take photographs in the robot zone"
+   }
+  },
+  {
+   "id": "FT-L3-019",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Price of the tour today, after the discount: £{{1}}",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "form",
+    "calculation",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Giá thường là 10 bảng, hôm nay giảm 20 phần trăm tức 2 bảng, nên khách trả 8 bảng.",
+    "whyWrong": "",
+    "trap": "Phải trừ 20 phần trăm của giá gốc trước khi ghi đáp án."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A10",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "8"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A10",
+      "sentenceIndex": 13,
+      "quote": "The normal price of the tour is ten pounds, but today, for the open day, every visitor receives a discount of twenty per cent"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A10",
+    "sentenceIndex": 13,
+    "quote": "The normal price of the tour is ten pounds, but today, for the open day, every visitor receives a discount of twenty per cent"
+   }
+  },
+  {
+   "id": "FT-L3-020",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What provides a third of the centre's electricity?",
+   "correct": "d",
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Các tấm pin mặt trời trên mái cung cấp một phần ba lượng điện của trung tâm.",
+    "whyWrong": "Robot chỉ dùng điện chứ không tạo ra điện; tuabin gió không hề được nhắc tới.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A10",
+   "options": [
+    {
+     "id": "a",
+     "text": "the robots",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "the cafe roof",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "a wind turbine",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "solar panels on the roof"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A10",
+    "sentenceIndex": 14,
+    "quote": "solar panels, which provide a third of the centre's electricity"
+   }
+  },
+  {
+   "id": "FT-L3-021",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What is the subject of the students' research?",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 45,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Nhóm nghiên cứu cách giấc ngủ ảnh hưởng tới trí nhớ của sinh viên trước kỳ thi.",
+    "whyWrong": "Việc làm thêm chỉ là nhóm đối tượng được gợi ý; hướng ảnh hưởng ngược lại không phải đề tài của nhóm.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A11",
+   "options": [
+    {
+     "id": "a",
+     "text": "how sleep affects students' memory"
+    },
+    {
+     "id": "b",
+     "text": "why students take part-time jobs",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "how examinations affect students' sleep",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "how students learn foreign languages",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A11",
+    "sentenceIndex": 2,
+    "quote": "study how sleep affects students' memory before examinations"
+   }
+  },
+  {
+   "id": "FT-L3-022",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Which group does the tutor suggest the students study?",
+   "correct": "c",
+   "difficulty": 4,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "distractor-corrected"
+   ],
+   "explanation": {
+    "whyCorrect": "Giảng viên gợi ý thu hẹp đối tượng thành sinh viên có việc làm thêm.",
+    "whyWrong": "Toàn bộ sinh viên là phạm vi ban đầu bị chê quá rộng; nhóm ngủ ít giờ là nhận xét phụ của Mia.",
+    "trap": "Phải nghe gợi ý thu hẹp phạm vi của giảng viên, không giữ phạm vi ban đầu của sinh viên."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A11",
+   "options": [
+    {
+     "id": "a",
+     "text": "all students at the university",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "b",
+     "text": "students who sleep the fewest hours",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "c",
+     "text": "students who have part-time jobs"
+    },
+    {
+     "id": "d",
+     "text": "students preparing for examinations",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A11",
+    "sentenceIndex": 4,
+    "quote": "Why not focus on students who also have part-time jobs?"
+   }
+  },
+  {
+   "id": "FT-L3-023",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Number of questionnaires returned: {{1}}",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Chỉ một trăm hai mươi bảng hỏi được trả về dù kế hoạch ban đầu là hai trăm.",
+    "whyWrong": "",
+    "trap": "Hai trăm là số dự định gửi đi; đáp án cần số bảng hỏi thực tế được trả về."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A11",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "120"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A11",
+      "sentenceIndex": 6,
+      "quote": "only one hundred and twenty returned it"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A11",
+    "sentenceIndex": 6,
+    "quote": "only one hundred and twenty returned it"
+   }
+  },
+  {
+   "id": "FT-L3-024",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Number of volunteers keeping a sleep diary: {{1}}",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Nhóm sẽ mời ba mươi tình nguyện viên ghi nhật ký giấc ngủ trong mười bốn đêm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A11",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "30"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A11",
+      "sentenceIndex": 7,
+      "quote": "we will ask thirty volunteers to keep a sleep diary"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A11",
+    "sentenceIndex": 7,
+    "quote": "we will ask thirty volunteers to keep a sleep diary"
+   }
+  },
+  {
+   "id": "FT-L3-025",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How much time in total will each volunteer spend writing the sleep diary?",
+   "correct": "b",
+   "difficulty": 4,
+   "estimatedSeconds": 55,
+   "tags": [
+    "mcq",
+    "calculation",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Mỗi tình nguyện viên ghi nhật ký mười bốn đêm, mỗi lần khoảng năm phút, tổng cộng bảy mươi phút.",
+    "whyWrong": "Mười bốn là số đêm và ba mươi là số tình nguyện viên; không con số nào trong số đó là tổng thời gian.",
+    "trap": "Phải nhân số đêm với thời gian mỗi lần ghi mới ra tổng thời gian của một tình nguyện viên."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A11",
+   "options": [
+    {
+     "id": "a",
+     "text": "fourteen minutes",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "b",
+     "text": "seventy minutes"
+    },
+    {
+     "id": "c",
+     "text": "fifty minutes",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "thirty minutes",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A11",
+    "sentenceIndex": 7,
+    "quote": "keep a sleep diary for fourteen nights, spending about five minutes on each entry"
+   }
+  },
+  {
+   "id": "FT-L3-026",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What is Tom's opinion of interviews?",
+   "correct": "d",
+   "difficulty": 4,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Tom cho rằng phỏng vấn sẽ tốn quá nhiều thời gian để phân tích nên không hào hứng.",
+    "whyWrong": "Tom không nói phỏng vấn bị cấm hay nên thay thế nhật ký; anh chỉ lo về thời gian phân tích.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A11",
+   "options": [
+    {
+     "id": "a",
+     "text": "They are the quickest method to analyse.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "They are not allowed by the university.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "They should replace the sleep diaries.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "They would take too long to analyse."
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A11",
+    "sentenceIndex": 11,
+    "quote": "they would take far too long to analyse"
+   }
+  },
+  {
+   "id": "FT-L3-027",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "How does Mia respond to Tom's view on interviews?",
+   "correct": "a",
+   "difficulty": 4,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Mia đồng ý một phần với Tom nhưng vẫn muốn làm vài cuộc phỏng vấn ngắn để giải thích kết quả.",
+    "whyWrong": "Mia không phản đối hoàn toàn, cũng không đòi thay nhật ký bằng phỏng vấn hay nhắc tới chi phí.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A11",
+   "options": [
+    {
+     "id": "a",
+     "text": "She partly agrees but still wants a few short interviews."
+    },
+    {
+     "id": "b",
+     "text": "She completely disagrees with him.",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "c",
+     "text": "She wants interviews instead of diaries.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "She thinks interviews cost too much money.",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A11",
+    "sentenceIndex": 12,
+    "quote": "I partly agree with you, Tom, but a few short interviews would help us"
+   }
+  },
+  {
+   "id": "FT-L3-028",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Number of interviews the tutor suggests: {{1}}",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 40,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Giảng viên đề nghị chỉ thêm bốn cuộc phỏng vấn ngắn bên cạnh nhật ký giấc ngủ.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A11",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "4",
+      "four"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A11",
+      "sentenceIndex": 13,
+      "quote": "add just four short interviews"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A11",
+    "sentenceIndex": 13,
+    "quote": "add just four short interviews"
+   }
+  },
+  {
+   "id": "FT-L3-029",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "When will the students give their presentation?",
+   "correct": "c",
+   "difficulty": 4,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq",
+    "distractor-corrected"
+   ],
+   "explanation": {
+    "whyCorrect": "Buổi thuyết trình đã được khoa dời sang ngày mười bảy tháng Sáu.",
+    "whyWrong": "Ngày mười là kế hoạch cũ; thứ Hai là hạn nộp đơn đạo đức và ngày mai là hạn gửi kế hoạch.",
+    "trap": "Phải lấy ngày sau khi khoa thay đổi lịch, không lấy ngày dự kiến ban đầu."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A11",
+   "options": [
+    {
+     "id": "a",
+     "text": "10 June",
+     "distractorType": "distractor-corrected"
+    },
+    {
+     "id": "b",
+     "text": "the following Monday",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "17 June"
+    },
+    {
+     "id": "d",
+     "text": "tomorrow",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A11",
+    "sentenceIndex": 16,
+    "quote": "the department has moved it to the seventeenth of June"
+   }
+  },
+  {
+   "id": "FT-L3-030",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "The students need permission from the {{1}} committee before they start.",
+   "correct": null,
+   "difficulty": 3,
+   "estimatedSeconds": 40,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Nhóm phải xin phép ủy ban đạo đức trước khi bắt đầu thu thập dữ liệu.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A11",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "ethics"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A11",
+      "sentenceIndex": 18,
+      "quote": "get permission from the ethics committee"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A11",
+    "sentenceIndex": 18,
+    "quote": "get permission from the ethics committee"
+   }
+  },
+  {
+   "id": "FT-L3-031",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "The oldest method of preserving food is {{1}}.",
+   "correct": null,
+   "difficulty": 4,
+   "estimatedSeconds": 45,
+   "tags": [
+    "form"
+   ],
+   "explanation": {
+    "whyCorrect": "Phơi khô là phương pháp bảo quản thực phẩm lâu đời nhất mà bài giảng nêu.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A12",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "drying"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A12",
+      "sentenceIndex": 2,
+      "quote": "The oldest method of all is drying"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A12",
+    "sentenceIndex": 2,
+    "quote": "The oldest method of all is drying"
+   }
+  },
+  {
+   "id": "FT-L3-032",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Salt preserves food because it draws {{1}} out of the food.",
+   "correct": null,
+   "difficulty": 4,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Muối rút nước ra khỏi thực phẩm, khiến hầu hết vi khuẩn không thể sống sót.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A12",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "water"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A12",
+      "sentenceIndex": 3,
+      "quote": "salt draws water out of food"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A12",
+    "sentenceIndex": 3,
+    "quote": "salt draws water out of food"
+   }
+  },
+  {
+   "id": "FT-L3-033",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Why did salt become extremely valuable in ancient markets?",
+   "correct": "b",
+   "difficulty": 4,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Cá muối có thể buôn bán qua quãng đường dài nên muối trở nên rất có giá trị.",
+    "whyWrong": "Bài giảng không nói muối là cách duy nhất để ướp thịt; băng trong hố thuộc về các hộ giàu, không liên quan muối.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A12",
+   "options": [
+    {
+     "id": "a",
+     "text": "It was used to preserve ice.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "Salted fish could be traded over long distances."
+    },
+    {
+     "id": "c",
+     "text": "It was the only way to preserve meat.",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "d",
+     "text": "Wealthy households used it in their ice pits.",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A12",
+    "sentenceIndex": 4,
+    "quote": "Salted fish could be traded over long distances"
+   }
+  },
+  {
+   "id": "FT-L3-034",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "In fermentation, useful bacteria or {{1}} change the food.",
+   "correct": null,
+   "difficulty": 4,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Trong lên men, vi khuẩn có lợi hoặc nấm men làm biến đổi và bảo vệ thực phẩm.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A12",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "yeasts"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A12",
+      "sentenceIndex": 5,
+      "quote": "useful bacteria or yeasts change the food"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A12",
+    "sentenceIndex": 5,
+    "quote": "useful bacteria or yeasts change the food"
+   }
+  },
+  {
+   "id": "FT-L3-035",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "Where was ice stored by wealthy households?",
+   "correct": "a",
+   "difficulty": 4,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Các hộ giàu trữ băng trong những hố sâu lót rơm sau khi cắt băng từ hồ đóng băng.",
+    "whyWrong": "Hồ là nơi cắt băng chứ không phải nơi trữ; chai thủy tinh và lon thiếc thuộc về giai đoạn sau.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A12",
+   "options": [
+    {
+     "id": "a",
+     "text": "in deep pits lined with straw"
+    },
+    {
+     "id": "b",
+     "text": "in sealed glass bottles",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "in frozen lakes",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "in tin cans",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A12",
+    "sentenceIndex": 6,
+    "quote": "stored ice, cut from frozen lakes in winter, in deep pits lined with straw"
+   }
+  },
+  {
+   "id": "FT-L3-036",
+   "skill": "listening",
+   "questionType": "form",
+   "stem": "Year in which Appert won the government prize: {{1}}",
+   "correct": null,
+   "difficulty": 4,
+   "estimatedSeconds": 45,
+   "tags": [
+    "form",
+    "number"
+   ],
+   "explanation": {
+    "whyCorrect": "Nicolas Appert giành giải thưởng của chính phủ vào năm 1809 nhờ chai thủy tinh đậy kín đun trong nước.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A12",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "1809"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A12",
+      "sentenceIndex": 7,
+      "quote": "in eighteen hundred and nine, when a French cook, Nicolas Appert, won a government prize"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A12",
+    "sentenceIndex": 7,
+    "quote": "in eighteen hundred and nine, when a French cook, Nicolas Appert, won a government prize"
+   }
+  },
+  {
+   "id": "FT-L3-037",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What disadvantage did the tin can have, compared with glass bottles?",
+   "correct": "d",
+   "difficulty": 4,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Lon thiếc bền hơn chai thủy tinh nhưng khó mở hơn nhiều, đó là nhược điểm được nêu.",
+    "whyWrong": "Lon thiếc không yếu hơn thủy tinh; bài giảng không nói lon không đun được hay bảo quản kém hơn.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A12",
+   "options": [
+    {
+     "id": "a",
+     "text": "It was weaker than glass.",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "b",
+     "text": "It could not be heated in water.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "It preserved food for a shorter time.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "It was far more difficult to open."
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A12",
+    "sentenceIndex": 8,
+    "quote": "stronger than glass but far more difficult to open"
+   }
+  },
+  {
+   "id": "FT-L3-038",
+   "skill": "listening",
+   "questionType": "sentence",
+   "stem": "Pasteur showed that gentle heating killed the {{1}} that spoiled wine.",
+   "correct": null,
+   "difficulty": 4,
+   "estimatedSeconds": 45,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Pasteur chứng minh đun nóng nhẹ tiêu diệt vi khuẩn làm hỏng rượu vang.",
+    "whyWrong": "",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A12",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "bacteria"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-A12",
+      "sentenceIndex": 10,
+      "quote": "gentle heating killed the bacteria that spoiled wine"
+     }
+    }
+   },
+   "evidence": {
+    "paragraphId": "FT-A12",
+    "sentenceIndex": 10,
+    "quote": "gentle heating killed the bacteria that spoiled wine"
+   }
+  },
+  {
+   "id": "FT-L3-039",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What was the main advantage of quick freezing over slow freezing?",
+   "correct": "c",
+   "difficulty": 4,
+   "estimatedSeconds": 50,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Cấp đông nhanh giữ được kết cấu của cá và rau tốt hơn hẳn cấp đông chậm.",
+    "whyWrong": "Vận chuyển thịt bằng tàu và giảm bệnh qua sữa thuộc về tủ lạnh cơ học và thanh trùng, không phải cấp đông nhanh.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A12",
+   "options": [
+    {
+     "id": "a",
+     "text": "It made frozen food cheaper to transport.",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "b",
+     "text": "It allowed ships to carry meat between continents.",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "It preserved the texture of food much better."
+    },
+    {
+     "id": "d",
+     "text": "It reduced diseases carried in milk.",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A12",
+    "sentenceIndex": 13,
+    "quote": "quick freezing, which preserved the texture of fish and vegetables far better than slow freezing"
+   }
+  },
+  {
+   "id": "FT-L3-040",
+   "skill": "listening",
+   "questionType": "mcq",
+   "stem": "What principle lies behind all the methods described?",
+   "correct": "a",
+   "difficulty": 4,
+   "estimatedSeconds": 55,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Mọi phương pháp đều dựa trên một nguyên tắc chung: ngăn vi khuẩn phát triển.",
+    "whyWrong": "Rút nước, đun nóng hay làm lạnh chỉ là từng cách riêng lẻ; không phương pháp nào áp dụng cho mọi trường hợp.",
+    "trap": ""
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "audioId": "FT-A12",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bacteria must be stopped from growing."
+    },
+    {
+     "id": "b",
+     "text": "All food must be heated before storage.",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "c",
+     "text": "Water must be removed from all food.",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "Food must be kept as cold as possible.",
+     "distractorType": "partial-truth"
+    }
+   ],
+   "evidence": {
+    "paragraphId": "FT-A12",
+    "sentenceIndex": 15,
+    "quote": "bacteria must be stopped from growing"
+   }
+  }
+ ]
+}

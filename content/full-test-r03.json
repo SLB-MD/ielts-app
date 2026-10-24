@@ -1,0 +1,2398 @@
+{
+ "schemaVersion": 1,
+ "kind": "full-test",
+ "id": "FT-R03",
+ "skill": "reading",
+ "title": "Full Reading test 3",
+ "minutes": 60,
+ "standardsBasis": "IELTS Academic format (ielts.org); CEFR (Council of Europe); NGSL/AWL for vocabulary ordering; difficulty classified per docs/CONTENT_SOURCES_2.md section 5. See docs/CONTENT_SOURCES.md.",
+ "passages": [
+  {
+   "id": "FT-P07",
+   "title": "The Conquest of Pain: How Anaesthesia Changed Surgery",
+   "genre": "history of medicine",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "FT-P07-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "For most of surgical history, the greatest obstacle facing a surgeon was not ignorance of anatomy but the agony of the patient on the table."
+      },
+      {
+       "index": 2,
+       "text": "Operations were restricted to procedures that could be completed in a few minutes, such as amputations, the removal of bladder stones and the draining of abscesses."
+      },
+      {
+       "index": 3,
+       "text": "Anything more ambitious was almost unthinkable, because a conscious patient could rarely endure prolonged cutting, and struggling or screaming made precise work impossible."
+      },
+      {
+       "index": 4,
+       "text": "Surgeons were therefore judged above all by their speed, and the most celebrated operators could remove a leg in under thirty seconds."
+      },
+      {
+       "index": 5,
+       "text": "Assistants were employed less to hand over instruments than to hold the patient down, while strong drink or a blow to the jaw served as primitive forms of sedation."
+      },
+      {
+       "index": 6,
+       "text": "Unsurprisingly, many patients refused surgery altogether, preferring to live with a disease rather than face the knife awake."
+      }
+     ]
+    },
+    {
+     "id": "FT-P07-p2",
+     "label": "B",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Attempts to dull surgical pain long predated modern chemistry, but most were unreliable or dangerous."
+      },
+      {
+       "index": 2,
+       "text": "Alcohol and opium could stupefy a patient, yet their effects were so unpredictable that dosing was a gamble, and mesmerism, though fashionable in the 1840s, collapsed whenever it was tested under controlled conditions."
+      },
+      {
+       "index": 3,
+       "text": "A more promising lead came from chemistry: in 1800 the young Humphry Davy, after inhaling nitrous oxide, suggested in print that the gas might be used to relieve the pain of surgical operations."
+      },
+      {
+       "index": 4,
+       "text": "The suggestion was ignored for more than four decades, partly because Davy himself moved on to other research and partly because laughing gas was regarded as a fairground amusement rather than a serious medical tool."
+      },
+      {
+       "index": 5,
+       "text": "It was left to dentists, whose patients demanded relief from brief but intense pain, to turn these scattered observations into a practical technique."
+      }
+     ]
+    },
+    {
+     "id": "FT-P07-p3",
+     "label": "C",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "In 1842 the American physician Crawford Long removed a tumour from a patient's neck after administering ether, and the patient reported feeling nothing."
+      },
+      {
+       "index": 2,
+       "text": "Long, however, worked in a small Georgia town and did not publish his results until 1849, by which time others had claimed the credit."
+      },
+      {
+       "index": 3,
+       "text": "The decisive public demonstration came on 16 October 1846 at the Massachusetts General Hospital in Boston, where the dentist William Morton administered ether to a young man before the surgeon John Collins Warren removed a tumour from his jaw."
+      },
+      {
+       "index": 4,
+       "text": "Warren then turned to the silent operating theatre and declared, 'Gentlemen, this is no humbug.'"
+      },
+      {
+       "index": 5,
+       "text": "News crossed the Atlantic within weeks, and in December 1846 Robert Liston performed the first public operation under ether in London, remarking that the new method beat mesmerism hollow."
+      },
+      {
+       "index": 6,
+       "text": "Within a year, ether was in use in hospitals across Europe and North America, and the news had even reached military surgeons on distant battlefields."
+      }
+     ]
+    },
+    {
+     "id": "FT-P07-p4",
+     "label": "D",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Ether had drawbacks: it irritated the lungs, induced vomiting and was highly flammable near the gas lamps of Victorian theatres."
+      },
+      {
+       "index": 2,
+       "text": "In November 1847 the Edinburgh obstetrician James Young Simpson introduced chloroform, which acted faster, smelled sweeter and required much smaller quantities."
+      },
+      {
+       "index": 3,
+       "text": "Simpson first tested it on himself and two colleagues at his dinner table, an experiment that could easily have ended in disaster."
+      },
+      {
+       "index": 4,
+       "text": "Opposition to pain relief in childbirth, some of it religious, faded after 1853, when Queen Victoria accepted chloroform during the birth of her eighth child."
+      },
+      {
+       "index": 5,
+       "text": "Her physician, John Snow, was already transforming anaesthesia from a craft into a science by recording the precise dose given to each patient."
+      },
+      {
+       "index": 6,
+       "text": "Snow published detailed tables relating dosage to the depth of unconsciousness, allowing practitioners to calculate rather than guess the quantity required."
+      }
+     ]
+    },
+    {
+     "id": "FT-P07-p5",
+     "label": "E",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Chloroform's convenience concealed a serious danger, for it could stop the heart without warning."
+      },
+      {
+       "index": 2,
+       "text": "In 1848 a fifteen-year-old girl, Hannah Greener, died while receiving chloroform for the removal of a toenail, and her case became the first widely reported anaesthetic death."
+      },
+      {
+       "index": 3,
+       "text": "Subsequent investigations suggested that chloroform caused roughly one death in every 2,500 administrations, whereas ether, though slower and less pleasant, was implicated in only about one death in 20,000."
+      },
+      {
+       "index": 4,
+       "text": "The contrast forced a difficult trade-off between speed and safety that different countries resolved in different ways."
+      },
+      {
+       "index": 5,
+       "text": "British practitioners largely persisted with chloroform, trusting careful administration, while American hospitals generally favoured the safer ether."
+      },
+      {
+       "index": 6,
+       "text": "Gradually, the response took institutional form: hospitals began appointing doctors whose sole responsibility was the anaesthetic, and specialist societies and journals appeared before the end of the century."
+      },
+      {
+       "index": 7,
+       "text": "Equally important was the realisation that the anaesthetised patient had to be monitored continuously, with attention to breathing, pulse and colour, rather than simply rendered unconscious and ignored."
+      }
+     ]
+    },
+    {
+     "id": "FT-P07-p6",
+     "label": "F",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Once pain had been removed as a limiting factor, the character of surgery changed fundamentally."
+      },
+      {
+       "index": 2,
+       "text": "Operations could last for hours rather than minutes, allowing surgeons to work deliberately, to control bleeding carefully and to explore regions of the body, such as the abdomen and the chest, that had previously been closed to them."
+      },
+      {
+       "index": 3,
+       "text": "Anaesthesia also made antiseptic and later aseptic techniques worthwhile, since there was little value in a sterile operation that the patient could not survive."
+      },
+      {
+       "index": 4,
+       "text": "The two revolutions together converted surgery from a last resort, feared as much as the diseases it treated, into a routine and increasingly safe branch of medicine."
+      },
+      {
+       "index": 5,
+       "text": "Modern anaesthetists, supported by electronic monitoring and an array of precisely calibrated drugs, remain the heirs of that nineteenth-century transformation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FT-P08",
+   "title": "The Steel Box: How the Container Remade World Trade",
+   "genre": "transport and trade",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "FT-P08-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "In April 1956 a converted oil tanker named the Ideal X left the port of Newark, New Jersey, carrying fifty-eight steel boxes, each the size of a large truck trailer."
+      },
+      {
+       "index": 2,
+       "text": "Its destination was Houston, Texas, and the voyage attracted little public attention at the time."
+      },
+      {
+       "index": 3,
+       "text": "Yet the boxes on its deck, rather than the ship itself, represented the beginning of a revolution that would reshape the geography of manufacturing and cut the cost of moving goods more dramatically than any invention since the steamship."
+      },
+      {
+       "index": 4,
+       "text": "The man behind the voyage, Malcom McLean, was not a shipowner by training but a trucking entrepreneur from North Carolina who had spent years watching dockers unload his lorries piece by piece."
+      },
+      {
+       "index": 5,
+       "text": "McLean had concluded that the expensive part of transport was not the journey itself but the repeated handling of cargo at each end of it."
+      }
+     ]
+    },
+    {
+     "id": "FT-P08-p2",
+     "label": "B",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "In the traditional break-bulk system, every crate, barrel and bale was loaded and unloaded individually, and a single ship might carry thousands of separate items stowed in no particular order."
+      },
+      {
+       "index": 2,
+       "text": "Gangs of dockers swarmed over each vessel, and loading a medium-sized cargo ship could take as long as the voyage itself."
+      },
+      {
+       "index": 3,
+       "text": "Costs reflected this labour intensity: in 1956, loading a ship with loose cargo cost about $5.86 for every ton, whereas the same cargo packed into containers cost roughly $0.16 a ton to load."
+      },
+      {
+       "index": 4,
+       "text": "Containers also slashed the time ships spent in port, from days or weeks to a matter of hours, which mattered because a vessel earns money only when it is at sea."
+      },
+      {
+       "index": 5,
+       "text": "Pilferage, a chronic expense under the old system, fell sharply once goods were locked inside a sealed steel box for the entire journey."
+      }
+     ]
+    },
+    {
+     "id": "FT-P08-p3",
+     "label": "C",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "A box alone, however, was not enough; the system worked only because everyone agreed on the same box."
+      },
+      {
+       "index": 2,
+       "text": "During the 1960s, manufacturers, shipping lines and railway companies argued intensely over dimensions before settling on standard lengths of twenty and forty feet, with corner fittings that allowed any crane, lorry or train anywhere in the world to handle any container."
+      },
+      {
+       "index": 3,
+       "text": "This compatibility turned the container from a proprietary product into a universal interface, rather as a common electrical plug allows any appliance to draw power from any socket."
+      },
+      {
+       "index": 4,
+       "text": "Ports invested heavily in specialised cranes and paved storage yards, while ships were redesigned as cellular vessels whose holds were essentially racks for stacking boxes."
+      },
+      {
+       "index": 5,
+       "text": "By the early 1970s the standard had spread so completely that a container could travel from a factory in one continent to a warehouse in another without its contents being touched."
+      }
+     ]
+    },
+    {
+     "id": "FT-P08-p4",
+     "label": "D",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The new system redrew the map of maritime trade, rewarding ports that could expand and punishing those that could not."
+      },
+      {
+       "index": 2,
+       "text": "Historic inner-city docks, hemmed in by warehouses and narrow streets, withered: London's upstream docks closed one by one, and New York lost its position to the spacious container terminals across the harbour in New Jersey."
+      },
+      {
+       "index": 3,
+       "text": "Employment in dock work collapsed even more dramatically, as tasks that once required hundreds of men were performed by a handful of crane operators."
+      },
+      {
+       "index": 4,
+       "text": "In Britain, the number of registered dockers fell from around 80,000 in the late 1960s to fewer than 10,000 three decades later."
+      },
+      {
+       "index": 5,
+       "text": "Trade unions resisted fiercely, but the economics were irresistible, and governments that had once protected dock labour chose instead to subsidise new deep-water terminals."
+      },
+      {
+       "index": 6,
+       "text": "Entire dockland communities, built around casual daily hiring, dissolved within a generation."
+      }
+     ]
+    },
+    {
+     "id": "FT-P08-p5",
+     "label": "E",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Cheap and predictable transport changed the economics of manufacturing itself."
+      },
+      {
+       "index": 2,
+       "text": "When moving a component across an ocean added only a few cents to its price, factories no longer needed to stand beside their markets or their raw materials."
+      },
+      {
+       "index": 3,
+       "text": "Production fragmented into global supply chains in which a single product might be designed in California, assembled in China from Korean components, and sold in Europe."
+      },
+      {
+       "index": 4,
+       "text": "Retailers adopted just-in-time systems, holding minimal stock and treating container ships and motorways as extensions of their warehouses, secure in the knowledge that the next box would arrive on schedule."
+      },
+      {
+       "index": 5,
+       "text": "Today the overwhelming majority of the world's manufactured goods travel in containers, and the largest vessels can carry more than 20,000 twenty-foot units on a single voyage."
+      },
+      {
+       "index": 6,
+       "text": "Trade economists estimate that the container did more to expand world trade in its first two decades than all the trade agreements of the same period combined."
+      }
+     ]
+    },
+    {
+     "id": "FT-P08-p6",
+     "label": "F",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The system's triumph has brought vulnerabilities of its own."
+      },
+      {
+       "index": 2,
+       "text": "Because supply chains are tightly coupled, a single disruption — a blocked canal, a closed port, a shortage of empty boxes in the wrong place — can idle factories on several continents within days."
+      },
+      {
+       "index": 3,
+       "text": "The pandemic years exposed this fragility when freight rates for a single container on some routes rose more than fivefold, and queues of ships waited weeks outside congested ports."
+      },
+      {
+       "index": 4,
+       "text": "The environmental ledger is also mixed: shipping is relatively efficient per ton carried, yet the sheer volume of trade means the industry produces roughly three per cent of global greenhouse gas emissions."
+      },
+      {
+       "index": 5,
+       "text": "Nevertheless, no plausible alternative to the box is in sight, and ports continue to dredge deeper channels for ever larger vessels."
+      },
+      {
+       "index": 6,
+       "text": "McLean's simple insight, that the cargo should move rather than the individual items within it, has proved to be one of the most consequential ideas in the history of commerce."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FT-P09",
+   "title": "Rivers in the Ocean: The Circulation That Steadies the Climate",
+   "genre": "earth science",
+   "source": "original",
+   "license": "project-original",
+   "paragraphs": [
+    {
+     "id": "FT-P09-p1",
+     "label": "A",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The oceans are not still bodies of water but a system in continuous motion, and their largest currents rival the great rivers of the land in scale."
+      },
+      {
+       "index": 2,
+       "text": "The Gulf Stream alone transports roughly thirty million cubic metres of water every second as it leaves the Florida coast, about one hundred times the combined flow of all the rivers on Earth."
+      },
+      {
+       "index": 3,
+       "text": "Surface currents such as this are driven mainly by the winds, but beneath them moves a slower, denser circulation governed by temperature and salinity, which oceanographers call thermohaline circulation."
+      },
+      {
+       "index": 4,
+       "text": "Together, these motions form a planetary conveyor that redistributes heat, nutrients and dissolved gases between hemispheres and between the surface and the abyss."
+      },
+      {
+       "index": 5,
+       "text": "Understanding this circulation has become one of the central tasks of climate science, because changes in it could alter weather patterns far from the sea."
+      },
+      {
+       "index": 6,
+       "text": "The scale of the enterprise is easily underestimated, for the water involved is measured not in tonnes but in sverdrups, units of a million cubic metres per second."
+      }
+     ]
+    },
+    {
+     "id": "FT-P09-p2",
+     "label": "B",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The engine of the deep circulation lies in a few small regions where surface water becomes dense enough to sink."
+      },
+      {
+       "index": 2,
+       "text": "In the North Atlantic, warm salty water carried northwards is cooled by Arctic air; as sea ice forms, it expels salt into the remaining water, increasing its density still further."
+      },
+      {
+       "index": 3,
+       "text": "The resulting mass sinks two or three kilometres and spreads southwards along the ocean floor as North Atlantic Deep Water."
+      },
+      {
+       "index": 4,
+       "text": "A similar process occurs around Antarctica, where the coldest and densest water of all accumulates and creeps northwards along the bed of the Southern Ocean."
+      },
+      {
+       "index": 5,
+       "text": "Once submerged, a parcel of water may not return to the surface for a thousand years, carrying with it a chemical record of the atmosphere as it existed when it sank."
+      },
+      {
+       "index": 6,
+       "text": "Because the sinking regions are so localised, the entire deep circulation is, in principle, vulnerable to changes in a remarkably small fraction of the ocean's surface."
+      }
+     ]
+    },
+    {
+     "id": "FT-P09-p3",
+     "label": "C",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The most celebrated consequence of this circulation is the mildness of north-western Europe."
+      },
+      {
+       "index": 2,
+       "text": "Edinburgh lies at roughly the same latitude as the coast of Labrador, yet its winters are far less severe, a contrast long attributed to the heat released by the Atlantic's northward flow."
+      },
+      {
+       "index": 3,
+       "text": "In recent years, however, this textbook explanation has been qualified: atmospheric circulation and the seasonal storage of heat in the ocean also contribute substantially, and some researchers argue that the winds matter more than the currents."
+      },
+      {
+       "index": 4,
+       "text": "What is not in dispute is that the circulation transports enormous quantities of energy polewards, and that an interruption would cool the North Atlantic region even as the planet as a whole continued to warm."
+      }
+     ]
+    },
+    {
+     "id": "FT-P09-p4",
+     "label": "D",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "The geological record suggests that the conveyor has faltered before."
+      },
+      {
+       "index": 2,
+       "text": "Around 12,900 years ago, as the last ice age was ending, temperatures around the North Atlantic plunged back towards glacial conditions for more than a millennium, an episode known as the Younger Dryas."
+      },
+      {
+       "index": 3,
+       "text": "The leading explanation involves a sudden release of meltwater from a vast North American lake, which freshened the surface of the Atlantic and prevented deep water from forming."
+      },
+      {
+       "index": 4,
+       "text": "The evidence for the size, route and even existence of this flood remains contested, however, and some geologists maintain that the cooling had a different trigger altogether."
+      },
+      {
+       "index": 5,
+       "text": "What the episode demonstrates, regardless of its cause, is that the circulation can shift between states far more rapidly than was once assumed."
+      },
+      {
+       "index": 6,
+       "text": "Sediment cores and ice cores allow the timing of these shifts to be reconstructed with surprising precision."
+      }
+     ]
+    },
+    {
+     "id": "FT-P09-p5",
+     "label": "E",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Whether the Atlantic circulation is weakening today is one of the most contentious questions in climate science."
+      },
+      {
+       "index": 2,
+       "text": "Some analyses of sea-surface temperatures point to a persistent cold patch south of Greenland, interpreted as a fingerprint of a circulation that has slowed by perhaps fifteen per cent since the middle of the twentieth century."
+      },
+      {
+       "index": 3,
+       "text": "Other researchers caution that the instrumental record is short and dominated by natural variability, and that direct measurements, which began only in 2004, are too brief to establish a trend."
+      },
+      {
+       "index": 4,
+       "text": "The writer's own position is that a long-term weakening is physically plausible, given the freshening of the North Atlantic by melting ice, but that confident predictions of an imminent collapse go well beyond what the observations can support."
+      },
+      {
+       "index": 5,
+       "text": "Models consistently project a weakening over the coming century, although they disagree sharply about its magnitude and about whether a threshold exists beyond which recovery would be impossible."
+      }
+     ]
+    },
+    {
+     "id": "FT-P09-p6",
+     "label": "F",
+     "sentences": [
+      {
+       "index": 1,
+       "text": "Much now depends on observing the system directly rather than inferring its behaviour from proxies."
+      },
+      {
+       "index": 2,
+       "text": "Since 2004 an array of moored instruments across the Atlantic at the latitude of the Bahamas has measured the circulation continuously, while a fleet of some four thousand robotic Argo floats drifts through the world's oceans recording temperature and salinity."
+      },
+      {
+       "index": 3,
+       "text": "These programmes have already overturned some assumptions, revealing, for instance, that the circulation varies far more from month to month than models had suggested."
+      },
+      {
+       "index": 4,
+       "text": "They have not yet operated long enough, however, to separate a human-driven trend from natural fluctuation with confidence."
+      },
+      {
+       "index": 5,
+       "text": "Until they do, the prudent response is neither complacency nor alarm but sustained measurement, since decisions about coastal cities and agriculture will eventually have to be taken on the basis of what the instruments find."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "FT-R3-001",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Before anaesthesia, surgeons were valued mainly for how quickly they could operate.",
+   "correct": "TRUE",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói phẫu thuật viên được đánh giá trên hết ở tốc độ, người giỏi nhất tháo khớp chân trong chưa đầy ba mươi giây.",
+    "whyWrong": "FALSE sai vì bài khẳng định trực tiếp tiêu chí tốc độ. NOT GIVEN sai vì bài nêu rõ căn cứ đánh giá.",
+    "trap": "Cụm 'judged above all' là paraphrase của 'valued mainly', dễ bị bỏ qua khi đọc lướt."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P07",
+   "evidence": {
+    "paragraphId": "FT-P07-p1",
+    "sentenceIndex": 4,
+    "quote": "Surgeons were therefore judged above all by their speed, and the most celebrated operators could remove a leg in under thirty seconds."
+   }
+  },
+  {
+   "id": "FT-R3-002",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Davy tested his own suggestion by using nitrous oxide in surgical operations.",
+   "correct": "FALSE",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói gợi ý bị phớt lờ hơn bốn mươi năm và chính Davy đã chuyển sang nghiên cứu khác.",
+    "whyWrong": "TRUE sai vì Davy chưa từng thử áp dụng gợi ý của mình trong phẫu thuật. NOT GIVEN sai vì bài nêu rõ ông đã bỏ qua nó.",
+    "trap": "Bài ghi Davy hít khí cười năm 1800, dễ khiến người đọc tưởng ông đã thử nghiệm trên bệnh nhân."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P07",
+   "evidence": {
+    "paragraphId": "FT-P07-p2",
+    "sentenceIndex": 4,
+    "quote": "The suggestion was ignored for more than four decades, partly because Davy himself moved on to other research and partly because laughing gas was regarded as a fairground amusement rather than a serious medical tool."
+   }
+  },
+  {
+   "id": "FT-R3-003",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Crawford Long charged higher fees to patients who received ether.",
+   "correct": "NOT GIVEN",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài chỉ kể Long dùng ether năm 1842; chuyện ông thu phí cao hơn không hề xuất hiện.",
+    "whyWrong": "TRUE và FALSE đều thiếu căn cứ vì bài im lặng hoàn toàn về tiền phí phẫu thuật.",
+    "trap": "Chi tiết ether và bệnh nhân được nêu rất rõ, tạo cảm giác mọi thông tin về Long đều đã được cho."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P07",
+   "nearMiss": {
+    "paragraphId": "FT-P07-p3",
+    "sentenceIndex": 1,
+    "quote": "In 1842 the American physician Crawford Long removed a tumour from a patient's neck after administering ether, and the patient reported feeling nothing.",
+    "whyNotEnough": "Câu này chỉ nói Long dùng ether và bệnh nhân không thấy đau, hoàn toàn không nhắc tới tiền phí."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "fees",
+     "charged",
+     "payment",
+     "price"
+    ],
+    "result": "Không câu nào trong bài nhắc tới mức phí Long thu của bệnh nhân."
+   }
+  },
+  {
+   "id": "FT-R3-004",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "The first public operation under ether in London took place only weeks after the Boston demonstration.",
+   "correct": "TRUE",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "tfng",
+    "paraphrase-lexical"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói tin tức vượt Đại Tây Dương trong vài tuần và Liston mổ tại London vào tháng 12 năm 1846.",
+    "whyWrong": "FALSE sai vì hai mốc tháng 10 và tháng 12 năm 1846 chỉ cách nhau vài tuần. NOT GIVEN sai vì cả hai mốc đều được nêu.",
+    "trap": "Câu hỏi nén hai sự kiện ở hai câu khác nhau; cần nối mốc Boston với mốc London."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P07",
+   "evidence": {
+    "paragraphId": "FT-P07-p3",
+    "sentenceIndex": 5,
+    "quote": "News crossed the Atlantic within weeks, and in December 1846 Robert Liston performed the first public operation under ether in London, remarking that the new method beat mesmerism hollow."
+   }
+  },
+  {
+   "id": "FT-R3-005",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Why was the range of operations so limited before anaesthesia?",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói bệnh nhân tỉnh không chịu nổi việc cắt kéo dài nên chỉ làm được thủ thuật vài phút.",
+    "whyWrong": "Bài khẳng định trở ngại không phải thiếu hiểu biết giải phẫu; việc giữ bệnh nhân chỉ là hệ quả, không phải nguyên nhân giới hạn.",
+    "trap": "Lựa chọn về giải phẫu bị bài phủ định ngay câu đầu tiên, nhưng từ 'anatomy' xuất hiện khiến nó trông quen thuộc."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "Patients could not endure lengthy procedures while conscious"
+    },
+    {
+     "id": "b",
+     "text": "Surgeons knew too little about human anatomy",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "Assistants were required to restrain the patient",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "Hospitals were forbidden to attempt complex surgery",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P07",
+   "evidence": {
+    "paragraphId": "FT-P07-p1",
+    "sentenceIndex": 3,
+    "quote": "Anything more ambitious was almost unthinkable, because a conscious patient could rarely endure prolonged cutting, and struggling or screaming made precise work impossible."
+   }
+  },
+  {
+   "id": "FT-R3-006",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "What limited the impact of Crawford Long's use of ether in 1842?",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói Long mãi đến năm 1849 mới công bố, khi người khác đã được ghi công.",
+    "whyWrong": "Bệnh nhân của Long không thấy đau; ông là bác sĩ ở thị trấn nhỏ tại Georgia, không phải nha sĩ.",
+    "trap": "Từ 'dentist' thuộc về Morton ở câu sau, dễ bị gán nhầm cho Long khi đọc nhanh."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "He waited seven years before publishing what he had done"
+    },
+    {
+     "id": "b",
+     "text": "The ether he used failed to relieve his patient's pain",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "He was working as a dentist rather than a physician",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "He published his results only in a European journal",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P07",
+   "evidence": {
+    "paragraphId": "FT-P07-p3",
+    "sentenceIndex": 2,
+    "quote": "Long, however, worked in a small Georgia town and did not publish his results until 1849, by which time others had claimed the credit."
+   }
+  },
+  {
+   "id": "FT-R3-007",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "In November 1847, James Young Simpson introduced {{1}}, which acted faster than ether and was needed only in small quantities.",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Từ nguyên trong bài là 'chloroform', chất Simpson giới thiệu tháng 11 năm 1847.",
+    "whyWrong": "Ether là chất cũ chậm hơn; các từ khác không khớp mốc thời gian và đặc điểm bài nêu.",
+    "trap": "Câu hỏi giữ gần như nguyên văn vế sau của câu nguồn nên chỉ cần khớp đúng tên chất."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P07",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "chloroform"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P07-p4",
+      "sentenceIndex": 2,
+      "quote": "In November 1847 the Edinburgh obstetrician James Young Simpson introduced chloroform, which acted faster, smelled sweeter and required much smaller quantities."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-008",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "John Snow made anaesthesia more scientific by recording the exact {{1}} administered to each patient.",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết Snow ghi lại 'the precise dose' cho từng bệnh nhân.",
+    "whyWrong": "Các từ như mạch hay thân nhiệt thuộc về phần theo dõi ở đoạn sau, không phải việc Snow ghi chép ở đây.",
+    "trap": "Đoạn cuối nhắc nhiều chỉ số theo dõi, dễ khiến người làm chọn nhầm từ của đoạn khác."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P07",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "dose"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P07-p4",
+      "sentenceIndex": 5,
+      "quote": "Her physician, John Snow, was already transforming anaesthesia from a craft into a science by recording the precise dose given to each patient."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-009",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Ether was regarded as more dangerous to patients than chloroform.",
+   "correct": "FALSE",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài cho tỉ lệ tử vong do chloroform khoảng 1 trên 2.500, còn ether chỉ khoảng 1 trên 20.000.",
+    "whyWrong": "TRUE sai vì số liệu cho thấy chiều ngược lại. NOT GIVEN sai vì bài đưa con số tử vong của cả hai chất.",
+    "trap": "Chloroform được giới thiệu như chất tiến bộ hơn nên dễ bị tưởng là an toàn hơn; đây là bẫy paraphrase."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P07",
+   "evidence": {
+    "paragraphId": "FT-P07-p5",
+    "sentenceIndex": 3,
+    "quote": "Subsequent investigations suggested that chloroform caused roughly one death in every 2,500 administrations, whereas ether, though slower and less pleasant, was implicated in only about one death in 20,000."
+   }
+  },
+  {
+   "id": "FT-R3-010",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "The death of Hannah Greener is presented in the passage as significant because it",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài gọi trường hợp của cô là ca tử vong do gây mê đầu tiên được tường thuật rộng rãi.",
+    "whyWrong": "Ca mổ chỉ là cắt móng chân; bài không nhắc lệnh cấm nào và vẫn ghi ether có tử vong dù hiếm.",
+    "trap": "Chi tiết móng chân rất nhỏ nên dễ bị đọc lướt, trong khi nó là điểm phân biệt đáp án."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "was the first anaesthetic death to be widely reported"
+    },
+    {
+     "id": "b",
+     "text": "led to an immediate ban on chloroform in Britain",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "c",
+     "text": "proved that ether was entirely free of risk",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "d",
+     "text": "occurred during a major surgical operation",
+     "distractorType": "opposite"
+    }
+   ],
+   "passageId": "FT-P07",
+   "evidence": {
+    "paragraphId": "FT-P07-p5",
+    "sentenceIndex": 2,
+    "quote": "In 1848 a fifteen-year-old girl, Hannah Greener, died while receiving chloroform for the removal of a toenail, and her case became the first widely reported anaesthetic death."
+   }
+  },
+  {
+   "id": "FT-R3-011",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "By the end of the nineteenth century, anaesthesia had its own specialist societies and {{1}}.",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết các hội chuyên ngành và 'journals' xuất hiện trước cuối thế kỷ.",
+    "whyWrong": "Các từ khác không đứng cạnh 'specialist societies' trong câu nguồn.",
+    "trap": "Câu nguồn dài và chứa hai thông tin; vế về tạp chí nằm ở cuối câu."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P07",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "journals"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P07-p5",
+      "sentenceIndex": 6,
+      "quote": "Gradually, the response took institutional form: hospitals began appointing doctors whose sole responsibility was the anaesthetic, and specialist societies and journals appeared before the end of the century."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-012",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "What is the main point of the final paragraph?",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq",
+    "main-idea"
+   ],
+   "explanation": {
+    "whyCorrect": "Đoạn cuối kết luận hai cuộc cách mạng biến phẫu thuật thành ngành y thông thường và an toàn hơn.",
+    "whyWrong": "Bài không xếp hạng gây mê với sát trùng, không nói nguy hiểm đã hết hẳn và không nhắc thu nhập.",
+    "trap": "Bài nhắc thiết bị hiện đại ở câu cuối, dễ khiến người đọc chọn kết luận quá tay về an toàn."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "Removing pain transformed both what surgeons could do and the standing of surgery itself"
+    },
+    {
+     "id": "b",
+     "text": "Antiseptic techniques were more important than anaesthesia",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "Modern electronic monitors have removed all danger from anaesthesia",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "d",
+     "text": "Anaesthetists are now paid more than surgeons",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P07",
+   "evidence": {
+    "paragraphId": "FT-P07-p6",
+    "sentenceIndex": 4,
+    "quote": "The two revolutions together converted surgery from a last resort, feared as much as the diseases it treated, into a routine and increasingly safe branch of medicine."
+   }
+  },
+  {
+   "id": "FT-R3-013",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Anaesthesia made it possible to operate on areas of the body that surgeons had previously been unable to reach.",
+   "correct": "TRUE",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "tfng",
+    "paraphrase-lexical"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói phẫu thuật viên nay khám phá được bụng và ngực, những vùng trước đây khép kín với họ.",
+    "whyWrong": "FALSE sai vì bài khẳng định trực tiếp khả năng mới này. NOT GIVEN sai vì bài nêu rõ vùng cơ thể cụ thể.",
+    "trap": "'Closed to them' trong bài được paraphrase thành 'unable to reach' trong câu hỏi."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P07",
+   "evidence": {
+    "paragraphId": "FT-P07-p6",
+    "sentenceIndex": 2,
+    "quote": "Operations could last for hours rather than minutes, allowing surgeons to work deliberately, to control bleeding carefully and to explore regions of the body, such as the abdomen and the chest, that had previously been closed to them."
+   }
+  },
+  {
+   "id": "FT-R3-014",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "The Ideal X was carrying fifty-eight containers when it left Newark.",
+   "correct": "TRUE",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "tfng",
+    "specific-detail"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài mở đầu bằng con số năm mươi tám thùng thép trên tàu Ideal X rời Newark.",
+    "whyWrong": "FALSE sai vì con số được nêu nguyên văn. NOT GIVEN sai vì bài cho cả số lượng lẫn cảng đi.",
+    "trap": "Con số được viết bằng chữ 'fifty-eight' nên dễ trượt khi quét tìm dạng số."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P08",
+   "evidence": {
+    "paragraphId": "FT-P08-p1",
+    "sentenceIndex": 1,
+    "quote": "In April 1956 a converted oil tanker named the Ideal X left the port of Newark, New Jersey, carrying fifty-eight steel boxes, each the size of a large truck trailer."
+   }
+  },
+  {
+   "id": "FT-R3-015",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "In the break-bulk system, a cargo ship could usually be loaded within a few hours.",
+   "correct": "FALSE",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói việc bốc một tàu cỡ trung có thể kéo dài bằng cả chuyến hải trình.",
+    "whyWrong": "TRUE sai vì thời gian bốc hàng tính bằng ngày hoặc lâu hơn. NOT GIVEN sai vì bài so sánh trực tiếp với thời gian đi biển.",
+    "trap": "Cụm 'a matter of hours' trong bài thuộc về thời gian tàu container ở cảng, không phải hệ thống cũ."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P08",
+   "evidence": {
+    "paragraphId": "FT-P08-p2",
+    "sentenceIndex": 2,
+    "quote": "Gangs of dockers swarmed over each vessel, and loading a medium-sized cargo ship could take as long as the voyage itself."
+   }
+  },
+  {
+   "id": "FT-R3-016",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "A shipping company loads 10,000 tons of cargo. Using the figures in the passage, how much does it save in loading costs by using containers instead of loose cargo?",
+   "correct": "a",
+   "difficulty": 4,
+   "estimatedSeconds": 65,
+   "tags": [
+    "mcq",
+    "quantifier"
+   ],
+   "explanation": {
+    "whyCorrect": "Tiết kiệm mỗi tấn là 5,86 trừ 0,16 bằng 5,70 đô; nhân 10.000 tấn được 57.000 đô.",
+    "whyWrong": "58.600 đô là tổng chi phí hàng rời, 1.600 đô là tổng chi phí container; cả hai đều chưa phải khoản chênh lệch cần tìm.",
+    "trap": "Câu hỏi yêu cầu trừ hai con số trong bài trước khi nhân; chọn thẳng một con số nhìn thấy sẽ sai."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "$57,000"
+    },
+    {
+     "id": "b",
+     "text": "$58,600",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "$1,600",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "$570,000",
+     "distractorType": "over-generalization"
+    }
+   ],
+   "passageId": "FT-P08",
+   "evidence": {
+    "paragraphId": "FT-P08-p2",
+    "sentenceIndex": 3,
+    "quote": "Costs reflected this labour intensity: in 1956, loading a ship with loose cargo cost about $5.86 for every ton, whereas the same cargo packed into containers cost roughly $0.16 a ton to load."
+   }
+  },
+  {
+   "id": "FT-R3-017",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Standard containers were built in two lengths: twenty feet and {{1}} feet.",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài ghi kích thước chuẩn là 'twenty and forty feet'.",
+    "whyWrong": "Các số khác trong bài thuộc về số thùng hoặc số công nhân, không phải chiều dài chuẩn.",
+    "trap": "Bài chứa nhiều con số; cần gắn đúng con số với thuộc tính chiều dài."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P08",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "forty"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P08-p3",
+      "sentenceIndex": 2,
+      "quote": "During the 1960s, manufacturers, shipping lines and railway companies argued intensely over dimensions before settling on standard lengths of twenty and forty feet, with corner fittings that allowed any crane, lorry or train anywhere in the world to handle any container."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-018",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Cellular vessels were designed so that their holds worked as {{1}} for stacking boxes.",
+   "difficulty": 3,
+   "estimatedSeconds": 50,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết khoang tàu về bản chất là 'racks for stacking boxes'.",
+    "whyWrong": "Từ 'cranes' thuộc về thiết bị của cảng, không phải cấu trúc khoang tàu trong câu này.",
+    "trap": "Câu hỏi paraphrase phép so sánh trong bài nên phải nhận ra hình ảnh giá xếp thùng."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P08",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "racks"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P08-p3",
+      "sentenceIndex": 4,
+      "quote": "Ports invested heavily in specialised cranes and paved storage yards, while ships were redesigned as cellular vessels whose holds were essentially racks for stacking boxes."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-019",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Why was agreement on a single container design so important?",
+   "correct": "a",
+   "difficulty": 4,
+   "estimatedSeconds": 65,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nhấn mạnh phụ kiện góc chung giúp bất kỳ cần cẩu, xe tải hay tàu hỏa nào cũng xử lý được mọi container.",
+    "whyWrong": "Chuẩn gồm cả hai chiều dài hai mươi và bốn mươi feet; bài không nói luật quốc tế nào áp đặt chuẩn này.",
+    "trap": "Con số bốn mươi feet nổi bật khiến lựa chọn nói mọi thùng đều dài bốn mươi feet trông rất thuyết phục."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "It meant any container could be handled by any ship, train or lorry in the world"
+    },
+    {
+     "id": "b",
+     "text": "It required every container to be exactly forty feet long",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "It forced ports to purchase identical cranes",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "It was imposed on the industry by international law",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P08",
+   "evidence": {
+    "paragraphId": "FT-P08-p3",
+    "sentenceIndex": 2,
+    "quote": "During the 1960s, manufacturers, shipping lines and railway companies argued intensely over dimensions before settling on standard lengths of twenty and forty feet, with corner fittings that allowed any crane, lorry or train anywhere in the world to handle any container."
+   }
+  },
+  {
+   "id": "FT-R3-020",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "The first container terminals were subsidised by the government of the United States.",
+   "correct": "NOT GIVEN",
+   "difficulty": 4,
+   "estimatedSeconds": 65,
+   "tags": [
+    "tfng"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài chỉ nói các chính phủ từng bảo hộ lao động bốc xếp đã chuyển sang trợ cấp cảng nước sâu mới.",
+    "whyWrong": "TRUE thiếu căn cứ về quốc gia và thứ tự đầu tiên; FALSE cũng không có vì bài không phủ định chuyện trợ cấp.",
+    "trap": "Đoạn văn đầy chi tiết về Mỹ nên quốc tịch của khoản trợ cấp dễ bị tự suy diễn thêm."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P08",
+   "nearMiss": {
+    "paragraphId": "FT-P08-p4",
+    "sentenceIndex": 5,
+    "quote": "Trade unions resisted fiercely, but the economics were irresistible, and governments that had once protected dock labour chose instead to subsidise new deep-water terminals.",
+    "whyNotEnough": "Câu này chỉ nói các chính phủ nói chung trợ cấp cảng nước sâu mới, không nêu đó là chính phủ Mỹ hay những cảng container đầu tiên."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "United States",
+     "American",
+     "first terminals",
+     "federal"
+    ],
+    "result": "Bài không gắn trợ cấp với chính phủ Mỹ hay với các cảng container đầu tiên."
+   }
+  },
+  {
+   "id": "FT-R3-021",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "In Britain, the number of registered dockers fell from around 80,000 to fewer than {{1}} over about thirty years.",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài ghi số công nhân bốc xếp đăng ký giảm xuống dưới 10.000 sau ba thập kỷ.",
+    "whyWrong": "Con số 80.000 là điểm đầu của khoảng giảm; đáp án cần điểm cuối.",
+    "trap": "Hai con số nằm cùng một câu; chọn nhầm đầu còn lại là lỗi thường gặp."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P08",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "10,000",
+      "10000"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P08-p4",
+      "sentenceIndex": 4,
+      "quote": "In Britain, the number of registered dockers fell from around 80,000 in the late 1960s to fewer than 10,000 three decades later."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-022",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "What allowed retailers to operate just-in-time systems?",
+   "correct": "a",
+   "difficulty": 3,
+   "estimatedSeconds": 60,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói nhà bán lẻ yên tâm chiếc thùng tiếp theo sẽ đến đúng lịch nên giữ tồn kho tối thiểu.",
+    "whyWrong": "Bài nói nhà máy không còn cần đứng cạnh thị trường; tốc độ tàu so với tàu hỏa không được nhắc tới.",
+    "trap": "Từ 'warehouses' xuất hiện trong bài nhưng dưới dạng ví von, không phải điều kiện của hệ thống đúng lúc."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "The reliability of scheduled container deliveries"
+    },
+    {
+     "id": "b",
+     "text": "Warehouses located beside every factory",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "Factories moving closer to their customers",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "Container ships travelling faster than trains",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P08",
+   "evidence": {
+    "paragraphId": "FT-P08-p5",
+    "sentenceIndex": 4,
+    "quote": "Retailers adopted just-in-time systems, holding minimal stock and treating container ships and motorways as extensions of their warehouses, secure in the knowledge that the next box would arrive on schedule."
+   }
+  },
+  {
+   "id": "FT-R3-023",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "By the early 1970s, a container could cross the world without anyone handling the goods inside it.",
+   "correct": "TRUE",
+   "difficulty": 3,
+   "estimatedSeconds": 55,
+   "tags": [
+    "tfng",
+    "paraphrase-lexical"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói container đi từ nhà máy ở châu lục này tới kho ở châu lục khác mà hàng bên trong không bị chạm vào.",
+    "whyWrong": "FALSE sai vì bài khẳng định trực tiếp điều này. NOT GIVEN sai vì bài nêu rõ cả hành trình lẫn việc hàng không bị đụng tới.",
+    "trap": "'Without its contents being touched' được paraphrase thành 'without anyone handling the goods'."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P08",
+   "evidence": {
+    "paragraphId": "FT-P08-p3",
+    "sentenceIndex": 5,
+    "quote": "By the early 1970s the standard had spread so completely that a container could travel from a factory in one continent to a warehouse in another without its contents being touched."
+   }
+  },
+  {
+   "id": "FT-R3-024",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "What did the pandemic years reveal about the container system?",
+   "correct": "a",
+   "difficulty": 4,
+   "estimatedSeconds": 65,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói những năm đại dịch phơi bày sự mong manh khi giá cước tăng hơn năm lần và tàu xếp hàng chờ ngoài cảng tắc nghẽn.",
+    "whyWrong": "Giá cước tăng mạnh chứ không giảm; chuyện cần cẩu thuộc đoạn chuẩn hóa, không phải bài học rút ra từ đại dịch.",
+    "trap": "Đáp án đúng nằm ở cơ chế chuỗi cung ứng liên kết chặt được nêu ngay trước đoạn về đại dịch."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "A breakdown at one point could stop factories on several continents"
+    },
+    {
+     "id": "b",
+     "text": "Freight rates had fallen to their lowest recorded level",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "Ports had failed to invest in specialised cranes",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "d",
+     "text": "Containers were too small for modern consumer goods",
+     "distractorType": "out-of-scope"
+    }
+   ],
+   "passageId": "FT-P08",
+   "evidence": {
+    "paragraphId": "FT-P08-p6",
+    "sentenceIndex": 3,
+    "quote": "The pandemic years exposed this fragility when freight rates for a single container on some routes rose more than fivefold, and queues of ships waited weeks outside congested ports."
+   }
+  },
+  {
+   "id": "FT-R3-025",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Shipping accounts for roughly {{1}} per cent of global greenhouse gas emissions.",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài ghi ngành vận tải biển tạo ra khoảng 'three per cent' khí thải nhà kính toàn cầu.",
+    "whyWrong": "Con số năm lần thuộc về giá cước ở câu trước, không phải tỉ lệ khí thải.",
+    "trap": "Từ 'fivefold' về giá cước nằm ngay câu trước, dễ bị kéo sang câu hỏi về khí thải."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P08",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "three",
+      "3"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P08-p6",
+      "sentenceIndex": 4,
+      "quote": "The environmental ledger is also mixed: shipping is relatively efficient per ton carried, yet the sheer volume of trade means the industry produces roughly three per cent of global greenhouse gas emissions."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-026",
+   "skill": "reading",
+   "questionType": "tfng",
+   "stem": "Trade economists believe that trade agreements did more than the container to expand world trade.",
+   "correct": "FALSE",
+   "difficulty": 4,
+   "estimatedSeconds": 65,
+   "tags": [
+    "tfng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết các nhà kinh tế ước tính container làm được nhiều hơn mọi thỏa thuận thương mại cùng kỳ cộng lại.",
+    "whyWrong": "TRUE sai vì bài khẳng định chiều ngược lại. NOT GIVEN sai vì bài so sánh trực tiếp hai yếu tố.",
+    "trap": "Câu hỏi đảo ngược quan hệ so sánh trong bài; đây là bẫy paraphrase điển hình."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P08",
+   "evidence": {
+    "paragraphId": "FT-P08-p5",
+    "sentenceIndex": 6,
+    "quote": "Trade economists estimate that the container did more to expand world trade in its first two decades than all the trade agreements of the same period combined."
+   }
+  },
+  {
+   "id": "FT-R3-027",
+   "skill": "reading",
+   "questionType": "ynng",
+   "stem": "The writer accepts that the ocean circulation moves very large quantities of heat towards the poles.",
+   "correct": "YES",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng"
+   ],
+   "explanation": {
+    "whyCorrect": "Tác giả viết điều không tranh cãi là vòng tuần hoàn vận chuyển lượng năng lượng khổng lồ về hai cực.",
+    "whyWrong": "NO sai vì tác giả khẳng định trực tiếp điều này. NOT GIVEN sai vì quan điểm được nêu thành một mệnh đề rõ ràng.",
+    "trap": "Cụm 'what is not in dispute' là dấu hiệu tác giả chấp nhận, dễ bị đọc lướt qua."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "YES",
+    "NO",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P09",
+   "evidence": {
+    "paragraphId": "FT-P09-p3",
+    "sentenceIndex": 4,
+    "quote": "What is not in dispute is that the circulation transports enormous quantities of energy polewards, and that an interruption would cool the North Atlantic region even as the planet as a whole continued to warm."
+   }
+  },
+  {
+   "id": "FT-R3-028",
+   "skill": "reading",
+   "questionType": "ynng",
+   "stem": "The writer believes the cold patch south of Greenland is mainly the result of natural variability.",
+   "correct": "NOT GIVEN",
+   "difficulty": 5,
+   "estimatedSeconds": 70,
+   "tags": [
+    "ynng"
+   ],
+   "explanation": {
+    "whyCorrect": "Quan điểm riêng của tác giả chỉ nói suy yếu dài hạn là hợp lý về mặt vật lý, không gán nguyên nhân cho vùng nước lạnh.",
+    "whyWrong": "YES thiếu phát biểu của tác giả; NO cũng thiếu vì tác giả không phủ định cách giải thích đó.",
+    "trap": "Cụm 'natural variability' thuộc về lời cảnh báo của các nhà nghiên cứu khác ở câu sau, không phải tiếng nói của tác giả."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "YES",
+    "NO",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P09",
+   "nearMiss": {
+    "paragraphId": "FT-P09-p5",
+    "sentenceIndex": 2,
+    "quote": "Some analyses of sea-surface temperatures point to a persistent cold patch south of Greenland, interpreted as a fingerprint of a circulation that has slowed by perhaps fifteen per cent since the middle of the twentieth century.",
+    "whyNotEnough": "Câu này chỉ trình bày cách một số phân tích diễn giải vùng nước lạnh, không nói tác giả cho rằng biến thiên tự nhiên là nguyên nhân chính."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "cold patch",
+     "natural variability",
+     "mainly",
+     "caused"
+    ],
+    "result": "Tác giả không quy vùng nước lạnh chủ yếu cho biến thiên tự nhiên ở bất kỳ câu nào."
+   }
+  },
+  {
+   "id": "FT-R3-029",
+   "skill": "reading",
+   "questionType": "ynng",
+   "stem": "The writer is confident that the Atlantic circulation will collapse within the next few decades.",
+   "correct": "NO",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng",
+    "contradiction"
+   ],
+   "explanation": {
+    "whyCorrect": "Tác giả viết những dự đoán chắc chắn về sụp đổ sắp xảy ra vượt xa điều quan sát có thể chứng minh.",
+    "whyWrong": "YES sai vì tác giả tỏ ra hoài nghi mức độ chắc chắn đó. NOT GIVEN sai vì lập trường của tác giả được nêu nguyên văn.",
+    "trap": "Cụm 'the writer's own position' báo hiệu quan điểm cá nhân; bỏ qua cụm này sẽ dễ chọn ngược."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "YES",
+    "NO",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P09",
+   "evidence": {
+    "paragraphId": "FT-P09-p5",
+    "sentenceIndex": 4,
+    "quote": "The writer's own position is that a long-term weakening is physically plausible, given the freshening of the North Atlantic by melting ice, but that confident predictions of an imminent collapse go well beyond what the observations can support."
+   }
+  },
+  {
+   "id": "FT-R3-030",
+   "skill": "reading",
+   "questionType": "ynng",
+   "stem": "The writer suggests that the Younger Dryas cooling was triggered by a meteorite impact.",
+   "correct": "NOT GIVEN",
+   "difficulty": 5,
+   "estimatedSeconds": 70,
+   "tags": [
+    "ynng"
+   ],
+   "explanation": {
+    "whyCorrect": "Tác giả giữ thái độ trung lập về nguyên nhân, chỉ dùng sự kiện để minh họa tốc độ thay đổi của vòng tuần hoàn.",
+    "whyWrong": "YES sai vì không có gợi ý nào về thiên thạch. NO sai vì tác giả cũng không bác bỏ giả thuyết thiên thạch.",
+    "trap": "Cụm 'a different trigger' mở ra khoảng trống khiến người đọc tự điền nguyên nhân mà bài không hề nêu."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "YES",
+    "NO",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P09",
+   "nearMiss": {
+    "paragraphId": "FT-P09-p4",
+    "sentenceIndex": 4,
+    "quote": "The evidence for the size, route and even existence of this flood remains contested, however, and some geologists maintain that the cooling had a different trigger altogether.",
+    "whyNotEnough": "Câu này chỉ nói bằng chứng về trận lũ còn tranh cãi và một số nhà địa chất cho rằng có nguyên nhân khác, không nêu thiên thạch hay ý kiến của tác giả."
+   },
+   "notGivenProof": {
+    "keywordsScanned": [
+     "meteorite",
+     "impact",
+     "comet",
+     "asteroid"
+    ],
+    "result": "Bài không nhắc thiên thạch và tác giả không đề xuất nguyên nhân thay thế cụ thể nào."
+   }
+  },
+  {
+   "id": "FT-R3-031",
+   "skill": "reading",
+   "questionType": "ynng",
+   "stem": "The writer regards continued direct measurement of the circulation as essential.",
+   "correct": "YES",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "ynng"
+   ],
+   "explanation": {
+    "whyCorrect": "Tác giả kết luận phản ứng thận trọng là đo đạc bền bỉ, vì quyết định tương lai phải dựa trên số liệu thiết bị tìm được.",
+    "whyWrong": "NO sai vì tác giả khẳng định vai trò quyết định của quan sát trực tiếp. NOT GIVEN sai vì câu kết nêu rõ lập trường này.",
+    "trap": "Đáp án nằm trong câu kết luận dài ở cuối bài, nơi mệnh đề chính dễ bị chìm giữa các mệnh đề phụ."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    "YES",
+    "NO",
+    "NOT GIVEN"
+   ],
+   "passageId": "FT-P09",
+   "evidence": {
+    "paragraphId": "FT-P09-p6",
+    "sentenceIndex": 5,
+    "quote": "Until they do, the prudent response is neither complacency nor alarm but sustained measurement, since decisions about coastal cities and agriculture will eventually have to be taken on the basis of what the instruments find."
+   }
+  },
+  {
+   "id": "FT-R3-032",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Which statement best describes the writer's view of the traditional explanation for the mild winters of north-western Europe?",
+   "correct": "a",
+   "difficulty": 5,
+   "estimatedSeconds": 70,
+   "tags": [
+    "mcq",
+    "paraphrase-structural"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói cách giải thích sách giáo khoa đã bị giới hạn lại: gió và việc biển trữ nhiệt theo mùa cũng đóng góp đáng kể.",
+    "whyWrong": "Bài không bác bỏ hoàn toàn vai trò của dòng hải lưu và cũng không khẳng định điều ngược lại đã được chứng minh.",
+    "trap": "Lựa chọn nhấc nguyên chi tiết Edinburgh và Labrador từ bài nhưng né mất ý chính là sự giới hạn của giải thích cũ."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "It is partly right, but winds and seasonal heat storage also play major roles"
+    },
+    {
+     "id": "b",
+     "text": "It has now been proved completely wrong",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "c",
+     "text": "It has recently been confirmed beyond any doubt",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "It explains why Edinburgh is warmer than the coast of Labrador",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "passageId": "FT-P09",
+   "evidence": {
+    "paragraphId": "FT-P09-p3",
+    "sentenceIndex": 3,
+    "quote": "In recent years, however, this textbook explanation has been qualified: atmospheric circulation and the seasonal storage of heat in the ocean also contribute substantially, and some researchers argue that the winds matter more than the currents."
+   }
+  },
+  {
+   "id": "FT-R3-033",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "According to the passage, the combined flow of all the rivers on Earth is approximately",
+   "correct": "a",
+   "difficulty": 4,
+   "estimatedSeconds": 65,
+   "tags": [
+    "mcq",
+    "quantifier"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài nói Gulf Stream chở khoảng ba mươi triệu mét khối mỗi giây, gấp khoảng một trăm lần tổng dòng chảy của mọi con sông.",
+    "whyWrong": "Con số ba mươi triệu là lưu lượng của chính Gulf Stream; tỉ lệ đúng phải suy ra là một phần trăm.",
+    "trap": "Câu hỏi yêu cầu đảo ngược tỉ lệ trong bài; lấy nguyên con số nổi bật nhất sẽ chọn sai."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "one hundredth of the Gulf Stream's flow where it leaves Florida"
+    },
+    {
+     "id": "b",
+     "text": "thirty million cubic metres per second",
+     "distractorType": "keyword-lift"
+    },
+    {
+     "id": "c",
+     "text": "half of the Gulf Stream's flow",
+     "distractorType": "partial-truth"
+    },
+    {
+     "id": "d",
+     "text": "equal to the Gulf Stream's flow",
+     "distractorType": "opposite"
+    }
+   ],
+   "passageId": "FT-P09",
+   "evidence": {
+    "paragraphId": "FT-P09-p1",
+    "sentenceIndex": 2,
+    "quote": "The Gulf Stream alone transports roughly thirty million cubic metres of water every second as it leaves the Florida coast, about one hundred times the combined flow of all the rivers on Earth."
+   }
+  },
+  {
+   "id": "FT-R3-034",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Deep circulation begins in regions where surface water grows sufficiently {{1}} to sink.",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài mở đoạn bằng điều kiện nước mặt trở nên 'dense enough to sink'.",
+    "whyWrong": "Tính từ lạnh chỉ là một phần nguyên nhân; từ bài dùng cho điều kiện chìm là 'dense'.",
+    "trap": "Đoạn văn nhắc cả lạnh và mặn, nhưng từ quyết định mật độ mới là đáp án đúng."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P09",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "dense"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P09-p2",
+      "sentenceIndex": 1,
+      "quote": "The engine of the deep circulation lies in a few small regions where surface water becomes dense enough to sink."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-035",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "A parcel of deep water may stay beneath the surface for around {{1}} years before it rises again.",
+   "difficulty": 4,
+   "estimatedSeconds": 60,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết một khối nước chìm có thể không trở lại mặt nước trong 'a thousand years'.",
+    "whyWrong": "Con số 12.900 năm thuộc về sự kiện Younger Dryas ở đoạn sau, không phải vòng tuần hoàn của nước sâu.",
+    "trap": "Bài chứa mốc thời gian rất nổi bật ở đoạn sau, dễ bị kéo nhầm vào câu hỏi này."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P09",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "a thousand",
+      "one thousand",
+      "1,000",
+      "1000"
+     ],
+     "maxWords": 2,
+     "evidence": {
+      "paragraphId": "FT-P09-p2",
+      "sentenceIndex": 5,
+      "quote": "Once submerged, a parcel of water may not return to the surface for a thousand years, carrying with it a chemical record of the atmosphere as it existed when it sank."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-036",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "According to the writer, the Younger Dryas episode demonstrates that",
+   "correct": "a",
+   "difficulty": 5,
+   "estimatedSeconds": 70,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Tác giả viết sự kiện cho thấy vòng tuần hoàn có thể chuyển trạng thái nhanh hơn nhiều so với giả định trước đây, bất kể nguyên nhân.",
+    "whyWrong": "Bài nói bằng chứng trận lũ vẫn còn tranh cãi, không bị bác bỏ hẳn, và đợt lạnh chỉ quanh Bắc Đại Tây Dương.",
+    "trap": "Cụm 'regardless of its cause' là chìa khóa; bỏ qua nó sẽ biến sự kiện thành bằng chứng cho giả thuyết trận lũ."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "the circulation can switch between states much faster than was once thought"
+    },
+    {
+     "id": "b",
+     "text": "meltwater floods are the only possible cause of rapid cooling",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "c",
+     "text": "the flood explanation has been conclusively disproved",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "glacial conditions returned all over the world for a thousand years",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "passageId": "FT-P09",
+   "evidence": {
+    "paragraphId": "FT-P09-p4",
+    "sentenceIndex": 5,
+    "quote": "What the episode demonstrates, regardless of its cause, is that the circulation can shift between states far more rapidly than was once assumed."
+   }
+  },
+  {
+   "id": "FT-R3-037",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "Continuous direct measurement of the Atlantic circulation by moored instruments began in {{1}}.",
+   "difficulty": 5,
+   "estimatedSeconds": 65,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài mở đoạn cuối bằng mốc 'Since 2004' cho hệ thống thiết bị neo đo liên tục.",
+    "whyWrong": "Các mốc khác trong bài thuộc về giữa thế kỷ hai mươi hoặc sự kiện cổ khí hậu.",
+    "trap": "Mốc 2004 còn xuất hiện ở đoạn trước về ghi chép thiết bị, cần gắn đúng với hệ thống đo trực tiếp."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P09",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "2004"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P09-p6",
+      "sentenceIndex": 2,
+      "quote": "Since 2004 an array of moored instruments across the Atlantic at the latitude of the Bahamas has measured the circulation continuously, while a fleet of some four thousand robotic Argo floats drifts through the world's oceans recording temperature and salinity."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-038",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "Why does the writer mention the Argo floats?",
+   "correct": "a",
+   "difficulty": 4,
+   "estimatedSeconds": 65,
+   "tags": [
+    "mcq"
+   ],
+   "explanation": {
+    "whyCorrect": "Phao Argo được nêu ngay sau mệnh đề về việc phải quan sát trực tiếp thay vì suy luận qua dữ liệu gián tiếp.",
+    "whyWrong": "Bài nói thiết bị đã lật đổ một số giả định của mô hình; phao hoạt động khắp đại dương chứ không chỉ quanh Nam Cực.",
+    "trap": "Chi tiết nhiệt độ và độ mặn là thật nhưng chỉ là mô tả phụ; câu hỏi hỏi mục đích tác giả nêu phao."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "To illustrate the move towards observing the ocean directly"
+    },
+    {
+     "id": "b",
+     "text": "To show that computer models have proved highly accurate",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "c",
+     "text": "To argue that moored instruments are no longer necessary",
+     "distractorType": "out-of-scope"
+    },
+    {
+     "id": "d",
+     "text": "To record temperature and salinity around Antarctica",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "passageId": "FT-P09",
+   "evidence": {
+    "paragraphId": "FT-P09-p6",
+    "sentenceIndex": 2,
+    "quote": "Since 2004 an array of moored instruments across the Atlantic at the latitude of the Bahamas has measured the circulation continuously, while a fleet of some four thousand robotic Argo floats drifts through the world's oceans recording temperature and salinity."
+   }
+  },
+  {
+   "id": "FT-R3-039",
+   "skill": "reading",
+   "questionType": "sentence",
+   "stem": "The observing programmes revealed that the circulation is far more {{1}} from month to month than models had suggested.",
+   "difficulty": 5,
+   "estimatedSeconds": 65,
+   "tags": [
+    "sentence"
+   ],
+   "explanation": {
+    "whyCorrect": "Bài viết vòng tuần hoàn 'varies far more from month to month' so với mô hình dự đoán.",
+    "whyWrong": "Đáp án phải là tính từ chỉ mức biến động; các từ khác không hoàn chỉnh được cấu trúc so sánh này.",
+    "trap": "Bài dùng động từ 'varies' trong khi chỗ trống cần tính từ, nên phải đổi dạng từ cho đúng ngữ pháp."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "passageId": "FT-P09",
+   "blanks": {
+    "1": {
+     "acceptedAnswers": [
+      "variable"
+     ],
+     "maxWords": 1,
+     "evidence": {
+      "paragraphId": "FT-P09-p6",
+      "sentenceIndex": 3,
+      "quote": "These programmes have already overturned some assumptions, revealing, for instance, that the circulation varies far more from month to month than models had suggested."
+     }
+    }
+   }
+  },
+  {
+   "id": "FT-R3-040",
+   "skill": "reading",
+   "questionType": "mcq",
+   "stem": "What is the writer's main conclusion in the final paragraph?",
+   "correct": "a",
+   "difficulty": 5,
+   "estimatedSeconds": 70,
+   "tags": [
+    "mcq",
+    "main-idea"
+   ],
+   "explanation": {
+    "whyCorrect": "Tác giả kết luận phản ứng thận trọng không phải tự mãn cũng không hoảng loạn, mà là đo đạc bền bỉ.",
+    "whyWrong": "Bài nói các chương trình chưa tách được xu hướng do con người gây ra, chứ không nói việc đó là không thể mãi mãi.",
+    "trap": "Chi tiết thành phố ven biển nằm ở mệnh đề phụ cuối câu, dễ bị nhầm thành kết luận chính."
+   },
+   "source": "original",
+   "license": "project-original",
+   "reviewedBy": [
+    "content-review"
+   ],
+   "blindSolve": {
+    "solvers": 1,
+    "matched": 1
+   },
+   "lastReviewed": "2026-10-25",
+   "status": "published",
+   "options": [
+    {
+     "id": "a",
+     "text": "Neither alarm nor complacency is justified; sustained observation is what is needed"
+    },
+    {
+     "id": "b",
+     "text": "The circulation is certain to collapse within this century",
+     "distractorType": "over-generalization"
+    },
+    {
+     "id": "c",
+     "text": "Natural fluctuation makes a human-driven trend impossible to identify",
+     "distractorType": "opposite"
+    },
+    {
+     "id": "d",
+     "text": "Coastal cities should be redesigned immediately",
+     "distractorType": "keyword-lift"
+    }
+   ],
+   "passageId": "FT-P09",
+   "evidence": {
+    "paragraphId": "FT-P09-p6",
+    "sentenceIndex": 5,
+    "quote": "Until they do, the prudent response is neither complacency nor alarm but sustained measurement, since decisions about coastal cities and agriculture will eventually have to be taken on the basis of what the instruments find."
+   }
+  }
+ ]
+}

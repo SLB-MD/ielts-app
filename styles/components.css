@@ -18,3 +18,8 @@
 .task-list { list-style: none; margin: 0; padding: 0; }
 .task-list li { padding: 12px 0; border-bottom: 1px solid var(--line); min-height: 44px; }
 .tag-mode { font-size: 0.875rem; }
+.section-title { font-size: 1.125rem; margin: 24px 0 4px; }
+.item-meta { display: block; color: var(--ink-2); font-size: 0.875rem; margin-top: 2px; }
+.level-tier { font-size: 1.0625rem; font-weight: 700; margin: 0 0 4px; }
+.exam-card { display: block; color: var(--ink); text-decoration: none; }
+.exam-title { display: block; font-weight: 600; }

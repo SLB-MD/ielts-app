@@ -152,6 +152,26 @@
    "id": "L-U10",
    "file": "unit-l-u10.json",
    "status": "published"
+  },
+  {
+   "id": "R-U15",
+   "file": "unit-r-u15.json",
+   "status": "published"
+  },
+  {
+   "id": "R-U16",
+   "file": "unit-r-u16.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U15",
+   "file": "unit-l-u15.json",
+   "status": "published"
+  },
+  {
+   "id": "L-U16",
+   "file": "unit-l-u16.json",
+   "status": "published"
   }
  ]
 }

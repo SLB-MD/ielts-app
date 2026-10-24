@@ -51,6 +51,27 @@
    "prompt": "The chart below shows the volume of freight, in million tonnes, transported by three methods (sea, rail and road) in a European country in 2000, 2010 and 2020. The data: sea freight rose steadily from 120 million tonnes in 2000 to 150 million tonnes in 2010 and 185 million tonnes in 2020; rail freight increased slightly from 60 million tonnes in 2000 to 75 million tonnes in 2010, then remained stable at 75 million tonnes in 2020; road freight grew rapidly from 200 million tonnes in 2000 to 260 million tonnes in 2010 and 310 million tonnes in 2020, and it was the largest method in all three years. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
    "sample": null,
    "annotations": []
+  },
+  {
+   "id": "W-T2-04",
+   "task": 2,
+   "type": "Discussion",
+   "prompt": "Some people believe governments should spend more on preventing diseases than on treating them. Discuss both views and give your own opinion.",
+   "sample": "Governments have limited health budgets and must decide where spending does the most good. Some argue that prevention deserves priority, while others insist that treating existing illness must come first. In my view, prevention should receive the larger share, provided that essential treatment remains funded.\n\nSupporters of prevention point out that many common diseases develop slowly and can be avoided at low cost. Vaccination programmes, screening for cancer and public campaigns against smoking all reduce the number of patients who later need expensive hospital care. Preventing illness also protects productivity, because healthy workers take fewer days off and healthy children miss less school. From an economic perspective, every unit spent early can save several units later.\n\nOthers argue that treatment cannot be postponed, because patients who are already ill have an immediate right to care. A person with a broken leg or diabetes cannot wait while officials invest in long-term campaigns. Treatment also has a human value that spreadsheets ignore: relieving pain and restoring independence matter in themselves. If governments shifted too much money away from hospitals, waiting lists would grow and public trust would fall.\n\nA balanced approach is therefore essential, but the balance should still favour prevention. One practical model is to protect a fixed treatment budget for emergencies and chronic care, while directing most new investment towards clinics that offer check-ups, advice on diet and support for people trying to stop smoking. Such services reach large numbers cheaply, and their benefits accumulate year after year without removing care from those who need it today.\n\nIn conclusion, treating the sick will always be a duty of the state, yet a system that only reacts to illness will become unaffordable. Increasing spending on prevention, while safeguarding essential treatment, offers the fairest and most sustainable path.",
+   "annotations": [
+    "Hoàn thành yêu cầu: đề yêu cầu bàn cả hai quan điểm và nêu ý kiến cá nhân; mở bài chốt ưu tiên phòng bệnh nhưng vẫn bảo đảm ngân sách điều trị thiết yếu, kết bài giữ nguyên lập trường đó.",
+    "Mạch lạc và liên kết: hai đoạn thân đầu trình bày lần lượt quan điểm phòng bệnh và quan điểm điều trị, đoạn bốn mới đề xuất mô hình cân bằng, các tín hiệu chuyển ý như while, therefore và yet được dùng rõ ràng.",
+    "Từ vựng: collocation chủ đề y tế và chính sách công dùng chính xác, như vaccination programmes, screening for cancer, chronic care và waiting lists.",
+    "Ngữ pháp: câu phức điều kiện và nhượng bộ xen câu đơn ngắn để nhấn mạnh, mệnh đề quan hệ và cấu trúc bị động xuất hiện vừa phải, thì động từ nhất quán toàn bài."
+   ]
+  },
+  {
+   "id": "W-T1-03",
+   "task": 1,
+   "type": "Process (described in words)",
+   "prompt": "The diagram below shows how parcels are sorted at a large logistics centre before delivery to customers. The process: first, trucks bring parcels to the receiving dock, where workers unload them and scan each label to record the sender, the destination and the weight; second, the parcels move along a conveyor belt through an automatic scanner, which reads the postcode and directs each parcel towards the correct sorting area; third, sorting machines separate the parcels into large bins according to delivery area, while workers inspect by hand any parcel whose label is damaged or unclear; fourth, the sorted parcels are packed into wheeled cages and loaded onto delivery vans in the order of the planned route; finally, the vans travel to local depots, where drivers collect their loads and deliver the parcels, asking each customer to sign on a handheld device as proof of delivery. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+   "sample": null,
+   "annotations": []
   }
  ],
  "checklist": [

@@ -6,13 +6,15 @@ import { addXp, markStudyDay } from "../gamify-ui.js";
 
 let test = null, answers = {}, startedAt = 0, timerInt = null, paused = false, pauseUsed = false, timeLeft = 0;
 
-const TEST_FILES = { "MT-01": "mini-test-01.json", "MT-02": "mini-test-02.json", "MT-03": "mini-test-03.json", "MT-04": "mini-test-04.json", "MT-05": "mini-test-05.json", "MT-06": "mini-test-06.json", "FT-R01": "full-test-r01.json", "FT-L01": "full-test-l01.json", "FT-R02": "full-test-r02.json", "FT-L02": "full-test-l02.json" };
+const TEST_FILES = { "MT-01": "mini-test-01.json", "MT-02": "mini-test-02.json", "MT-03": "mini-test-03.json", "MT-04": "mini-test-04.json", "MT-05": "mini-test-05.json", "MT-06": "mini-test-06.json", "FT-R01": "full-test-r01.json", "FT-L01": "full-test-l01.json", "FT-R02": "full-test-r02.json", "FT-L02": "full-test-l02.json", "FT-R03": "full-test-r03.json", "FT-L03": "full-test-l03.json" };
 const TEST_TITLES = { "MT-01": "Mini test 1", "MT-02": "Mini test 2", "MT-03": "Mini test 3", "MT-04": "Mini test 4", "MT-05": "Mini test 5", "MT-06": "Mini test 6" };
 const FULL_TESTS = [
   { id: "FT-R01", label: "Full Reading test 1 · 40 câu · khoảng 60 phút" },
   { id: "FT-L01", label: "Full Listening test 1 · 40 câu · khoảng 40 phút" },
   { id: "FT-R02", label: "Full Reading test 2 · 40 câu · khoảng 60 phút" },
   { id: "FT-L02", label: "Full Listening test 2 · 40 câu · khoảng 40 phút" },
+  { id: "FT-R03", label: "Full Reading test 3 · y tế, logistics, khoa học · 40 câu · khoảng 60 phút" },
+  { id: "FT-L03", label: "Full Listening test 3 · phòng khám, kho vận, học thuật · 40 câu · khoảng 40 phút" },
 ];
 
 export async function renderTestHome(root) {
@@ -53,19 +55,19 @@ export async function renderTest(root, params) {
     if (timeLeft <= 0) { clearInterval(timerInt); submit(root); }
   };
   timerInt = setInterval(tick, 1000); tick();
-  for (const p of test.passages) {
+  for (const p of test.passages || []) {
     const wrap = el("div");
     for (const par of p.paragraphs) { const pp = el("p", par.sentences.map((x) => x.text).join(" "), "reading"); pp.lang = "en"; wrap.append(pp); }
     main.append(wrap);
   }
-  for (const clip of test.clips) {
+  for (const clip of test.clips || []) {
     const b = el("button", "Nghe: " + clip.title);
     b.addEventListener("click", () => speakLines(clip.lines));
     main.append(b);
   }
   test.items.forEach((item, i) => {
     const sec = el("section", null, "card");
-    sec.append(el("p", "Câu " + (i + 1) + ". " + item.stem, "reading")).children;
+    sec.append(el("p", "Câu " + (i + 1) + ". " + item.stem, "reading"));
     const stemEl = sec.querySelector("p"); stemEl.lang = "en";
     if (item.options && typeof item.options[0] === "string") {
       for (const o of item.options) {
